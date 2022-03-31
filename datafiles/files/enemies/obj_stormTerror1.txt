@@ -1,0 +1,27 @@
+Storm Terror
+spr_stormTerror
+4 
+4 
+12 
+24 
+10 
+22 
+10 
+14 
+15 
+40 
+250 
+1115 
+10 
+10 
+14 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+415 
+powers
+327 

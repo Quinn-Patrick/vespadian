@@ -1,0 +1,19 @@
+Human
+Beast
+Bug
+Plant
+Dragon
+Ooze
+Air Elemental
+Water Elemental
+Earth Elemental
+Fire Elemental
+Aether Elemental
+Ice Elemental
+Electricity Elemental
+Demon
+Outsider
+Aberration
+Undead
+Construct
+Giant

@@ -1,0 +1,52 @@
+1
+Attack Down!
+2
+Physical Defense Down!
+3
+Speed Down!
+4
+Accuracy Down!
+5
+Evasion Down!
+6
+Magic Power Down!
+7
+Heat Resistance Down!
+8
+Cold Resistance Down!
+9
+Electric Resistance Down!
+10
+Poison Resistance Down!
+11
+Aether Resistance Down!
+12
+Vital Resistance Down!
+13
+Mind Resistance Down!
+14
+Will whither away!
+15
+Will lose SP!
+16
+No Longer Poisoned!
+17
+No Longer Paralyzed!
+18
+No Longer Petrified!
+19
+No Longer Stunned!
+20
+No Longer Hidden!
+21
+No Longer Blinded!
+22
+Slowed!
+32
+Woke Up!
+38
+No longer cursed!
+41
+No longer heartbroken!
+42
+No longer bleeding!

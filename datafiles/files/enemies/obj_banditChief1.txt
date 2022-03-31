@@ -1,0 +1,26 @@
+Bandit Chief
+spr_banditChief
+0 
+72 
+74 
+81 
+74 
+58 
+48 
+62 
+60 
+5 
+2800
+14995
+20 
+0 
+-1 
+130 
+0 
+0 
+0 
+0 
+0 
+abilities
+407 
+powers

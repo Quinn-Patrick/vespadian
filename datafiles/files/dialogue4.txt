@@ -1,0 +1,458 @@
+1
+Al: Where are we now?
+2
+Eric: We've just made it to Port Town.
+3
+It's a port... town.
+4
+Al: Always creative naming.
+5
+Frida: My parents used to take me here when they would come to meet diplomats and the like.
+6
+I always love watching the ships come in and out. So romantic...
+7
+I just wish Hector was here.
+8
+Al: Who?
+9
+Frida: Hector is my fiance. We're going to get married when I turn 16.
+10
+Al: Oho! You jealous, Eric?
+11
+Eric: N-no! Hector is a good friend of mine from the knight academy. I respect him a lot.
+12
+Frida: You should follow my example, Mary.
+13
+Mary: Hm?
+14
+Frida: Learn to be a proper lady, and one day maybe a nice boy will want to marry you, too.
+15
+Mary: A boy?
+16
+Uh... I dunno...
+17
+Frida: Hmph! Well if you ever want to go anywhere in the world, you'll need to find a husband.
+18
+Mary: Really? O-Okay...
+19
+Eric: *gasp*
+20
+Mary: Doggies!
+21
+Mary runs up to pet the dogs.
+22
+Frida: Mary! You have to ask permission first!
+23
+I'm sorry for her, sir.
+24
+???: Don't fret, lassie. They be tamer'n lambs.
+25
+Mulvaney: Call me Mulvaney. Captain Mulvaney if yer feelin' proper.
+26
+Frida: I'm Frida, Daughter of Frederick.
+27
+Eric: ...
+28
+Al: I'm uhh... Alamand of Amharra.
+29
+Eric?
+30
+Eric: Oh. Sorry. I'm E-
+31
+Eric.
+32
+Mulvaney: And this lass be Mary, as I heard yee shoutin'.
+33
+Mary: Are you a pirate?
+34
+Mulvaney: Arg arg arr! No, I be an honest sailor.
+35
+And a lucky one, to be happenin' on a daughter of nobility, and an emissary of distant lands.
+36
+Al: Aw shucks, Captain, we're really no big deal.
+37
+Mulvaney: Humility be a rare trait in the youths o' today.
+38
+That, and me canine crew seems to've taken a likin' tah yee.
+39
+Fer that, I'll let you in on a sailor's secret.
+40
+Al: Woah, what kind of secret.
+41
+Mulvaney: It be... that while I be no pirate, I do have pirate's treasure.
+42
+Mary: Treasure?
+43
+Frida: Is that true?
+44
+Mulvaney: Aye, as true as the deep blue.
+45
+Al: Well don't hold out on us, where's it hidden!?
+46
+Mulvaney: I can't be tellin' yee that! Only me crew on the Hyperion knows where I be hidin' me treasure.
+47
+Argargarg!
+48
+Mulvaney walks off.
+49
+Al: Okay, let's go find out where that treasure's hidden.
+50
+Frida: You can't be that stupid. He was messing with us!
+51
+Al: C'mon, Frida, don't be such a downer. You really think he would just lie to us?
+52
+What do you think, Mary?
+53
+Mary: Umm... 
+54
+I believe him.
+55
+Frida: UGH. No one cares what Mary thinks.
+56
+Eric: I think... we should have a look around that ship.
+57
+The Hyperion, right?
+58
+Frida: Why is it always me against everyone?
+59
+First Mate: Hey! What are kids doing here?
+60
+Skipper: Yeah, we ain't doin' tours.
+61
+Mary: Busted...
+62
+Al: ...Hm? You're talking to us?
+63
+First Mate: I don't see anyone else around, do you?
+64
+Al: Oh, well, we're just here for a...
+65
+School project.
+66
+Skipper: A school project?
+67
+Al: Yeah. We're supposed to write a report on...
+68
+Sailing ship engineering.
+69
+Mary: Like, how do you keep the water out?
+70
+Al: Exactly. I have no idea.
+71
+First Mate: Well, alright, you can look around.
+72
+Skipper: Are you nuts? They're obviously lying!
+73
+Al: What? Are you accusing me?
+74
+Skipper: I'm just saying-
+75
+Al: Cause if we don't do well on this assignment... uh...
+76
+Then Frida will have to repeat a grade!
+77
+Frida: Excuse me!?
+78
+Al: Between you and me, she's embarrassed by her bad grades.
+79
+Skipper: Fine, fine. Just don't touch anything.
+80
+Eric: Wow, Al. That felt practiced.
+81
+Al: Yeah, I've done a few fake school projects in my day. Let's keep moving.
+82
+Mary: Fake? So Frida's not failing in school?
+83
+Frida: My grades are excellent!
+84
+Mary: That's a relief...
+85
+Eric: Look, a map.
+86
+Frida: This looks like a map of Elta. Why would they have that on a ship?
+87
+Don't you think they would have sea charts and stuff?
+88
+Al: Let's have a closer look.
+89
+Mary: Look! It's an 'X'!
+90
+Al: 'X' marks the spot!
+91
+Eric: It's between El Trice and Havenheit. Not far from home.
+92
+Frida: It must be that old shack.
+93
+...Not that I want to go
+94
+Al: Hey, here it is! It's real!!
+95
+Gold! Jewels! All of it!
+96
+Mary: We're like real pirates!
+97
+Al: Forget that, we're really rich!
+98
+Frida: Ugh, what did you do!?
+99
+Al: I didn't do anything! 
+100
+Eric: That was the only way out.
+101
+We're... trapped.
+102
+Mary: Wh-
+103
+What?
+104
+T-t-t-t-trapped?
+105
+Are we gonna die?
+106
+Eric: ...
+107
+Mary: *sob*
+108
+Frida: We've gotta find a way out.
+109
+Al, isn't there some spell you can use to move the rocks or something?
+110
+Al: Sorry, I don't know anything like that.
+111
+Frida: Then we really are trapped.
+112
+Mary: Waaaaah!
+113
+Al: Try to stay calm, Mary. We'll find a way out of this.
+114
+Frida: Eric, do something!
+115
+Don't forget what you said!
+116
+Al: Let's just... sit down and think.
+117
+Hours pass...
+118
+Al: Well, there's nothing in the treasure pile we can use.
+119
+Frida: It's hopeless...
+120
+Mary: *Whimper*
+121
+Al: What about you, Eric? You haven't said a thing.
+122
+Pregnant silence...
+123
+Frida: Eric!
+124
+Do something!
+125
+What happened to the way you were in the library! You stood up to a-
+126
+To Elk.
+127
+Al: She's actually right this time. And you took on a huge responsibility, there.
+128
+Eric: ...So?
+129
+Al: So c'mon! Get off your butt and get it together!
+130
+Eric: I'm not a miracle worker. What am I supposed to do?
+131
+Al: I dunno! 
+132
+Hey, at least I'm not afraid of dogs!
+133
+Eric: Urk! Wha- what are you talking about!?
+134
+Al: Don't be dumb. Back in Port Town. You saw those dogs coming and went white as a ghost.
+135
+You're as scared of dogs as Mary is of taking a bath.
+136
+Eric: *sob*
+137
+Al: Oh, and here come the waterworks. Look at the big, tough knight.
+138
+I can't believe it! He's supposed to be looking after us, and he's just a sniveling coward!
+139
+Al: Hey! Did you throw your shoe at me!?
+140
+Al: Wha- is that?
+141
+Frida: It's a scar from a dog bite.
+142
+Eric: When I was, I dunno, 7? Maybe 8?
+143
+There was this mean old man who lived near where I went to school.
+144
+His dog was even meaner.
+145
+The other boys would always bug it, but it couldn't get them 'cause there was a fence.
+146
+One day they lost something in the old guy's yard, and they dared me to go and get it.
+147
+I waited 'til the dog was asleep and hopped the fence.
+148
+Al: It woke up, huh?
+149
+Eric: Yeah. I just remember thinking I was gonna lose my whole foot, it latched on so tight...
+150
+After that they had the dog put down.
+151
+And...
+152
+My dad told me if the dog was rabid...
+153
+Then I would die, too.
+154
+Frida: Your own dad said that?
+155
+Eric: Yeah.
+156
+It wasn't, of course. I'm still here.
+157
+But... for a kid, that was basically how I learned about death as a concept.
+158
+So now whenever I see a dog, I just think of the way it looked at me when it woke up, and...
+159
+Mary: But...
+160
+Eric: Huh?
+161
+Mary: But you didn't die.
+162
+Eric: Well sure, but it was still scary!
+163
+Al: I don't think that's what she meant.
+164
+Frida: I get it...
+165
+Eric: Huh?
+166
+Al: I think what she means is that was one time you thought you were gonna die, but you didn't.
+167
+So if you can cheat death once, why not twice?
+168
+Eric: GYAAAAAAAAAH!
+169
+Al: Yes! YES!
+170
+I don't know how it's possible, but he's doing it!
+171
+Eric: GYAAAAAAAAAAAAAAAAAAAAH!
+172
+Al: I can see light!
+173
+Frida: Don't overexert! You'll hurt yourself!
+174
+Al: Don't tell him that! Overexert! Exert as much as you need to!
+175
+Eric collapses.
+176
+Eric: *pant* *gasp*
+177
+???: Is someone in there?
+178
+Frida: That voice...
+179
+Al: Is that...
+180
+Mary: ...really him?
+181
+Mulvaney: There yee be!
+182
+Al: Captain!
+183
+Mulvaney: How long have yee been down here?
+184
+Frida: Days!
+185
+Al: About four hours.
+186
+Mulvaney: This hole in the rocks looks about big enough to fit yee through. Just sit tight and I'll have yee outta thar!
+187
+Mulvaney helps remove the party from the treasure room.
+188
+Mulvaney: I thought I'd find yee here after me key turned up missin'.
+189
+You know you shouldn't be takin' other people's things.
+190
+Al: Wha? But-but-but-
+191
+Eric: So why did you tell us about the treasure?
+192
+Mulvaney: To mess with yee!
+193
+Al: What? No! Frida can't be right!
+194
+Frida: You'll learn, honey. I'm always right.
+195
+Mulvaney: Still, I'm more than impressed that yee made it here.
+196
+How about this from me hoard as a token of my respect.
+197
+Obtained a Thorn of Benelohim!
+198
+Eric: Is it valuable?
+199
+Mulvaney: Perhaps in the right hands, aye.
+200
+...
+201
+I still be messin' wit yee! As far as I know, it be worthless!
+202
+Al: Aw, well. Thanks for helping us get out, Captain.
+203
+Mulvaney: Don't mention it.
+204
+As the party is about to leave the dungeon...
+205
+Mary: Eric.
+206
+Eric: Hm? What is it, Mary?
+207
+Mary: ...back there, you looked really...
+208
+...pathetic.
+209
+Eric: Agh! What are you trying to say!?
+210
+Mary: But then...
+211
+The way you moved those rocks was awesome.
+212
+Even though you were still crying.
+213
+Eric: ...Thanks?
+214
+Mary: How did you do it?
+215
+Eric: I guess I...
+216
+...saw your face after you heard my story.
+217
+You looked like you had hope, and I didn't want to let you down.
+218
+And then I just felt strong.
+219
+Mary: That's sweet.
+220
+Frida said I have to find a husband...
+221
+Eric: Wh-what?
+222
+Well, you don't have to do everything Frida says, y'know!
+223
+Mary: That's a relief.
+224
+...you're all red.
+225
+Did you think I was talking about you?
+226
+Eric: You weren't?
+227
+Mary: No. It was just... on my mind.
+228
+Eric: Oh. Okay.
+229
+Phew.

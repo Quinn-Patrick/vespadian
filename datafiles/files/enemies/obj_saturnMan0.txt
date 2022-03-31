@@ -1,0 +1,26 @@
+Saturn Man
+spr_saturnMan
+4 
+20 
+20 
+20 
+5 
+99 
+20 
+20 
+20 
+5 
+4000 
+1000 
+20 
+12 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+powers
+428 

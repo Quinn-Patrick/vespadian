@@ -1,0 +1,40 @@
+Converting GML script: ${project_dir}\scripts\initialize\initialize.gml
+Converted builtin - line 20: view_wview[0]=1024 -> __view_set( e__VW.WView, 0, 1024 )
+Converted builtin - line 21: view_hview[0]=768 -> __view_set( e__VW.HView, 0, 768 )
+
+Converting GML script: ${project_dir}\scripts\readMap\readMap.gml
+Converted description /// @description read_bmp(filename)/// @function read_bmp
+/// @param filename
+
+Converting GML script: ${project_dir}\scripts\showText\showText.gml
+Converted builtin - line 3: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_yview[0] -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description initialize variables
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted builtin - line 81: view_xview[0] = x-512 -> __view_set( e__VW.XView, 0, x-512 )
+Converted builtin - line 82: view_yview[0] = y-384 -> __view_set( e__VW.YView, 0, y-384 )
+Converted description /// @description gameplay
+
+Converting GML script: ${project_dir}\objects\obj_npcTest\Create_0.gml
+Converted description /// @description initialize event
+
+Converting GML script: ${project_dir}\objects\obj_npcTest2\Create_0.gml
+Converted description /// @description initialize event
+
+Converting GML script: ${project_dir}\objects\obj_solid\Step_2.gml
+Converted description /// @description make new solid
+
+Converting GML script: ${project_dir}\objects\obj_solid\Step_1.gml
+Converted description /// @description make objects solid
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Game speed set to 60
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'

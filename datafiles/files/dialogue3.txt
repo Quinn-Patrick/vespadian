@@ -1,0 +1,440 @@
+1
+Eric: This seems like a good place to make camp.
+2
+They won't think to look in the mountains.
+3
+Frida: Finally. I'm so tired...
+4
+So no one had better wake me up!
+5
+Late that night...
+6
+Mary: EVERYONE WAKE UUUUUP!
+7
+Eric: Wha-wh-wha-
+8
+What is it?
+9
+Frida: That does it, Mary, I am officially never praying for you again. I told you not to wake me up!
+10
+Mary: But it's important! I saw something!
+11
+Eric: Was it the Lord's Army?
+12
+Al: Oh man, do we have to leave?
+13
+Mary: No, it was something up the mountain.
+14
+Eric: What? Are we in danger?
+15
+Mary: Umm...
+16
+I dunno.
+17
+Frida: Please just go to sleep.
+18
+Eric: Okay, Mary, tell me about what you saw.
+19
+Mary: It was a huuuuuge man. He was really hairy. He looked out from behind a rock and ran away up the mountain.
+20
+I think he saw us and got scared.
+21
+Al: What? A huge, hairy, mountain-dwelling man?
+22
+There's only one thing that could be.
+23
+Frida: Please stop talking...
+24
+Al: An ape man!
+25
+Eric: An ape man?
+26
+Al: Yeah, you know.
+27
+A yeti. A sasquatch. They love mountains.
+28
+Frida: UGH. There's no such thing as ape men! Now go back to sleep!!
+29
+Al: Really, Frida? We live in a world full of ghosts, slime monsters, and probably dragons, but you draw the line at ape men?
+30
+Eric: He has a point. Magic is definitely real, too.
+31
+Frida: Fine. Whatever you say. Ape men are real, and one is stalking us. I'd still rather get eaten in my sleep than while I'm still awake.
+32
+Eric: There's not much we can do about it tonight, anyway. Let's rest up.
+33
+Al: Argh, how can I sleep knowing the discovery we're about to make?
+34
+Frida: Figure it out.
+35
+The next morning...
+36
+Eric: Ugh... what are you two doing up so early?
+37
+Al: We're making preparations to hunt the ape man.
+38
+Mary: Time to claim our place in history!
+39
+Frida: No way, we aren't hunting anything!
+40
+Eric: It does seem... poorly thought out.
+41
+Al: Think about it. What did that guy at Eladar-whatever say?
+42
+Something about faith, and finding tokens of our worth?
+43
+Maybe you both should have some faith in Mary and I.
+44
+Mary: Yeah!
+45
+Eric: Maybe... we'll find one of those tokens up the mountain.
+46
+Frida: Ungh...
+47
+Frida: How much higher are we gonna go? It's freezing!
+48
+Al: We c-c-c-can't stop now! We haven't f-f-f-found the ape man yet!
+49
+Frida: There's nothing here! This was a waste of time!
+50
+Mary: Eric... I don't feel good...
+51
+Eric: The altitude is too much for Mary. We have to turn back.
+52
+Al: C-c-c'mon! T-t-this is our chance! We c-c-c-can't blow it!
+53
+Eric: Use your head, Al! Some stupid monster isn't worth this!
+54
+Al: Worth what? You're okay, right Mary? Just tell 'em!
+55
+Mary: I... I think I'm gonna...
+56
+*blech*
+57
+Frida: Gross!
+58
+Al: Okay, maybe we should turn back.
+59
+Mary: Ohh, that's so much better...
+60
+Eric: Hold still, let me wipe your face.
+61
+Frida: We're still turning back.
+62
+Eric: I agree. Let's not waste any more daylight.
+63
+Al: Did you hear that? I don't think we're alone here...
+64
+Mary: AAAAAAAAAAH! IT'S THE APE MAN!
+65
+Eric: Al? Weren't you gonna fight it or something?
+66
+Al: I-I-I-I uhhh I uh-
+67
+Frida: Don't soil yourself. He's not a monster.
+68
+???: Do I hear you correctly? You have come here hunting an ape man?
+69
+If this is how you speak of my people, I can be as much a monster as you like.
+70
+But you four look meek, even for humans.
+71
+Eric: This is a misunderstanding, I swear!
+72
+Al just got this idea in his head, so we started climbing the mountain.
+73
+???: I see I have nothing to fear from you, ignorant though you may be.
+74
+I am Vitruvius.
+75
+Frida: I'm Frida, nice to meet you.
+76
+He's a Balophim. Eltans call them Woolymen.
+77
+Eric: I'm Eric. He's Al, and she's Mary.
+78
+Mary: Hubububu-hububu-
+79
+Frida: Quit stammering, Mary.
+80
+Eric: I had know idea anyone lived up here.
+81
+Vitruvius: Only those with the fortitude to brave the mountain know of our existence.
+82
+So we remain... obscure.
+83
+But I can see that you have strength beyond your size.
+84
+Come with me, and you may have warmth and rest.
+85
+Eric: Hey, is it warmer here?
+86
+Frida: Yeah, but only a little. That's weird.
+87
+Al: You guys, too? Good, I thought I was about to die.
+88
+Vitruvius: My son Linus left the village a while back in an act of rebellion. Until he returns, you can sleep in his quarters.
+89
+Frida: Thank you very much.
+90
+Al: No offence, chief, but what's the catch?
+91
+Vitruvius: Humans are so cynical.
+92
+But you're right. I have something to ask of you.
+93
+Eric: Go on, we owe you.
+94
+Vitruvius: You already noticed the supernatural warmth in our village.
+95
+It keeps us alive, for even we would succumb to the bitter cold without it.
+96
+Mary: Even with all that hair?
+97
+Vitruvius: The warmth is given to us by the dragon Valamus.
+98
+Frida: Wait, dragons are real?
+99
+Al: Frida, we've been over this.
+100
+Vitruvius: Valamus normally lives in his temple, receiving our offerings.
+101
+He is benevolent and beloved.
+102
+But recently...
+103
+Eric: Something happened to him?
+104
+Vitruvius: He withdrew into the catacombs of the temple. Since doing so, his heat has waned.
+105
+What's worse is, it would seem that he deliberately caused a rockslide to seal himself within.
+106
+There is an opening, but it is too small for us.
+107
+Al: But you think we can fit?
+108
+Vitruvius: Precisely.
+109
+Be cautious. The catacombs are known to be dangerous.
+110
+Eric: We'll see what we can do.
+111
+Frida: This looks like a safe place to rest.
+112
+Eric: It's so warm. After how cold the mountain was, I never thought I'd sweat again.
+113
+Frida: And now that we're alone, we can address the elephant in the room.
+114
+Eric: Elephant?
+115
+Al: What are you talking about?
+116
+Frida: Don't play dumb, Al.
+117
+Al: Wait, are you mad at me?
+118
+Frida: No, I'm just curious as to why you would risk MY safety just to find some dumb monster.
+119
+Eric: Mary, too. She said how sick she felt, and you still insisted on climbing.
+120
+Al: Wha- that's not...
+121
+Mary: I'm okay, guys...
+122
+Frida: You're lucky Vitruivius came along, or we could've died!
+123
+Not to mention that it was your idea in the first place! As if you know anything about climbing mountains!
+124
+Al: Shut up! Just lay off me, okay!?
+125
+Eric: We just want to know why this mattered so much to you.
+126
+Al: You...
+127
+Frida: We what!?
+128
+Al: You don't understand what it's like to be me!
+129
+Frida: You're not making any sense! No one knows what you're talking about!
+130
+Al: Then shut up and let me talk!
+131
+My parents were very, very poor.
+132
+When they found out about my powers, they sent me to Elta so that...
+133
+Frida: We know that already. You told us that and it doesn't excuse anything.
+134
+Mary: I didn't know that.
+135
+Al: They sent me to Elta because they thought here I could live a better life.
+136
+They thought I would have the chance to do great things. And make them proud.
+137
+I have certain expectations to live up to.
+138
+And right now I'm just...
+139
+...lost and homeless and leeching off my friends.
+140
+I thought maybe I could at least be the guy who discovered the ape man.
+141
+...Okay that sounds pretty stupid out loud, but...
+142
+...I really had a chance.
+143
+Eric: And you would risk anything for it?
+144
+Mary: I'm sorry you didn't get to find the ape man, Al.
+145
+Eric: You're forgetting something.
+146
+If this goes as planned, we'll get to meet a dragon.
+147
+And you'll get to be a hero to the Woolymen.
+148
+That's something, right?
+149
+Al: Woah, yeah, I totally forgot about the dragon.
+150
+C'mon, guys! We can't sit around here, we have to meet the dragon!
+151
+Frida: It's... real.
+152
+Eric: Are you Valamus?
+153
+Valamus: Hmph... huff...
+154
+Eric: Come to think of it, we never found out if he could talk.
+155
+Valamus: Speak... Yes, I can speak...
+156
+Though my words have grown labored of late...
+157
+Al: Are you sick? What do we have to do?
+158
+Valamus: Nothing... nothing can be done...
+159
+Al: Wh-wha?
+160
+Valamus: I have lived... countless ages.
+161
+I have seen my friends... live and die so many times.
+162
+Now I have no... time left.
+163
+Frida: I think...
+164
+I think he's dying of old age.
+165
+Mary: If he dies, won't the village go cold?
+166
+Valamus: Yes... it pains me to say...
+167
+The Balophim people have been... so kind.
+168
+Mary: Frida, do something!
+169
+Frida: My magic can't help.
+170
+I- I can't help.
+171
+Al: Wait, no-no-no, you can't die!
+172
+If you die, then... that means I failed again.
+173
+Valamus: I see such ambition in you... young one.
+174
+Let me tell you something I have learned... in my eons of life.
+175
+The people who really love you... will not expect you to do great deeds.
+176
+That is why I die... with no regrets.
+177
+I know that my people would love me... whether I give them warmth of the body...
+178
+...or only of heart.
+179
+Eric: Vitruvius sent us here to find out what happened.
+180
+What would you like us to tell him?
+181
+Valamus: Tell him not to despair... for while today may be cold, and tomorrow...
+182
+...beyond that... there is hope.
+183
+Valamus handed over the dragon egg.
+184
+Eric: An egg... another dragon will be born.
+185
+Al: Wait...
+186
+Can I be the one to give it to them?
+187
+Can you just...
+188
+Let me have this one?
+189
+Eric: Of course.
+190
+Valamus: Thank you so much... for coming here.
+191
+I am grateful that I have gotten to meet wonderful new people... to the very end.
+192
+You have given me warmth... in my last moments.
+193
+Mary: *sniff* *hic* *sob*
+194
+Frida: He's gone.
+195
+Eric: It... just got cold.
+196
+Let's head back. We should let them know what happened.
+197
+Vitruvius: It is cold.
+198
+Al: I'm so sorry. I- there was nothing I could do.
+199
+Vitruvius: Young man... the weight of all our lives is not on you alone.
+200
+Al: He told us to tell you... that there is still hope.
+201
+Al handed over the Dragon Egg.
+202
+Vitruvius: He trusted you with this...
+203
+He must have seen something in you.
+204
+I am deeply sorry. I should never have given you such a burden.
+205
+You did nothing to deserve it.
+206
+Eric: Will you be okay now? What about the cold?
+207
+Vitruvius: It will be a difficult time. But do not worry. You have done far more than your responsibility for us.
+208
+Let us honor you for your courage.
+209
+This is a relic that has been with my people for many generations.
+210
+Cherish it.
+211
+Obtained a Thorn of Benelohim!
+212
+Al: Th-Thank you.
+213
+Mary: I thought of something!
+214
+You did it Al!
+215
+Al: Huh?
+216
+Eric: I think she means that you lived up to your parents' hopes for you.
+217
+You got to do something great.
+218
+Just like you wanted.
+219
+Al: Oh. Yeah.
+220
+But... I don't know if it was worth it...

@@ -1,0 +1,27 @@
+Winter Wolf
+spr_winterWolf
+0 
+40 
+35 
+52 
+55 
+6 
+10 
+4 
+12 
+5 
+210 
+4110 
+20 
+1 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+407 
+411 
+powers

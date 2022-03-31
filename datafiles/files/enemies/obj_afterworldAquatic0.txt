@@ -1,0 +1,27 @@
+Afterworld Aquatic
+spr_awAquatic
+0 
+27 
+40 
+40 
+30 
+10 
+40 
+33 
+80 
+40 
+0 
+2500 
+50 
+5 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+413 
+411 
+powers

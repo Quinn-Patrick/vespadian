@@ -1,0 +1,27 @@
+Pit Viper
+spr_pitViper
+0 
+6 
+6 
+20 
+18 
+4 
+12 
+2 
+8 
+5 
+60 
+265 
+20 
+1 
+-1 
+129 
+0 
+0 
+0 
+0 
+0 
+abilities
+410 
+417 
+powers

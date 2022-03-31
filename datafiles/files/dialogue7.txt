@@ -1,0 +1,242 @@
+1
+So, you think adventuring is the life for you?
+2
+Allow me to introduce myself. My name is Adam. They call me Adam the Hawk.
+3
+I've been an adventurer for a pretty long time now, so yeah, I kinda know what I'm talking about.
+4
+The first thing you'll need is a party.
+5
+You can't go wrong with the default, but if you're feeling confident, feel free to customize!
+6
+Hmm... okay, okay.
+7
+Yeah, that looks pretty good!
+8
+Well, I don't want to keep you all day, and the best way to learn is by doing! So just a few more things.
+9
+I've already got your first quest for you. It's pretty simple, all you have to do is meet me at my place in Hearthaven.
+10
+It's across the sea to the East, so it'll be a bit of a challenge to get there, but I think you can do it.
+11
+Here's a tip: be sure to talk to everyone you meet! The common folk are full of great information.
+12
+I think that's all you need for now...
+13
+Oh yeah! Just one more thing!
+14
+Remember that whatever happens out there...
+15
+You can never go back.
+16
+Mayor: Oh dear! Oh my! Oh, this is terrible!
+17
+My darling granddaughter Ariadne has been kidnapped!
+18
+The vicious and savage Mole Men of the north are responsible, and they demand a ransom that I cannot possibly afford!
+19
+Oh, if only some brave knight errant would save her! I would give them a grand reward! I would even give away my prized sailing ship the Hyperion!
+20
+Ariadne: You sure are strong! Are you here to save me?
+21
+Gosh, that sure is nice of you!
+22
+Aridane came along with you!
+23
+Mayor: Ah! Ariadne! You're back! It's a miracle!
+24
+How can I every repay you? Ah, yes, I know! My sailing ship, the Hyperion, is yours!
+25
+The Hyperion is docked outside of town, whenever you want to use it.
+26
+Adam: Woah, you guys made it.
+27
+I mean, yeah, of course you did! Haha! Have trouble finding the place?
+28
+???: Hello? Who's this?
+29
+Adam: Oh, sorry, that was rude of me. These are the new adventurers I was telling you about.
+30
+And this is my girlfriend, Maria.
+31
+Maria: Nice to meet you.
+32
+Adam: You don't have to hang around, we're talking about some really boring stuff.
+33
+...
+34
+Is she gone?
+35
+Okay, so here's what we're doing next.
+36
+You know the fortress on the island to the west of here?
+37
+It's been sealed away since forever, but I've finally figured out how to get in.
+38
+Legends say that there's a gemstone in there called the Star Ruby. It's supposed to be the most beautiful and priceless gem in the whole world.
+39
+...so she's probably gonna like it, right?
+40
+Uhh... sorry. I know it's selfish of me. But you can keep all the other treasure in there!
+41
+C'mon! I'll race you there!
+42
+Maria: Oh, is he gone already?
+43
+He didn't even say goodbye!
+44
+If you ever catch up with him, tell him to be safe, okay?
+45
+This adventuring stuff really scares me.
+46
+???: ...Friends of yours?
+47
+I see. You will be pleased to know that he put up a good fight. But in the end, he was no match.
+48
+Excuse me, I should introduce myself.
+49
+Ephemeris: I am Ephemeris. And this young man could not conceive of the powers he was toying with.
+50
+I gather that you are angry with me. And soon, your anger will yield to grief.
+51
+But do not despair. You will not suffer my fate, of bearing the burden of such sorrow for years beyond count.
+52
+Even if you survive this day, soon, everything will begin anew. All of the misery and woe will be washed away in clear waters.
+53
+And I will go back, to a kinder time.
+54
+Wouldn't you do the same? Seeing now what you've seen?
+55
+...
+56
+It doesn't matter. I've made up my mind.
+57
+Victoria! Bring them their end!
+58
+I've had enough of battle.
+59
+Victoria: Well? You ready?
+60
+I'll make beautiful corpses out of you!
+61
+???: Hm? What's the matter? Expecting someone else?
+62
+...
+63
+No? Man, whatever.
+64
+Alexander: I am Alexander, King of Thieves!
+65
+You will never have my silver key!
+66
+Come on, fellas! Let's light 'em up!
+67
+???: Finding your way here is no mean feat.
+68
+Ortega: I am Ortega. Mightiest of the generals of Ephemeris.
+69
+I am the guardian of the final key to his sanctuary.
+70
+But you will never pass me.
+71
+My light of vengeance will reduce you to ashes before you can trouble Ephemeris.
+72
+Ortega: You-
+73
+You may strike me down-
+74
+Ack!
+75
+But Ephemeris will destroy you! You will not stand a chance!
+76
+Guh...
+77
+Ephemeris: Nothing short of divine providence could have delivered you here today.
+78
+You've survived long odds again and again.
+79
+You have become great adventurers. No one can deny that.
+80
+But it doesn't matter.
+81
+You are too late.
+82
+The machine is complete, and now my doorway to the past will open.
+83
+You should watch carefully.
+84
+The final moments of history.
+85
+Ephemeris: Welcome! Welcome to the end of time!
+86
+Pass through these corridors if you dare, but what awaits you is no ordinary peril!
+87
+In this darkness, it is not merely your body which breaks down.
+88
+The forces that bind your very cells will be overwhelmed.
+89
+The atoms themselves will split, the protons and neutrons will decay.
+90
+Strings will snap, membranes will rot, and all energy will be depleted.
+91
+Soon, bare logic will fail you. And you will be in a state of pure nonexistence beyond mere death.
+92
+But if your power is as great as mine, you will reach the other side.
+93
+Ephemeris: I cannot remember smiling before today. It has been so long.
+94
+I-
+95
+I'm back. In my own world.
+96
+Soon I will reunite with the feeling of love, and live out my days in peace.
+97
+Vespadia?
+98
+No, this land is called Eden, though I will meet the Vespadians soon, and I have met them already. Long, long ago.
+99
+...
+100
+Where is your despair? Do you believe that we have traveled mere years into the past and soon your time will return?
+101
+That all you need do is wait?
+102
+No, you know nothing about me.
+103
+These days of my youth were...
+104
+50,000 years ago!
+105
+You stand now in the time before history! In the time before cruelty and hate! Before my passion began!
+106
+It was the Vespadians who taught me to live forever. It was them who took me to the future, though it was not my wish.
+107
+And thanks to them, I had all the time I needed to find a way back.
+108
+And so it has come to pass.
+109
+But you cannot simply let me be happy.
+110
+You hate me for killing your friend.
+111
+You hate me for what I've achieved.
+112
+You hate me for winning. You hate me for being right.
+113
+And now I will give you your fight.
+114
+I will show you mercy, but only in death!
+115
+???: Ephemeris is dead.
+116
+But it doesn't matter.
+117
+He lives on in this time. And he has already been carried off to the future.
+118
+The cycle begins again. And again. And again.
+119
+I will take you to the time from whence you came.
+120
+Perhaps this time...
+121
+It will be different.

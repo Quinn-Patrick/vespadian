@@ -1,0 +1,348 @@
+1
++2 Strength
+Increase Eric's strength score by two points.
+2
++2 Fortitude
+Increase Eric's fortitude score by two points.
+3
+Empowering Might
+Learn the chivalrous power Empowering Might, which allows Eric to boost the attack of his allies.
+4
+Fearless Guard
+Learn the chivalrous power Fearless Guard, which allows Eric to boost the defense of his allies.
+5
+Power Runner
+Learn the chivalrous ability Power Runner, which allows Eric's strength to determine his speed.
+6
+Dense Physique
+Learn the chivalrous ability Dense Physique, which allows Eric's fortitude to determine his evasion.
+7
+Equip Greatweapons
+Allow Eric to equip weapons that are wielded in two hands.
+8
+Equip Two Weapons
+Allow Eric to equip a weapon in both hands.
+9
+Equip Heavy Armor
+Allow Eric to equip heavy armor.
+10
+Equip Polearms
+Allow Eric to equip polearms.
+11
++2 Any
+Boost any of Eric's scores by 2.
+12
++2 Any
+Boost any of Eric's scores by 2.
+13
++2 Any
+Boost any of Eric's scores by 2.
+14
++2 Any
+Boost any of Eric's scores by 2.
+15
+Equip Ranged Weapons
+Allow Eric to equip longbows, shortbows, and crossbows.
+16
+Polearm Technique
+Learn the chivalrous ability Polearm Technique, which causes Eric to become more evasive and accurate while wielding a polearm.
+17
+Slashing Critical
+Learn the chivalrous ability Slashing Critical, which causes critical hits to occur more frequently when Eric is using an edged weapon such as a sword or an axe.
+18
+Bludgeoning Crush
+Learn the chivalrous ability Bludgeoning Crush, which causes attacks that Eric makes with a blunt weapon such as a mace or a maul to ignore some of the target's armor.
+19
+Sheer Brutality
+Learn the chivalrous ability Sheer Brutality, which causes all melee weapon attacks to utilize strength, even if the weapon is light, as well as increasing damage when Eric is wearing only light armor.
+20
+Shield Wall
+Learn the chivalrous ability Shield Wall, which causes all of Eric's allies to gain a boost to physical defense, as long as Eric carries a shield.
+21
+Infallible Strike
+Learn the chivalrous power Infallible Strike, which always hits without fail.
+22
+Dragon Thrust
+Learn the chivalrous powers Fire Dragon, Ice Dragon, and Thunder Dragon, which do damage of their respective types.
+23
+Broad Cleave
+Learn the chivalrous power Broad Cleave, which hits Eric's target as well as all enemies on the same row as the target.
+24
+Bull Charge
+Learn the chivalrous power Bull Charge, which inflicts damage and often stuns the target.
+25
+Mercurian Swing
+Learn the chivalrous power Mercurian Swing, which allows Eric to attack again very quickly.
+26
++2 All
+Boost all of Eric's scores by 2.
+27
++2 All
+Boost all of Eric's scores by 2.
+28
++2 All
+Boost all of Eric's scores by 2.
+29
++2 All
+Boost all of Eric's scores by 2.
+101
++2 Intellect
+Boost Frida's intellect score by 2 points.
+102
++2 Wisdom
+Boost Frida's wisdom score by 2 points.
+103
+Prayer
+Learn the divine power Prayer, which has unpredictable effects.
+104
+Equip Medium Armor
+Allow Frida to equip medium armor.
+105
+Child of Light
+Learn the divine ability Child of Light, which causes Frida to resist Aetherial damage, and do more damage with Aetherial attacks.
+106
+Divine Favor
+Learn the divine ability Divine Favor, which grants Frida improved fortune.
+107
++2 Any
+Boost one of Frida's scores by 2 points.
+108
+Divine Bolt
+Learn the divine power Divine Bolt, which does heavy Aetherial damage to one target.
+109
+Equip Shields
+Allow Frida to equip shields.
+110
+Sunlight Storm
+Learn the divine power Sunlight Storm, which inflicts moderate Aetherial damage to all enemies, and my cause blindness.
+111
++2 All
+Boost all of Frida's scores by 2 points.
+112
+Healing Wind
+Learn the divine power healing wind, which heals a small amount of hit points to all of Frida's allies.
+113
++2 Any
+Boost one of Frida's scores by 2.
+114
++2 Any
+Boost one of Frida's scores by 2.
+115
+Greater Healing
+Learn the divine ability Greater Healing, which boosts the power of Frida's healing spells.
+116
+Remedy
+Learn the divine powers Detoxify, Focus, and Stimulate, which treat poisoning, blindness, and paralysis respectively.
+117
+Revivify
+Learn the divine power revivify, which restores a moderate amount of hit points to one ally.
+118
+Restoring Wind
+Learn the divine power Restoring Wind, which restores a moderate amount of hit points to all of Frida's allies.
+119
++2 All
+Boost all of Frida's scores by 2.
+120
+Life
+Learn the divine power Life, which restores one fallen ally to one hit point.
+121
+Equip Scythes
+Allow Frida to equip Scythes and Sickles.
+122
+Bound Soul
+Learn the divine ability Bound Soul, which boosts Frida's resistance to instant death attacks.
+123
+Death
+Learn the divine power Death, which instantly destroys one enemy.
+124
+Toxify
+Learn the divine power Toxify, which inflicts poisoning on one enemy.
+125
++2 Any
+Boost one of Frida's scores by 2.
+126
+Vital Soul
+Learn the divine ability Vital Soul, which grants Frida resistance to vital damage, and boosts damage from Frida's vital attacks.
+127
+Raise
+Learn the divine power Raise, which restores a fallen ally with one quarter of their maximum hit points.
+128
+Necrosis
+Learn the divine power Necrosis, which inflicts vital damage on one opponent.
+129
++2 All
+Boost all of Frida's scores by 2 points.
+201
++2 Charisma
+Boost Alamand's charisma score by 2 points.
+202
++2 Spirit
+Boost Alamand's spirit score by 2 points.
+203
+Land and Weather
+Learn the mystical ability Land and Weather, which causes Alamand's spells to be boosted by appropriate environmental affects, as well as ignore detrimental environmental affects.
+204
++2 Any
+Boost one of Alamand's scores by 2 points.
+205
+Earthtremor
+Learn the mystical power Earthtremor, which hits all enemies and dries the battlefield.
+206
+Riptide
+Learn the mystical power Riptide, which hits all enemies and submerges the battlefield.
+207
+Stormcaller
+Learn the mytical powers Stormsong and Sundance, which control the weather.
+208
++2 Any
+Boost one of Alamand's scores by 2 points.
+209
+Chillbrand
+Learn the mystical powers Heatwave and Coldsnap, which control the ambient temperature.
+210
+Geomancy
+Learn the mystical abilities Solar Shield and Dolphin Stroke, which make Alamand take half damage in arid environments and move faster in aquatic environments respectively.
+211
++2 All
+Boost all of Alamand's scores by 2 points.
+212
+Equip Swords
+Allow Alamand to equip swords.
+213
++2 Any
+Boost one of Alamand's scores by 2 points.
+214
+Wondrous Sabre
+Learn the mystical abilities Heatstrike, Coldstrike, and Litstrike, which imbue Alamand's melee attacks with their respective damage types.
+215
+Wondrous Guard
+Learn the mystical powers Flamebreak, Iceguard, and Elecblock, which boost the respective resistance of one ally.
+216
+Exotic Sabre
+Learn the mystical abilities Mindsap and Lifedrain, which imbue Alamand's melee attacks with their respective damage types.
+217
+Exotic Guard
+Learn the mystical powers Brainshield, Soulmail, and Asterarmor, which boost the respective resistance of one ally.
+218
+Equip Light Armor
+Allow Alamand to equip light armor.
+219
++2 Any
+Boost all of Alamand's scores by 2 points.
+220
+Mystical Mastery
+Learn the mystical abilities Flame Adept, Frost Adept, and Shock Adept, which boost Alamand's damage when he casts the appropriate spells.
+221
++2 Any
+Boost one of Alamand's scores by 2 points.
+222
+Mystic Edge
+Learn the mystical power Mystic Edge, which boosts one ally's physical attack.
+223
+Mystic Armor
+Learn the mystical power Mystic Armor, which boosts one ally's physical defense.
+224
+Hasten
+Learn the mystical power Hasten, which applies the Haste status to one target.
+225
+Advanced Magic
+Learn the mystical powers Firestorm, Blizzard, and Lightning Crash, which inflict the respective damage type on all enemies.
+226
+Enfeeble
+Learn the mystical power Enfeeble, which reduces the physical attack of one target.
+227
+Vulnarize
+Learn the mystical power Vulnarize, which reduces the physical defense of one target.
+228
+Slow
+Learn the mystical power Slow, which attempts to slow one enemy.
+229
++2 All
+Boost all of Alamand's scores by 2 points.
+301
++2 Dexterity
+Boost Mary's dexterity score by 2 points.
+302
++2 Agility
+Boost Mary's agility score by 2 points.
+303
+Swift Getaway
+Learn the cunning ability Swift Getaway, which allows Mary to act again faster after successfully stealing.
+304
++2 Any
+Boost one of Mary's scores by 2 points.
+305
+Chemist
+Learn the cunning ability Chemist, which boosts the effectiveness of items that Mary uses in battle.
+306
+Technician
+Learn the cunning ability Technician, which allows Mary to act again faster after using an item in battle.
+307
++2 All
+Boost all of Mary's scores by 2 points.
+308
+Sticky Fingers
+Learn the cunning ability Sticky Fingers, which increases Mary's success rate when stealing.
+309
+Mug
+Learn the cunning power Mug, which inflicts damage while stealing.
+310
+Perfect Crime
+Learn the cunning ability Perfect Crime, which allows Mary to become hidden after successfully stealing.
+311
++2 Any
+Boost one of Mary's scores by 2 points.
+312
+Stickup
+Learn the cunning ability Stickup, which allows Mary to sometimes stun the target while stealing.
+313
+Life Thief
+Learn the cunning ability Life Thief, which causes Mary to regain health when attempting to steal.
+314
++2 All
+Boost all of Mary's scores by 2 points.
+315
+Shadow Stalker
+Learn the cunning ability Shadow Stalker, which makes Mary soemtimes remain hidden when attacking.
+316
++2 Any
+Boost one of Mary's scores by 2 points.
+317
+Equip Ranged Weapons
+Allow Mary to equip longbows, shortbows, and crossbows.
+318
+Sniper
+Learn the cunning ability Sniper, which causes Mary to inflict more damage at greater range.
+319
+Multishot
+Learn the cunning power multishot, which allows Mary to attack random enemies with multiple attacks.
+320
+Phantom
+Learn the cunning ability Phantom, which causes Mary to take half damage while hidden.
+321
++2 All
+Boost all of Mary's scores by 2 points.
+322
+Unerring Eye
+Learn the cunning ability Unnerring Eye, which causes Mary to never miss.
+323
++2 Any
+Boost one of Mary's scores by 2 points.
+324
+Mirage
+Learn the cunning ability Mirage, which causes Mary to always be hidden at the start of battle.
+325
+Equip Medium Armor
+Allow Mary to equip medium armor.
+326
+Assassination
+Learn the cunning ability Assassination, which causes Mary to always land a critical hit when attacking a target which hasn't yet taken a turn in battle.
+327
++2 Any
+Boost one of Mary's scores by 2 points.
+328
+Critical Precision
+Learn the cunning ability Critical Precision, which causes Mary to land critical hits much more frequently when hidden.
+329
++2 All
+Boost all of Mary's scores by 2 points.

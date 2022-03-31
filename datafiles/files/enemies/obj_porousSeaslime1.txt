@@ -1,0 +1,27 @@
+Porous Seaslime
+spr_porousSeaslime
+0 
+60 
+75 
+30 
+10 
+4 
+16 
+4 
+30 
+5 
+800 
+18248 
+20 
+5 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+410 
+415 
+powers

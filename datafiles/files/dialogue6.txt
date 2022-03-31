@@ -1,0 +1,172 @@
+1
+Eric: Wait! We're not alone.
+2
+Frida: It can't be...
+3
+Al: The Lord's Army! Those slime!
+4
+Eric: Quick, let's turn around before they notice us.
+5
+Cadet: Too late, small fry.
+6
+Private: Why should we pick on them?
+7
+Cadet: The Lord and Lady told us no one gets through here.
+8
+And anyone who tries is to meet with them personally.
+9
+Al: Nobody panic. Just play it cool.
+10
+Private: Say hello to the Lord of Might and the Lady of Death
+11
+Cadet: M'Lord, these ones were trying to cross.
+12
+Private: They just look like kids to me. Shall we release them back into Elta?
+13
+Lord: A humane proposition...
+14
+Lady of Death: However.
+15
+These aren't just any children.
+16
+Frida: *That voice! I remember! She was with the men who came to my house!*
+17
+Eric: *What!? What should we do?*
+18
+Lady of Death: Little Frida. You look tougher than the last time I saw you.
+19
+Al: You've mistaken us for someone else, it seems. That's not her name.
+20
+Lady of Death: Haha! Nice try, Alamand of Amharra.
+21
+Lord of Might: Your little band of misfits isn't exactly inconspicuous.
+22
+We've got orders to bring you in, and we intend to follow them.
+23
+Al: Wait! This is clearly a misunderstanding!
+24
+Eric: We should surrender. There're way too many...
+25
+Mary: No, Eric!
+26
+Eric: Hm?
+27
+Mary: Oh... Maybe you forgot...
+28
+But I haven't stopped thinking about it.
+29
+Frida: Eric...
+30
+You promised.
+31
+A long pause as the Lord's Army closes in. Finally, Eric draws his sword.
+32
+Eric: Thanks, guys...
+33
+I... I guess I did forget.
+34
+Lady of Death: We've got ourselves a fighter.
+35
+Lord of Might: Shall we show them our power?
+36
+Lady of Death: P'shaw! You'll spoil them!
+37
+Let me have this one.
+38
+Lord of Might: Very well. You have a finer touch than I, I admit.
+39
+Lady of Death: Yes! Get ready!
+40
+Upon beating the Lady in battle:
+41
+Lady of Death: Yowch! They're tougher than they look!
+42
+Lord of Might: Get real. They're only children.
+43
+Lady of Death: They had me going with their cute looks.
+44
+I won't let my guard down again.
+45
+Frida: It's hopeless... we can't even beat one of them...
+46
+Eric: No...
+47
+???: I've seen enough.
+48
+Mary: Wha-?
+49
+Covered head to toe in black armor, every part of him obscured, the Lord's Knight enters the scene.
+50
+???: Cease this foolishness.
+51
+Lady of Death: Urgh! Mind your business!
+52
+Lord of Might: Do not dare use such a tone with the Lord's Knight!
+53
+Apologies, Sir Knight. What would you have us do?
+54
+Knight: Let them go.
+55
+Lord of Might: Y-you...
+56
+With all due respect, you can't be serious. We have orders to-
+57
+Knight: I said let them go!
+58
+I admire the strength of these young warriors. Their tenacity.
+59
+One day they will see the light.
+60
+But it will never reach them through the haze of your cruelty.
+61
+It's embarrassing that I even have to explain this to you.
+62
+Lord of Might: A-Apologies.
+63
+We will let them through.
+64
+Knight: Good. I won't hear another word of it.
+65
+The Lord's Knight walks off.
+66
+Lady of Death: I've had it with him being the boss's favorite.
+67
+Lord of Might: We must follow his orders.
+68
+Lady of Death: Still. We can't have these brats thinking they're in charge.
+69
+What if we just...
+70
+Took one of them?
+71
+Lord of Might: That sounds fair.
+72
+Al: Hey wait! But he said!
+73
+Lady: This one looks cute! I choose her!
+74
+Mary: Agh! Lemme go!
+75
+The Lady grabs Mary by her coat, and rides off with the Lord on horseback. The rest of the squad follows, leaving the party in the dust.
+76
+Eric: MARY!!
+77
+Al: Oh, God, no...
+78
+Eric: Hurry! We have to go after them!
+79
+Frida: Ahh... Mary...
+80
+And that was how it happened...
+81
+So what awaits our heroes in Balashtar?
+82
+What will be Mary's fate in the hands of the Lord's Army?
+83
+And just who are these villains, shrouded in as much enigma as malice?
+84
+As hope for their quest dwindles, keep your eyes and ears open for the next chapter in the story.
+85
+Thank you for playing Chryse: Episode I by Quinn_Patrick. Follow @Daisuke9091 on Twitter for updates about future versions of Chryse, and visit quinnsgames.com and quinn-patrick.itch.io for more games.
+86
+You will now be returned to right before the battle on Vanandel. You can continue to explore Elta with the full party. You may find new secrets and adventures.

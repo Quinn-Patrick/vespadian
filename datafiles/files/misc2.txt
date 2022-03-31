@@ -1,0 +1,17 @@
+Whoops! Couldn't steal!
+Stole 
+Nothing to steal!
+The weather warmed up!
+The weather got hot!
+Nothing happened...
+The weather cooled down!
+The weather got cold!
+Nothing happened...
+It started to rain!
+It started to snow!
+Escaped the battle.
+Failed to escape!
+There's no fleeing this battle!
+Teleport out of the area?
+Teleport where?
+Really quit? Any unsaved progress will be lost.

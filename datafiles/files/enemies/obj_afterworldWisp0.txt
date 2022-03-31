@@ -1,0 +1,25 @@
+XP Man
+spr_afterworldWisp
+0 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+1 
+530604 
+1 
+40 
+8 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+powers

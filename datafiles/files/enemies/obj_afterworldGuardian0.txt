@@ -1,0 +1,26 @@
+Afterworld Guardian
+spr_awGuardian
+0 
+28 
+50 
+20 
+40 
+10 
+40 
+35 
+80 
+40 
+0 
+12000 
+50 
+11 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+powers
+338 

@@ -1,0 +1,27 @@
+Nightmare Rake
+spr_nightmareRake
+0 
+52 
+30 
+50 
+48 
+26 
+34 
+28 
+32 
+40 
+520 
+6215 
+16 
+13 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+401 
+425 
+powers

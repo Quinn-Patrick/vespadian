@@ -1,0 +1,6 @@
+Fighter
+Wizard
+Thief
+Cleric
+Ranger
+Bard

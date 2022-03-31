@@ -1,0 +1,670 @@
+1
+Eric joined the party!
+2
+Eric left the party.
+3
+Frida joined the party!
+4
+Frida left the party.
+5
+Alamand joined the party!
+6
+Alamand left the party.
+7
+Mary joined the party!
+8
+Mary left the party.
+9
+It doesn't look like we can go this way...
+10
+Every time someone levels up, they gain a feat point.
+11
+Feat points can be exchanged for features. Press ESC to open the menu, and scroll to features.
+12
+Pick the character who has feat points and pick out the feature you want. For now, only one should be available.
+13
+It looks like Eric is already level 3, so he should have some feat points.
+14
+Some items like Healing Tonics can be used in battle.
+15
+Press ESC to open the menu, and scroll to inventory.
+16
+While you're in a safe room like this one, you can freely exchange items between stock and a character's personal inventory.
+17
+Remember this: while you're in an unsafe room with lots of monsters, you can't access your stock inventory, so plan which items you bring carefully.
+18
+However, if you pick up an item and a character has room for it, they will automatically take it to be used in battle or from the menu.
+19
+Have you guys seen my notebook? I'm in big trouble if I don't find it!
+20
+Did you guys find the fairy?
+21
+Ariadne: The Dreamscape is full of monsters that will try to put you to sleep.
+22
+If you do fall asleep, don't worry. One WHACK and you'll wake right up!
+23
+But I guess you don't really wanna get whacked, huh?
+24
+Maybe there's some accessory you could put on to not fall asleep in the first place?
+25
+Ariadne: There's a really big monster in the Dreamscape called Dreamcatcher.
+26
+You'll have to beat'em if you want to get Ephemera's dreams turned back on.
+27
+It'll try to put all of you to sleep at once, so if you can find a way to not get put to sleep, that'll make it way easier.
+28
+Ariadne: Hey, nice to see you! Thanks again for everything!
+29
+It's cold up in the mountains, huh?
+30
+In cold places like this, ice-based attacks will do extra damage, but fire-based attacks will do less.
+31
+The spell Heatwave can bring the temperature up, but it will go back down after the battle.
+32
+Equip yourself before facing danger.
+33
+If you enter the catacombs, you are likely to be beset by lesser dragons.
+34
+Attack them with poison, if you are able, for they are susceptible.
+35
+Also beware of fire elementals.
+36
+Your steel will pass through them harmlessly. Cold-based spells are your best bet.
+37
+...
+38
+Begin crafting!
+39
+Aren't you done yet?
+40
+Be careful, this isn't a place for the unprepared.
+41
+Hm? Why are there no boy-fairies, you ask? Sure there are!
+42
+How else would we be here?
+43
+Whatever rumors you've heard about the fairies, I want you to know that they're all true.
+44
+Unless they're bad.
+45
+This map has an 'X' over the shack between El Trice and Havenheit.
+46
+It's locked, and it doesn't seem possible to pick...
+47
+Inserted the treasure stash key...
+48
+Cachunk! The door opens
+49
+It's locked, and it doesn't seem possible to pick...
+50
+The lock opens, but the key is destroyed.
+51
+Your strength score determines your physical attack when wielding a heavy weapon like a sword or axe.
+52
+This also applies to longbows, because of their draw weight.
+53
+The most powerful weapons rely on strength.
+54
+Your fortitude score determines your maximum hit points, as well as poison, cold, and vital resistances.
+55
+Everyone should try to have high fortitude if they can.
+56
+Your dexterity score determines your physical attack while using a light weapon like a dagger or shortsword.
+57
+This also applies to ranged weapons like shortbows and crossbows.
+58
+Dexterity also determines accuracy, which makes up for light weapons typically being weaker than heavy weapons.
+59
+Your agility score determines your speed and evasion.
+60
+The higher your speed stat, the more frequently you will take turns in battle, so agility is very important.
+61
+Agility also effects heat resistance.
+62
+Your intellect score determines your arcane magic stat, meaning the effectiveness of spells inflicting heat, cold, electric, or poison damage.
+63
+This also applies to healing spells.
+64
+Your wisdom score determines your divine magic stat, meaning the effectiveness of spells inflicting aether, vital, or mind damage, including healing spells.
+65
+It also determines your likelihood of being affected by sleep, instant death, and other effects.
+66
+Your charisma score determines the effectiveness of certain Bard abilities and weapons.
+67
+For non-Bards, it isn't very important.
+68
+Your spirit score determines your maximum skill points, as well as your electric resistance.
+69
+A high spirit score is essential for anyone who plans to use lots of powers.
+70
+You can alter the party formation by selecting formation in the pause menu.
+71
+If a character has someone in front and above or below them but not directly in front of them, they are considered flanked.
+72
+A flanked character can only be targeted by physical attacks that can reach them, but can only use physical attacks that reach their target.
+73
+Weapons with reach include spears, wands, and bows. Some weapons reach farther than others, with bows reaching an unlimited number of spaces, while spears reach only one, and halberds reach two.
+74
+If there is a character with an ally directly in front of them, they are considered covered.
+75
+A covered character cannot be targeted by physical attacks, nor can they use them.
+76
+Spells and other effects can still target them, but will do half damage.
+77
+Monsters can take advantage of this, too, but note that a character at 0 hit points cannot provide flanking or cover.
+78
+We haven't been able to reach the sanctum yet. It's covered by some sort of magic lock.
+79
+We think it's opened by switches in the side buildings. We would've figured it out by now, if it weren't for all the strong monsters.
+80
+Wood golems are the worst of them all. They seem to resist all forms of magic.
+81
+You'll need a strong sword arm to deal with them.
+82
+Frida: This is a very famous statue of the archangel Michael.
+83
+Mary: Uhhh... umm... uhh...
+84
+Are angels always... y'know n-naked?
+85
+Frida: It's classical art, Mary.
+86
+The Great Bridge of Vanandel lies to the East of here. Beyond it you will find yourselves in Balashtar.
+87
+Adam: Please use caution. I beg of you.
+88
+The thought of you coming to harm... I-
+89
+I cannot bear it.
+90
+It's locked. Only a level $num$ thief can open it without the key.
+91
+$special$ tries to pick the lock...
+92
+Cachunk! Success!
+93
+Mary tries to pick the lock...
+94
+But it's too difficult! Maybe if her intellect score was higher...
+95
+Here's the scoop on abilities:
+96
+If anyone in your party knows an ability, you will be able to select 'abilities' on the pause menu.
+97
+From there, you can select an ability to switch it on or off. You can only switch an ability on if you have enough Ability Points.
+98
+Because of that, you'll have to take note of each ability's cost. The more powerful the ability, the more Ability Points it will take to switch on.
+99
+You can regain Ability Points by switching off abilities, however, so feel free to experiment.
+100
+Also note that some equipment will grant abilities in battle at no cost.
+101
+Come back when you're a little richer...
+102
+Enjoy that lockpicking kit. Just don't tell anyone who sold it to you.
+103
+It's locked, and there's no key. If only you knew someone who could pick it...
+104
+It's locked and Mary might be able to pick it, but she isn't here.
+105
+Going out? Think about stopping by the weapon shop first. There are monsters afoot.
+106
+The woods are crawling with venemous creatures!
+107
+If you get poisoned and no one's around, say goodnight!
+108
+That's why you should always carry antidotes with you.
+109
+It's like my grandpa always says, too many cooks skin a cat. I think.
+110
+We probably shouldn't let the cat in the kitchen.
+111
+I used to spend all of my free time playing with a red ball.
+112
+But soon I'll be eight, with all the responsibilities that come with it.
+113
+As such, I no longer waste away my days with frivolities, but at the same time I am paralyzed by indecision.
+114
+There's a boy living in the theater, and sometimes he does street shows.
+115
+He's really popular, but I don't trust him, and I know I'm not the only one.
+116
+And now even the theater's gone! Magic is nothing but trouble!
+117
+What if my children wanted to do magic? Hmph! They'd better not!
+118
+If you buy or pick up good equipment, be sure to put it on.
+119
+What, you don't even know how to do that? Just go into the menu and select equipment. Then select the slot and the character that you want, and a menu of everything you can equip will automatically pop up.
+120
+Remember to check the 'extra' slots, too, where you can equip accessories and other stuff.
+121
+Come here, boy!
+122
+Woof!
+123
+The dog never listens to him...
+124
+Phooey! Tourists! Mind your own business!
+125
+This city used to be beautiful. Now there's trash in the street.
+126
+These younger generations have no respect.
+127
+Watch where you're walking! Some of us have places to be!
+128
+Welcome to Hearthaven! It's a great city but...
+129
+Please be careful about desperate types. They prey on travelers like you.
+130
+Never leave your things unguarded, and if someone asks you for money, ignore them.
+131
+You shouldn't go walking around dark alleys.
+132
+Although if you poke around the right places, you may find something good.
+133
+The library is a great place to get away from the noise of the city.
+134
+You're not going to go in there and ruin it by making a rukus, are you?
+135
+What am I doing back here? It's a secret!
+136
+Why buy things when you can DIY? That means 'do it yourself.'
+137
+Just stop into the crafting shop, and see what you can make.
+138
+Some things can only be obtained by making them yourself, so it's worth trying.
+139
+I haven't been to church in much too long...
+140
+I wonder how often you have to go to get into heaven?
+141
+I heard there are bugs that can shoot fire out of their behinds!
+142
+They must not be hurt by fire, don't you think? Imagine that, a bug that you can't even kill with fire! What a nightmare!
+143
+I went up north just recently and I ran into an ogre!
+144
+Just my luck! I had to run away as fast as I could!
+145
+I'm getting too old for this...
+146
+W-w-wha? You talkin' ta me? What are you doin' in here?
+147
+Welcome to Himark! We don't get many visitors on this remote island.
+148
+All's well now! Maybe that whole mess was all a dream itself.
+149
+Our main industry used to be Dynamite production.
+150
+With some of that stuff, you could blow away a rock the size of a mountain! If only we could make it...
+151
+Just like that, the dreams are back! Wait, were you the ones who did it?
+152
+Welcome to the Fey Court! Erm- I mean- humans aren't welcome here! Get lost!
+153
+Tinonia is to the right over there, sitting in the important-looking chair, if you're here to see her.
+154
+Are we letting humans in here now? I can never keep track of the rules...
+155
+Well, it's not like we could do anything about it, anyway.
+156
+Welcome to Farsight! Watch out for roughneck sailors and plain-ol' pirates!
+157
+There's a cave over to the west that they say has no bottom.
+158
+Yaar! It be good to be back on dry land!
+159
+I just wish there was a place to be gettin' a drink.
+160
+Pardon? The inn? I'm not bein' allowed in thar anymore.
+161
+The bottomless hole is filled with dragons, so really its just that everyone who goes in gets eaten before they can see what's at the bottom.
+162
+The dragons can breath some crazy energy that makes you feel like your heart's been broken.
+163
+Yar! Avast yee scury dogs!
+164
+...
+165
+You've gotta learn to talk like a pirate if you wanna be taken seriously around here!
+166
+Neigh!
+167
+How come bows never run out of arrows? I guess it'd be no fun if you had to worry about that, huh?
+168
+Man, those sunglasses are expensive!
+169
+I wish I could look cool, but designer shades are just out of my price range.
+170
+All's well here in Amaranth.
+171
+May the spirit of the Lord be with you.
+172
+Neigh!
+173
+Wait, that's not right...
+174
+Craftable items come in a few different categories like equipment and magic items.
+175
+If you craft all the items in a particular category, you may unlock new craftable items.
+176
+Your new friend Mary isn't very strong yet, but she is a talented thief.
+177
+She should probably just hide until she gains a level or two...
+178
+Only Mary has the hide power. When she's hidden, she can't be targeted with attacks, and her next attack will do double damage.
+179
+She'll become unhidden when after making an attack, though.
+180
+Try using the steal power, too. She may swipe something good!
+181
+Says here in this book I'm reading that if you press the space bar you can switch the party leader.
+182
+It also says that it doesn't make any difference besides who you look at when you're walking around.
+183
+Now what could any of that mean?
+184
+Cachunk! Opened with the $special$.
+185
+If you get heartbroken, healing spells will be less effective on you.
+186
+Not that I would know anything about that! *sniff*
+187
+If you go out into the desert, watch out for mummies.
+188
+They'll lay their curse on you! If you're cursed, you'll take way more damage from attacks.
+189
+If you're bleeding, every attack you make will make you hurt yourself.
+190
+Sharks and Tyrannosauruses can cause it with their bite, but it can also happen if you touch a cactus.
+191
+It can be treated just by healing some hit points, though, so it's not such a big deal.
+192
+It looks like you can only pass from the other side.
+193
+Cachunk! When examined from this side, the obstacle disappears.
+194
+If I had some Nitro Powder, I could make all the Dynamite you can buy!
+195
+Unfortunately, there's none left on the whole continent.
+196
+Hey, is that Nitro Powder?
+197
+Hallelujah! Now I can make Dynamite! Head to the counter over there to buy some when you're ready.
+198
+Head to the counter over there if you want to buy some Dynamite. You could use it to blow up a huge rock, if you need that.
+199
+You see that giant rock blocking the straight?
+200
+No ships can get in or out. It's a disaster for international commerce.
+201
+We've tried everything to get rid of it. We even got a third guy to help lift it!
+202
+But to no avail! We all just threw out our backs.
+203
+If we could create some sort of huge explosion, maybe that would do the trick.
+204
+But nothing like that exists on this continent.
+205
+What's that you say? Dynamite? It can make a huge explosion?
+206
+I don't know what kind of sorcery you've cooked up, but I'll try anything at this point!
+207
+It's primed and ready to go. Just step outside.
+208
+You did it! You really did it! How can we ever repay you?
+209
+Pressed the switch...
+210
+The direction of the currents reversed!
+211
+The way forward is sealed.
+212
+Only those with the mark of beginnings may pass.
+213
+The way forward was opened by the Waxing Crescent!
+214
+Beyond here the threads of life shall be pulled away from you, and your body shall rot from within. Be certain that you are ready.
+215
+Finally, some business!
+216
+You know the abandoned shack on the east side of town?
+217
+I bet there's some good stuff in there. It's dangerous, though.
+218
+If you're planning on going out, you should stop by the armory first.
+219
+It's the building with the sword and shield sign.
+220
+Going out on the road without good steel isn't safe.
+221
+Who's ever heard of a Wizard without spells?
+222
+If you know a beginner Wizard, you should stop by the magic shop and pick up some spell tomes. Bards can learn them, too.
+223
+Once you own a spell tome, open the menu with the escape key, select inventory, and scroll to it in the "stock" section. Then just select it and use it on the character who wants to learn it.
+224
+Clerics, Bards, and Wizards all gain levels in either Arcane or Divine magic just by gaining experience.
+225
+If you're curious about what magic level a character is at, press the escape key to open the menu and select status, then select the character you want to know about.
+226
+The status screen displays all the details about a character, so be sure to check it frequently.
+227
+This store only has stuff for adventurers!
+228
+It may be a good idea to buy some potions before you go out on the road.
+229
+If you buy something like that, it'll go into your "stock" inventory, which you can't access in dangerous situations like dungeons.
+230
+Press the escape key to open the menu and select inventory. Then find the item in your stock inventory and select it. Select swap and move it into one of your character inventories to use it at any time, even in battle!
+231
+...but where do I buy regular household stuff?
+232
+I'd love to explore the basement here. I bet it's full of treasure.
+233
+There are monsters everywhere, though. They'll just pop up at random, so you've gotta be prepared for anything, or just try to run away.
+234
+Shh... they'll here you.
+235
+The monsters in here are lying in wait to spring an ambush.
+236
+If you step on one of the spots where they're waiting, a battle will begin, but if you clear them all out, then there won't be any monsters in here anymore.
+237
+I bet an experienced Ranger could spot the ambushes before stepping on them.
+238
+The way forward is sealed.
+239
+Only those with the mark of endings may pass.
+240
+The way forward was opened by the Waning Gibbous!
+241
+Mayor: Oh dear! Oh my! Oh, this is terrible!
+242
+My darling granddaughter Ariadne has been kidnapped!
+243
+The vicious and savage Mole Men of the north are responsible, and they demand a ransom that I cannot possibly afford!
+244
+Oh, if only some brave knight errant would save her! I would give them a grand reward! I would even give away my prized sailing ship the Hyperion!
+245
+Thank you for everything you've done! I hope the Hyperion is to your liking.
+246
+Thanks for saving me!
+247
+Ariadne: You sure are strong! Are you here to save me?
+248
+Gosh, that sure is nice of you!
+249
+Ariadne came along with you!
+250
+Be careful out there, okay?
+251
+And make sure he stays out of trouble!
+252
+He believed in you so much. He really did.
+253
+He even had those made for you.
+254
+I just- this isn't how things were supposed to be.
+255
+I wish I could go back.
+256
+If someone is at least level 10, they can try multiclassing.
+257
+Open the menu and select 'classes.'
+258
+From there, select the character whose class you want to change, and then select a different class.
+259
+From that point on, that character will gain levels as the new class starting from level 1, but will still retain everything they gained from their old class.
+260
+Once they reach level 10 in their new class, they can switch back to their original class, or to a third class.
+261
+Keep in mind that for now, you won't be able to gain more than 50 total levels between all of your classes, and there's no way to undo your levels, so be careful.
+262
+If you aren't sure what class to switch to, you can't go wrong just sticking with the base classes for all 50 levels.
+263
+Each class only has 50 levels available to it, so if one day you become a legendary hero who can advance beyond level 50, you'll have to multiclass to do it.
+264
+No one except licensed adventurers are allowed to go this way. It's too dangerous.
+265
+Some dark-haired guy in a cape came through here just recently.
+266
+I was about to talk to him, but he just glared at me, didn't even say anything.
+267
+It was the scariest thing I'd ever seen, and I wasn't about to die over it, so I let him through.
+268
+Anyway, you guys are licensed adventurers, so you can go ahead, too. Just watch out for that guy. He's stronger than any monster, for sure.
+269
+There is an indentation and an inscription. It reads: 'Bring unto me an offering from the swiftest world.'
+270
+Inserted a Mercury Token into the indentation.
+271
+A Mercury Token is inserted into the indention.
+272
+There is an indentation and an inscription. It reads: 'Bring unto me an offering from the fairest world.'
+273
+Inserted a Venus Token into the indentation.
+274
+A Venus Token is inserted into the indention.
+275
+There is an indentation and an inscription. It reads: 'Bring unto me an offering from the world of war.'
+276
+Inserted a Mars Token into the indentation.
+277
+A Mars Token is inserted into the indention.
+278
+There is an indentation and an inscription. It reads: 'Bring unto me an offering from the father of all worlds.'
+279
+Inserted a Saturn Token into the indentation.
+280
+A Saturn Token is inserted into the indention.
+281
+There is an indentation and an inscription. It reads: 'Bring unto me an offering from the king of all worlds.'
+282
+Inserted a Jupiter Token into the indentation.
+283
+A Jupiter Token is inserted into the indention.
+284
+Don't recall seeing you around. Where'd you come from?
+285
+Out of the Bottomless Hole? You're saying you came out of a hole in the ground?
+286
+If you go for a walk around here, you should be on the lookout for Snoozeweed.
+287
+It's a carnivorous plant that sleeps most of the time, but if you wake it up, it'll start blasting and blasting with all sorts of deadly spells!
+288
+If you're gonna try and fight one, you'd better kill it in one hit!
+289
+It's so cold south of the mountains, that it snows every day of the year!
+290
+I wanna go there so bad!
+291
+I saw a strange man with a cape pass through town.
+292
+Just the sight of him was terrifying, but he seemed more sad than anything.
+293
+In ancient times, the Vespadians used to build huge airships that could fly around the world.
+294
+Everyone says it's just a myth, but I think one of the airships is sitting around in the valley on the other side of this cave.
+295
+Only problem is that magic lock that's been there since before anyone can remember.
+296
+I can't find anyone who can pick it, and the King of Thieves from the desert has the key. No one messes with that guy.
+297
+If you get through there, then you deserve to have it! It'll be enough for me just to know I was right.
+298
+Wow, you actually did it! You think it's safe to fly it?
+299
+Be careful if you try to fly around the world. Who knows how powerful the monsters out there are?
+300
+We used to be so prosperous, making our living off of the oasis.
+301
+But then the King of Thieves came! He formed an alliance with the Desert Giants, and now they raid and pillage the surrounding villages every night!
+302
+He says that if we don't obey and pay him offerings, we'll all be destroyed by someone named Ephemeris.
+303
+The King of Thieves claims to serve this Ephemeris character, but I think he has his own motivations.
+304
+He doesn't seem like the type to let someone else call the shots.
+305
+The shops around here are barely able to stay in business, since we have to pay so much to the Thief King.
+306
+The Thief King uses powerful fire magic in battle. If you're gonna go fight him, you should put on heat-resistant gear.
+307
+His hideout is somewhere in the desert, but it's hidden by mirages. Only a Magic Mirror can see through them.
+308
+Undead mummies wander the desert ever since the Thief King came. If you run into one, it'll try to curse you.
+309
+While cursed, you take double damage from monster attacks.
+310
+A Hex Breaker will end the curse. You can buy as many as you can afford here in town.
+311
+Wow, you beat the King of Thieves? You must be the strongest there is!
+312
+You're the guys who beat the Thief King? Thank you so much!
+313
+Did you get his Silver Key? I heard there was a guy down south looking for one.
+314
+The King of Thieves hasn't come around in a while. Did you beat him?
+315
+Now that the Thief King's gone, we won't have to worry about him burning stuff up anymore, that's for sure!
+316
+It's been years since anyone from the outside has made their way to Hideaway.
+317
+The one called Ephemeris makes his lair in the Starcrossed Citadel on the north pole.
+318
+He plans to travel back in time, to when he was a young man.
+319
+If he succeeds, the energy required to open the pathway will cause unimaginable destruction.
+320
+A young woman named Victoria once lived here.
+321
+She became enamored with death, and when Ephemeris offered her power over it, she left home to become his general.
+322
+She has fallen in battle now, but I wonder if she can ever truly die.
+323
+The greatest ambition of every adventurer is to reach the mythical land of Vespadia.
+324
+You travel the world in a flying machine that hails from that land, so if you cannot find it, I suppose there are none who can.
+325
+There are some who believe that Vespadia sank into the sea long ago, and others who believe that it rose into the sky, and left for the stars.
+326
+Either way, the answers could only be found in the past.
+327
+We who live in Hideaway are the greatest Wizards in the world.
+328
+Here, you can learn magic which is seldom matched in power.
+329
+Welcome to the adventurers' guild!
+330
+Here, you can change who will be in your party.
+331
+Start by selecting one of the four adventurers in your party, and then select someone you've already hired or hire a new adventurer at level 1 to take their place.
+332
+If you haven't hired anyone yet, then hiring someone new will be your only option.
+333
+The adventurers that you dismiss will be waiting here for any whenever you want them back.
+334
+Enjoy!
+335
+Sorry, this place is for licensed adventurers only.

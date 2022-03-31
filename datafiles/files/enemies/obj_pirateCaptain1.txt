@@ -1,0 +1,27 @@
+Pirate Captain
+spr_pirateCaptain
+0 
+30 
+40 
+62 
+48 
+45 
+50 
+63 
+50 
+5 
+750 
+7995 
+20 
+0 
+-1 
+134 
+0 
+0 
+661 
+0 
+0 
+abilities
+4 
+powers
+2 

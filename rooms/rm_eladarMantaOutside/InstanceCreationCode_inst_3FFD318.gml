@@ -1,0 +1,1 @@
+if(!global.events[237])instance_destroy();

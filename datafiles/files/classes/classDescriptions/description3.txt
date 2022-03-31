@@ -1,0 +1,1 @@
+The Cleric is a divine spellcaster with access to a wide array of healing and support magic. They gain a divine magic level every time they level up, and learn spells automatically upon gaining a high enough divine magic level. They also gain the ability to resist certain status effects.

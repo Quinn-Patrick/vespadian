@@ -1,0 +1,26 @@
+Elder Bark
+spr_elderBark
+2 
+12 
+20 
+4 
+6 
+12 
+16 
+13 
+11 
+10 
+40 
+2000 
+10 
+3 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+powers
+405 

@@ -1,0 +1,298 @@
+1
+Defensive Stance
+2
+Mercurian Swing
+3
+Bull Charge
+4
+Fearless Guard
+5
+Empowering Might
+6
+Throw
+7
+Infallible Strike
+8
+Fire Dragon
+9
+Ice Dragon
+10
+Lightning Dragon
+11
+Broad Cleave
+12
+Attack Stance
+13
+Multistrike
+101
+Hide
+102
+Steal
+103
+Mug
+104
+Stickup
+105
+Multishot
+201
+Radiant Burst
+202
+Revitalize
+203
+Prayer
+204
+Life
+205
+Death
+206
+Toxify
+207
+Necrosis
+208
+Raise
+209
+Divine Bolt
+210
+Sunlight Storm
+211
+Healing Wind
+212
+Revivify
+213
+Grand Healing
+214
+Detoxify
+215
+Focus
+216
+Stimulate
+217
+Holy Judgment
+218
+Sleep
+219
+Mind Jolt
+220
+Armor of Faith
+221
+Ressurect
+222
+Second Chance
+223
+Healing Prayer
+224
+Healing Miracle
+225
+Bulwark of Faith
+226
+Citadel of Faith
+301
+Flames
+302
+Earthtremor
+303
+Riptide
+304
+Stormsong
+305
+Sundance
+306
+Heatwave
+307
+Coldsnap
+308
+Aridize
+309
+Humidify
+310
+Heatstrike
+311
+Coldstrike
+312
+Litstrike
+313
+Flamebreak
+314
+Iceguard
+315
+Elecblock
+316
+Mindsap
+317
+Lifedrain
+318
+Lightblade
+319
+Brainshield
+320
+Soulmail
+321
+Asterarmor
+322
+Sharpen
+323
+Mystic Armor
+324
+Hasten
+325
+Fireball
+326
+Blizzard
+327
+Lightning Bolt
+328
+Stagnate
+329
+Sleep
+330
+Petrify
+331
+Obscure
+332
+Frighten
+333
+Slow
+334
+Shock
+335
+Frostbite
+336
+Enfeeble
+337
+Vulnarize
+338
+Inferno
+339
+Absolute Zero
+340
+Plasma Storm
+341
+Cold Mist
+342
+Paralyze
+343
+Mass Paralyze
+344
+Toxic Cloud
+345
+Earthquake
+346
+Force Arrow
+347
+Disaster
+348
+Mass Teleport
+349
+Teleport
+350
+Dispel
+351
+Mass Extinction
+401
+Hatchet Toss
+402
+Web Shot
+403
+Shadow Strike
+404
+Slime Sling
+405
+Evil Roots
+406
+Shriek
+407
+Bombardment
+408
+Mass Sleep
+409
+Stunning Spores
+410
+Virulent Spores
+411
+Big Dig
+412
+Earthtremor
+413
+Study Attack
+414
+Study Defense
+415
+Study Speed
+416
+Study Accuracy
+417
+Study Evasion
+418
+Study Magic
+419
+Study Flames
+420
+Study Cold
+421
+Study Lightning
+422
+Study Poison
+423
+Study Aether
+424
+Study Vitality
+425
+Study Mind
+426
+Raise the Dead
+427
+Soul Divide
+428
+Meteor
+429
+Clear Skies
+430
+Savage Bite
+431
+Necrotic Breath
+432
+Swallow
+433
+Feather Storm
+434
+Lightning Breath
+435
+Sandstorm
+436
+Mummy's Curse
+437
+Armor Pierce
+438
+Cold Breath
+439
+Eye Beam
+440
+Fire Breath
+441
+Immolate
+442
+Ink Shot
+443
+Earthquake
+444
+Venom Breath
+445
+Terrible Spores
+446
+Psychotic Breath
+447
+Vampirism
+448
+Tidal Wave
+449
+Aetherial Breath
+450
+Poison Shock
+451
+Perfect Hypnosis
+452
+Arctic Wind
+453
+Mark For Death
+1001
+Flame Attack

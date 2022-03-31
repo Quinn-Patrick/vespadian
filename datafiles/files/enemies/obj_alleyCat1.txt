@@ -1,0 +1,27 @@
+Alley Cat
+spr_alleyCat
+0 
+4 
+6 
+10 
+18 
+6 
+8 
+2 
+7 
+5 
+25 
+16 
+20 
+1 
+-1 
+133 
+0 
+0 
+0 
+0 
+0 
+abilities
+410 
+407 
+powers

@@ -1,0 +1,26 @@
+Bandit Pikeman
+spr_banditPike
+0 
+10 
+10 
+10 
+10 
+8 
+4 
+8 
+10 
+5 
+25 
+62 
+20 
+0 
+-1 
+11 
+0 
+0 
+0 
+0 
+0 
+abilities
+407 
+powers

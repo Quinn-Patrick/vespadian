@@ -1,0 +1,34 @@
+1
+$special$: Add me to the party, and we will strike down the forces of evil together!
+2
+$special$: Let me at 'em! It's been too long since I've had a workout!
+3
+$special$: I've had lots of reading time here, but if you need me to join, I can.
+4
+$special$: Let us go on a journey, so that I may smite evil with the light of the gods!
+5
+$special$: You want me to join the party? Well, if you insist...
+6
+$special$: Let's go! I've been cooped up in here too long! I want to see the world!
+7
+$special$: You'd better add me to the party. If I stay cooped up in here too long, I may get myself in trouble.
+8
+$special$: What's that? You want to go out? I'll go anywhere for you!
+9
+$special$: Hark, yonder warriors! We depart come the morning light! No foulness shall hinder our quest!
+10
+$special$: You want me to come along on your little adventure? Fine, I'll humor you.
+11
+$special$: Come on, already! Let's go on an adventure, I'm itching for a fight!
+12
+$special$: An adventure? Great! I can't wait to see what kinds of people we meet!
+13
+$special$: You want me to come on an adventure? Fine, but no treasure can soothe my inner pain.
+14
+$special$: If I go with you, then surely we will have the greatest adventure the world has ever seen!
+15
+$special$: You think you're tough enough to go adventuring without me? Ha! No one's tougher than me!
+16
+$special$: Bring me along, I promise I won't give up no matter what!
+17
+$special$: Maybe if we go together, I'll find the answers I've been searching for.

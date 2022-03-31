@@ -1,0 +1,726 @@
+0
+Empty.
+1
+A sword made for a knight in training. It isn't very sharp, but it's still useful in a pinch.
+2
+A mace made for display purposes, which has been passed down through Frida's family. Be careful with it!
+3
+A sword used by town guards.
+4
+A crude axe intended for use by Kobolds.
+5
+A one-handed sword intended for armed combat.
+6
+A heavy steel bludgeoning weapon often used by holy warriors.
+7
+A genuine human femur. It can be weilded as a weapon.
+8
+A magical sword that strikes with the power of fire.
+9
+A double-edged sword wielded in two hands.
+10
+A ceremonial sword wielded by the Magi.
+11
+A short spear wieled in one hand. It can strike slightly distant targets.
+12
+A long spear wielded in two hands with a blade on the end. It can strike moderately distant targets.
+13
+A small hammer that makes for a fairly effective blunt weapon.
+14
+A weak weapon that can attack slightly distant targets.
+15
+A one-handed axe intended for armed combat. It is a bit unwieldy.
+16
+A powerful two-handed axe. Its strikes are mighty, but unreliable.
+17
+A one-handed hammer intended solely for combat. It is powerful, but slow and imprecise.
+18
+Though designed as a farming implement, this two-handed tool can make for a gruesome mid-range weapon in the right hands.
+19
+A simple and inexpensive weapon. It suffers from poor speed and accuracy.
+20
+A simple and inexpensive two-handed weapon. It is very powerful but extremely imprecise and slow.
+21
+An ornate staff imbued with the power of life. It confers a boost to magic attack and increases the power of healing spells.
+22
+An ornate staff imbued with the power of light. It confers a boost to magic attack and increases the power of aetherial spells.
+23
+A magical one-handed sword that sometimes puts its target to sleep.
+24
+A staff with bludgeoning iron tips. It can reach slightly distant targets.
+25
+A one-handed sword intended for armed combat, made of mythril for enhanced cutting power.
+26
+A double-edged sword wielded in two hands, made of mythril for enhanced cutting power.
+27
+A one-handed axe intended for armed combat, made of mythril for enhanced cutting power and reduced weight.
+28
+A powerful two-handed axe, made of mythril for enhanced cutting power and reduced weight.
+29
+A one-handed hammer intended solely for combat. It is made of mythril for greater power and somewhat reduced weight, though it is still heavy.
+30
+A bludgeoning weapon favored by holy warriors. It is made of mythril for improved striking power and reduced weight.
+31
+Appropriate for the reaping of wheat or souls, this two handed weapon is made of mythril for enhanced damage.
+32
+A one-handed spear with moderate reach. It's tip is made from mythril for enhanced piercing ability.
+33
+A two-handed bladed polearm with long reach. The head is made of mythril for enhanced chopping power.
+34
+A one-handed sword intended for armed combat, made of orichalcum for incredible cutting power and a fast swing.
+35
+A double-edged sword wielded in two hands, made of orichalcum for incredible cutting power and a fast swing.
+36
+A one-handed axe intended for armed combat, made of orichalcum for incredible chopping power.
+37
+A powerful two-handed axe, made of orichalcum for incredible chopping power
+38
+A heavy one-handed hammer intended solely for combat, made of orichalcum for incredible strking power.
+39
+A bludgeoning weapon favored by holy warriors, made of orichalcum for incredible striking power.
+40
+A grizzly two-handed weapon invented as a farming implement, it is made of orichalcum for incredible damage output.
+41
+A one-handed spear with moderate reach. The tip is made from orichalcum for incredible penetration.
+42
+A two-handed bladed polearm with a head made of orichalcum for incredible chopping power.
+43
+A one-handed sword intended for armed combat, made of adamantite for supreme cutting power and a lightning-fast swing.
+44
+A double-edged sword wielded in two hands, made of adamantite for supreme cutting power and a lightning-fast swing.
+45
+A one-handed axe intended for armed combat, made of adamantite for supreme chopping power.
+46
+A powerful two-handed axe, made of adamantite for supreme chopping power
+47
+A heavy one-handed hammer intended solely for combat, made of adamantite for supreme strking power.
+48
+A bludgeoning weapon favored by holy warriors, made of adamantite for supreme striking power.
+49
+A grizzly two-handed weapon invented as a farming implement, it is made of adamantite for supreme damage output.
+50
+A one-handed spear with moderate reach. The tip is made from adamantite for supreme penetration.
+51
+A two-handed bladed polearm with a head made of adamantite for supreme chopping power.
+52
+A legendary sword which possesses great strength and provides protection from physical attacks.
+53
+A grand magical staff which grants its wielder enhanced magical power. It also makes an effective bludgeoning weapon.
+54
+A legendary magical staff which grants its wielder greatly enhanced magical power, and reduces the SP cost of all powers by 10 to a minimum of zero. It also makes a highly effective bludgeoning weapon.
+55
+A legendary two-handed sword wielded by the great hero Siegfried.
+56
+A macabre staff mounted with a skull. It boosts the success rate of spells which cause instant death.
+57
+A legendary sword with the stars in its blade. It makes its wielder more powerful with each blow.
+58
+An infamous scythe once wielded by Victoria. It fully restores its wielder's hit points every time another creature drops to zero hit points.
+128
+A dangerous-looking object that Mary uses as a weapon. Apparently, it's of Mary's own make.
+129
+A frightening weapon that sometimes poisons its target.
+130
+A lightweight, bladed weapon that can be used with a high degree of precision.
+131
+Is it a long knife, or just a short sword? Either way, it is a serious weapon used for thrusting with precision.
+132
+A nimble magical blade bearing black and yellow stripes. It boosts the wielder's speed and accuracy.
+133
+A vicious, curved weapon that isn't very strong, but increases the power of critical hits.
+134
+A nimble slashing sword favored by pirates and sailors.
+135
+A lightweight, bladed weapon made of mythril for enhanced damage and precision.
+136
+A lightweight, bladed weapon made of orichalcum for incredible damage and precision.
+137
+A very quick sword with a curved blade.
+138
+A lightweight, bladed weapon made of adamantite for supreme damage and precision.
+256
+A shield made for a knight in training. It isn't very thick, but it is light.
+257
+A shield made for armed combat. It is thicker than other shields, and quite heavy.
+258
+A wand made from fine mahogany. It launches a beam of fire that can strike enemies at any range.
+259
+An almond-shaped shield which affixes tightly to the wielder's arm. It provides decent protection, and is lightweight.
+260
+A circular shield design used since ancient times. It is a bit slow, but its large profile provides good protection against fire, ice, and electric spells.
+261
+A small bow with a low draw weight. It isn't very powerful, but it can be fired quickly.
+262
+A large bow requiring great strength to use. It inflicts great damage, but is rather slow.
+263
+A ranged weapon consisting of a wooden bow and a mechanical firing system, allowing it to be cocked and loaded before being aimed. It is powerful and easy to use, but very slow.
+264
+A ranged weapon consisting of a heavy steel bow and a mechanical firing system, allowing it to be cocked and loaded before being aimed. It is extremely powerful and easy to use, but takes a very long time to load.
+265
+A small, lightweight, and inexpensive shield that can be used by anyone. It provides little protection, but is useful for parrying, providing a boost to evasion.
+266
+A magical shield emblazoned with a flame insignia. In addition to boosting defense and evasion, it also provides a significant boost to heat resistance.
+267
+A magical shield emblazoned with a snowflake motif. In addition to boosting defense and evasion, it also provides a significant boost to cold resistance.
+268
+A magical shield emblazoned with a lightning bolt motif. In addition to boosting defense and evasion, it also provides a significant boost to electric resistance.
+269
+A magic wand made of fine spruce. It launches a beam of ice that can strike a target at any range.
+270
+A magic wand made of fine oak. It launches a beam of lightning that can strike a target at any range.
+271
+A huge, mighty shield which offers tremendous protection against all types of damage but is very heavy and slow.
+272
+A shield made of mythril for increased protection against all types of damage and reduced weight.
+273
+A huge, mighty shield offering tremendous protection against all types of damage. It is made of mythril for enhanced protection and reduced weight.
+274
+A stringed instrument that a Bard can use to inflict mind damage and sometimes stun the target.
+275
+A shield made of orichalcum for incredible protection against all types of damage and reduced weight.
+276
+A huge, mighty shield made of orichalcum for tremendous protection against all types of damage, though it will slow down the wearer.
+277
+A shield made of adamantite for extreme protection against all types of damage and reduced weight.
+278
+A huge, mighty shield made of adamantite for supreme protection against all types of damage, though it will slow down the wearer.
+279
+A legendary bow made by the god Brahma. Its power and accuracy are without peer.
+280
+A legendary shield bearing the image of the sun and moon. It reduces all incoming damage by ten times its wielder's level.
+384
+A helmet made for a knight in training. In the event of a blow to the head, it's better than nothing.
+385
+This is used by Frida to keep her hair in place, but it also enhances her magical abilities.
+386
+An authentic-looking bit of cloth that Al wears on his head. On closer inspection, it's quite cheap.
+387
+A hat made of thick cloth found by Mary.
+388
+A conical hat with a star and moon motif that enhances the magic power of the wearer.
+389
+A religious artifact worn by a Magus. It provides protection from Aetherial, Vital, and Mind damage.
+390
+A steel cap covering the top of the head. It provides decent protection from physical attacks.
+391
+A steel helmet covering the top of the head and sides of the face. It provides good protection from physical attacks.
+392
+A steel helmet covering the full face. It provides great protection from physical attacks, but impairs the wearer's eyesight, reducing accuracy.
+393
+A magical headscarf that provides protection from physical attacks and from fire attacks.
+394
+A magical fur-lined hat with ear flaps that protects against physical attacks and ice attacks.
+395
+A magical hat made of rubber. It provides protection against physical attacks and lightning attacks.
+396
+A magical cap with a shady visor. It provides protection against physical attacks and aetherial attacks.
+397
+A magical headdress imbued with the power of life. It provides protection against physical attacks and vital attacks.
+398
+A silly looking, magical helmet with a reflective surface. It provides protection against physical attacks and mind attacks.
+399
+A cap made of leather that provides a bit more protection than nothing.
+400
+A steel helmet with wings that boosts the wearer's speed and physical defense.
+401
+An ornate magical hat that boosts magic attack, as well as physical defense and all magical resistances.
+402
+An grand magical hat that greatly boosts magic attack, as well as physical defense and all magical resistances.
+403
+A mythril helmet covering the top of the head and sides of the face. It provides great protection from physical attacks.
+404
+A mythril helmet covering the full face. It provides excellent protection from physical attacks, but impairs the wearer's eyesight, reducing accuracy.
+405
+A beautiful crown made of gold, worn by someone who has since died. It boosts magical attack and all magical resistances, but reduces physical attack. It also sells for a high price.
+406
+An orichalcum helmet covering the top of the head and sides of the face. It provides incredible protection from physical attacks.
+407
+An orichalcum helmet covering the full face. It provides phenomenal protection from physical attacks, but impairs the wearer's eyesight, reducing accuracy.
+408
+A mask with many eyes and spider-like mandibles. It boosts poison resistance and accuracy greatly.
+409
+A stylish hat worn by sailors. It boosts both physical attack and physical defense.
+410
+A magical hat shaped like a mushroom's cap. It provides great protection against physical and poison attacks, as well as a bonus to magic power. However, it leaves the wearer vulnerable to fire attacks.
+411
+An adamantite helmet covering the top of the head and sides of the face. It provides supreme protection from physical attacks.
+412
+An adamantite helmet covering the full face. It provides supreme protection from physical attacks, but impairs the wearer's eyesight, reducing accuracy.
+413
+A regal crown once worn by a demonic Lamia. It offers immunity to the heartbreak status, as well as some magical power and vital and mind resistance.
+640
+A leather chestpiece that protects from light attacks.
+641
+A dress that Frida happened to be wearing. It provides slight protection from heat, cold, and electricity.
+642
+An authentic-looking costume that Al wears. On closer inspection, it's actually a knock-off.
+643
+An adult man's overcoat made from thick material that Mary wears to keep warm.
+644
+A shirt made of interlocking steel rings. It provides the wearer with substantial protection from physical damage.
+645
+A coat made of interlocking steel rings. It provides the wearer with significant protection from physical damage.
+646
+Old-fashioned armor made from overlapping metal scales. It provides excellent protection, but is quite heavy.
+647
+A suit of armor made from steel plates. It includes a cuirass, pauldrons, and neck protection. It provides very good protection for its weight, but leaves some areas exposed.
+648
+A suit of armor made from steel plates. It covers the entire body, providing fantastic protection. However, it is the heaviest conventional armor available.
+649
+A luxurious robe with a star-and-moon motif. It enhances the wearer's magical capabilities and provides protection from certain damage types.
+650
+A set of ceremonial robes worn by a Magus. They provide protection from Heat, Cold, and Electric damage.
+651
+A coat made from linen intended for battle. It is inexpensive and lightweight, but provides less protection than metal armor.
+652
+A set of robes intended for a priest. They provide slight resistance to all magical damage as well as some physical protection.
+653
+A shirt made of interlocking metal rings. It has been modified to provide enchanced protection against weapons and magic.
+654
+A coat made of interlocking metal rings. It has been modified to provide enchanced protection against weapons and magic, and to be lighter.
+655
+A suit of armor made of mythril plates, covering the head, shoulders, neck, and chest. It provides better protection than steel and is lighter to boot.
+656
+A suit of armor made of mythril plates covering the entire body. It provides better protection than steel and is ligther to boot.
+657
+A coat made from linen intended for battle. It has been modified to provide enhanced protection from weapons, and greatly enhanced protection from magic.
+658
+A thick leather tunic providing significant protection for its very light weight.
+659
+A tunic made from canvas with steel plates bolted on underneath. It is lighter than full plate, and provides adequate protection.
+660
+A thick leather tunic enhanced to provide greater protection and range of motion with no additional weight.
+661
+A tunic made from canvas with steel plates bolted on underneath. It has been enhanced to provide greater protection and range of motion with no additional weight.
+662
+A gossamer-like cloak that shimmers like the night sky. It provides a boost to magic power and a large boost to aether resistance, but no physical protection.
+663
+A regular set of clothes that provides very little protection.
+664
+A magical set of robes befitting a great mage. It enhances the wearer's magical capabilities and provides protection from all damage types.
+665
+A grand magical set of robes befitting a legendary mage. It greatly enhances the wearer's magical capabilities and provides tremendous protection from all damage types.
+666
+A suit of armor made of orichalcum plates, covering the head, shoulders, neck, and chest. It provides an incredible level of protection, surpassing even mythril, at no additional weight.
+667
+A suit of armor made of orichalcum plates covering the entire body. It provides incredible protection, surpassing even mythril, at no additional weight.
+668
+A suit of armor made of adamantite plates, covering the head, shoulders, neck, and chest. It provides supreme protection, at no additional weight.
+669
+A suit of armor made of adamantite plates covering the entire body. It provides the ultimate protection, surpassing all else, but is heavier than a partial set.
+670
+A black fighting gi worn by stealth assassins. It provides very little protection, but boosts speed and evasion.
+671
+A dark colored outfit, used by thieves to disappear into the shadows. It boosts evasion and increases the success rate of the steal command.
+672
+A lightweight suit of armor made from the hide and scales of all kinds of dragons. It provides great physical protection and peerless protection from magic. 
+896
+A set of bracers that provide the wearer protection from heat.
+897
+A set of bracers that provide the wearer protection from cold.
+898
+A set of bracers that provide the wearer protection from electricity.
+899
+These stylish pants worn by Purple Men provide protection from psychic energy, and boost magic power.
+900
+This beautiful antique necklace provides a slight boost in magic attack and aetherial resistance, but can also be sold for a high price.
+901
+A bandana worn around the neck the provides a moderate boost in speed.
+902
+A medallion that provides a small boost to physical defense.
+903
+A medallion that provides a moderate boost to physical defense.
+904
+A piece of a saint's body, stored in a reliquary and worn around the neck. It possesses phenomenal divine power.
+905
+A magical pin used to hold the wearer's eyes open. It grants immunity to the sleep status.
+906
+A magical medallion with a heart motif. It boosts the wearer's maximum hit points by 10 percent.
+907
+A set of lenses worn over one eye. It provides a significant boost to accuracy.
+908
+A bracelet with a star motif. It provides a slight boost to all magical resistances.
+909
+A fierce-looking magical gauntlet that menaces with spikes. It provides a boost to both physical attack and physical defense.
+910
+A cloak that makes the wearer subtely see-through. It provides a substantial boost to evasion.
+911
+A magical earring set with a dazzling, swirling gem. It boosts the wearer's maximum skill points by 10 percent.
+912
+A pair of sunglasses that grants the wearer immunity to blindness.
+913
+A frightening-looking spiked charm hanging from a chain. It gives a tremendous boost to fire resistance, but penalizes all other resistances.
+914
+Whoever wears these fleet sandals will always take the first turn in battle.
+915
+A great magical ring which grants its wearer enhanced fire attacks.
+916
+A great magical ring which grants its wearer enhanced ice attacks.
+917
+A great magical ring which grants its wearer enhanced lightning attacks.
+918
+A magical bandana which greatly boosts the wearer's speed stat.
+919
+A magical bandana which drastically boosts the wearer's speed stat.
+920
+A magical medallion which drastically boosts the wearer's physical defense stat.
+921
+A magical medallion with an elaborate heart motif. It boosts the wearer's maximum hit points by 20 percent.
+922
+A magical earring set with a priceless gem. It boosts the wearer's maximum skill points by 20 percent.
+923
+A grand magical medallion that radiates life energy. It boosts the wearer's maximum hit points by 40 percent.
+924
+A grand magical earring set with a mythic gem. It boosts the wearer's maximum skill points by 40 percent.
+925
+A frightening-looking black charm hanging from a chain. It gives a tremendous boost to evasion, but reduces physical attack.
+926
+A talisman worn around the neck which makes the wearer immune to the curse status.
+927
+A very thick adamantite shell worn on the back. It grants its wearer supreme defenses, but cripples physical attack and speed. It can be worn by anyone.
+928
+A magical leather band worn on the forearm that grants immunity to the poison status.
+929
+A magical golden ring that makes its wearer immune to instant death effects.
+930
+A fine silk sash which increases the frequency of critical hits.
+1152
+Heal 150 Hit Points.
+1153
+Heal 500 Hit Points.
+1154
+Heal 2000 Hit Points.
+1155
+Heal 5000 Hit Points.
+1156
+Recover 20 Skill Points.
+1157
+Recover 100 Skill Points.
+1158
+Recover 500 Skill Points.
+1159
+Cure the Poison status.
+1160
+Cure the Paralysis status.
+1161
+Cure the Petrification status.
+1162
+Cure the Blindness status.
+1163
+A tooth taken from a Kobold's mouth. Perhaps it's useful for something?
+1164
+What a nice rock! Whether or not it's useful, it'll sell for a high price.
+1165
+Raise a fallen ally with 1 hit point.
+1166
+Gross! Maybe someone will buy this sticky lump from you, or perhaps you can make something out of it.
+1167
+This rare and valuable mineral is formed inside some weak slimes. It sparkles pleasantly.
+1168
+This rare and valuable mineral is formed inside some ordinary slimes. It refracts sunlight in a unique way.
+1169
+This rare and valuable mineral is formed inside some moderate slimes. It has reflective streaks in it.
+1170
+A purple shard of a mysterious mineral which exudes psychic energy.
+1171
+This compound eye comes from a very large creepy-crawly. Why even collect this stuff?
+1172
+Just don't think about where it comes from; this smooth silk is highly prized.
+1173
+Be careful with this deadly venom. You'd better just sell it...
+1174
+This sticky slime comes from incorporeal beings. It gives off a cool vapor.
+1175
+This thin mist has an unnatural ability to block out light.
+1176
+A genuine human skull. People may give you weird looks for carrying this around...
+1177
+A dazzling red gemstone cut in an inexpensive way. Sell it for a high price.
+1178
+The antenna from a weaker variety of slug, which was used as a sensory organ during the slug's life.
+1179
+An ingot of standard, weapons-grade steel. Used for crafting.
+1180
+An ingot of mythril, a rare and lightweight metal. Used for crafting.
+1181
+An ingot of orichalcum, a stupendously strong and light metal. Used for crafting.
+1182
+An ingot of Adamantite, a mythical metal with endless uses. Used for crafting.
+1183
+The distilled essence of fire. Used for crafting.
+1184
+A chunk of ice that never melts. Used for crafting.
+1185
+A bottle full of lightning, caught mid strike. Used for crafting.
+1186
+A sample of pure Aether. Used for crafting.
+1187
+A thread containing the essence of life. Used for crafting.
+1188
+A chunk of crystalized thought. Used for crafting.
+1189
+A bit of fabric made from cotton. Used for crafting.
+1190
+A bit of fabric made from canvas. Used for crafting.
+1191
+An expensive bit of fabric made from silk. Used for crafting.
+1192
+A mythical piece of fabric made from adamantite strands. Used for crafting.
+1193
+A legendary piece of hide taken from a dragon. Used for crafting.
+1194
+A blank scroll made of papyrus. Used for crafting.
+1195
+A blank scroll made of canvas. Used for crafting.
+1196
+A blank scroll made of fine silk. Used for crafting.
+1197
+A blank scroll made of mythical adamantite strands. Used for crafting.
+1198
+A magic scroll which attacks with flames when used.
+1199
+A magic scroll which attacks with ice when used.
+1200
+A magic scroll which attacks with lightning when used.
+1201
+An ornamental gem said to possess supernatural powers. Sell it for a high price.
+1202
+An ornamental gem with many artistic applications. Sell it for a high price.
+1203
+An ornamental gem that is often used for carving. Sell it for a high price.
+1204
+An ornamental gem believed to be formed from solidified moonlight. Sell it for a high price.
+1205
+An ornamental gem popular in jewelery. Sell it for a high price.
+1206
+A semi-precious gem said to prevent drunkenness. Sell it for a high price.
+1207
+A semi-precious gem said to protect seafaring travels and cure laziness. Sell it for a high price.
+1208
+A semi-precious gem with notable abrasive properties. Sell it for a high price.
+1209
+A semi-precious gem with a hazy appearance. Sell it for a high price.
+1210
+A semi-precious gem with magnetic properties. Sell it for a high price.
+1211
+A semi-precious gem said to cure lunacy. Sell it for a high price.
+1212
+A precious gem that shines dazzling red. Sell it for a very high price.
+1213
+A precious gem that shimmers rich blue. Sell it for a very high price.
+1214
+A precious gem that glistens magnificent green. Sell it for a very high price.
+1215
+A precious gem beyond all others in rarity. Sell it for an extremely high price.
+1216
+A tooth taken from some sort of vicious animal. Fortunately, you took it from them before they could give it to you.
+1217
+A leaf from an awakened plant. It may try to crawl away.
+1218
+A leg from something with legs to spare. You needed it more, anyway.
+1219
+A genuine extraterrestrial artifact colored gray. What could it be used for? No one will believe you if you try to sell it.
+1220
+This glob of arcane slime comes from a living ooze, and is more sought after than the more common slime balls.
+1221
+Don't question it, these putrid drippings are said to have medicinal properties.
+1222
+A feather incapable of providing flight to whatever you took it from, which doubtlessly made it easier to obtain.
+1223
+A magical potion made by fairies. It heals 500 hit points and restores 50 skill points.
+1224
+Some sand from the Dreamscape. Sell it or use it for crafting, just don't sprinkle it in your eyes.
+1225
+A magical tome that teaches the spell Cold Mist to anyone capable of learning magic, but only once.
+1226
+Permanently boost the strength score of one character by 1.
+1227
+Permanently boost the fortitude score of one character by 1.
+1228
+Permanently boost the dexterity score of one character by 1.
+1229
+Permanently boost the agility score of one character by 1.
+1230
+Permanently boost the intellect score of one character by 1.
+1231
+Permanently boost the wisdom score of one character by 1.
+1232
+Permanently boost the charisma score of one character by 1.
+1233
+Permanently boost the spirit score of one character by 1.
+1234
+A scale taken from a red dragon. It is warm to the touch.
+1235
+A scale taken from a blue dragon. It is unnaturally cool.
+1236
+A scale taken from a yellow dragon. It bristles with static electricity.
+1237
+A scale taken from a black dragon. It smells noxious.
+1238
+A scale taken from a white dragon. It glows softly.
+1239
+A scale taken from a green dragon. It exudes vitality.
+1240
+A scale taken from a purple dragon. It peers into your mind.
+1241
+A fluffy fungal substance taken from some sort of mushroom creature. It may have medicinal properties if processed correctly.
+1242
+A plump, red mushroom. It is deadly if consumed, but may have some use.
+1243
+A bit of residue from the other side, all that remains of the soul of an undead creature.
+1244
+A shard from the abyss, sometimes found clinging to demons that came to Earth.
+1245
+A very rare shard of the pure essence of fire. It is burning hot. Use it for crafting.
+1246
+A very rare shard of the pure essence of ice. It is dreadfully cold. Use it for crafting.
+1247
+A very rare shard of the pure essence of lightning. It is stunningly electrifying. Use it for crafting.
+1248
+Raise a fallen ally with one half of their maximum hit points.
+1249
+A magic tome that will teach the spell of Flames to one character with an arcane magic level of at least 1.
+1250
+A magic tome that will teach the spell of Toxify to one character with an arcane magic level of at least 1.
+1251
+A magic tome that will teach the spell of Sleep to one character with an arcane magic level of at least 1.
+1252
+A magic tome that will teach the spell of Tremor to one character with an arcane magic level of at least 6.
+1253
+A magic tome that will teach the spell of Frostbite to one character with an arcane magic level of at least 6.
+1254
+A magic tome that will teach the spell of Shock to one character with an arcane magic level of at least 6.
+1255
+A magic tome that will teach the spell of Fireball to one character with an arcane magic level of at least 13.
+1256
+A magic tome that will teach the spell of Slow to one character with an arcane magic level of at least 13.
+1257
+A magic tome that will teach the spell of Mass Sleep to one character with an arcane magic level of at least 13.
+1258
+A magic tome that will teach the spell of Blizzard to one character with an arcane magic level of at least 19.
+1259
+A magic tome that will teach the spell of Thunderstorm to one character with an arcane magic level of at least 19.
+1260
+A magic tome that will teach the spell of Hasten to one character with an arcane magic level of at least 19.
+1261
+A serrated tooth taken from a shark. Don't worry, it has plenty to spare.
+1262
+A tan marble-like sphere taken from a desert monster. It will sell for a high price.
+1263
+A magical sphere found inside most constructs and golems. Sell it for a high price.
+1264
+A lump of green slime that holds a cubic shape. Sell it for a high price, or use it to make something.
+1265
+Cure the Heartbreak status.
+1266
+A magic tome that will teach the spell of Death to one character with an arcane magic level of at least 25.
+1267
+A magic tome that will teach the spell of Paralyze to one character with an arcane magic level of at least 25.
+1268
+A magic tome that will teach the spell of Sharpen to one character with an arcane magic level of at least 25.
+1269
+A bone from a huge prehistoric beast, prized for the difficulty of obtaining one.
+1270
+A feather taken from a mighty bird. Sell it for a high price.
+1271
+A genuine extraterrestrial artifact colored red. What could it be used for? No one will believe you if you try to sell it.
+1272
+A faintly warm stone that glows softly. Sell it for a high price, or use it for crafting.
+1273
+A branch from a powerful awakened plant. It is very tough, and it squirms a bit when you try to handle it.
+1274
+A magical sphere found inside powerful constructs and golems. They will sell for a high price.
+1275
+A magic tome that will teach the spell of Inferno to one character with an arcane magic level of at least 32.
+1276
+A magic tome that will teach the spell of Teleport to one character with an arcane magic level of at least 32.
+1277
+A magic tome that will teach the spell of Toxic Cloud to one character with an arcane magic level of at least 32.
+1278
+Cure the Curse status.
+1279
+A stable explosive that can be used in battle or to destroy big rocks.
+1280
+Highly prized ink from an oversized squid.
+1281
+This rare and valueable mineral is formed inside some powerful slimes. It smells a bit funny.
+1282
+A magic tome that will teach the spell of Absolute Zero to one character with an arcane magic level of at least 38.
+1283
+A magic tome that will teach the spell of Plasma Storm to one character with an arcane magic level of at least 38.
+1284
+A magic tome that will teach the spell of Dispel to one character with an arcane magic level of at least 38.
+1285
+A magic tome that will teach the spell of Earthquake to one character with an arcane magic level of at least 44.
+1286
+A magic tome that will teach the spell of Mass Paralyze to one character with an arcane magic level of at least 44.
+1287
+A magic tome that will teach the spell of Mass Teleport to one character with an arcane magic level of at least 44.
+1288
+A grand magic tome that will teach the spell of Mass Extinction to one character with an arcane magic level of at least 49.
+1289
+A grand magic tome that will teach the spell of Meteor to one character with an arcane magic level of at least 49.
+1290
+A legendary magic tome that will teach the spell of Disaster to one character with an arcane magic level of at least 50.
+1291
+A shard of crystalized elemental wind. It will sell for a high price.
+1292
+A genuine extraterrestrial artifact colored yellow. What could it be used for? No one would believe you if you tried to sell it.
+1293
+A black pearl that will instantly kill anyone who swallows it. Used for crafting.
+1294
+A shimmering scale from a powerful sea creature. Sell it for a high price.
+1295
+A shard of crystalized elemental water. It will sell for a high price.
+1296
+This priceless mineral is formed inside of legendary slimes.
+1297
+A genuine extraterrestrial artifact colored orange. What could it be used for? No one will believe you if you try to sell it.
+1298
+A genuine extraterrestrial artifact colored green. What could it be used for? No one will believe you if you try to sell it.
+1408
+A school-style composition book with the name "Percy" etched on the front. It allegedly belongs to a kidnapper of fey, who should be found in Ephemera.
+1409
+The granddaughter of the mayor of Menendel, kidnapped by the molemen. Bring her back and you're sure to get a good reward.
+1410
+An artifact of tremendous religious significance in Elta. It should help with getting into Eladar Manta.
+1411
+The key to the captain's pirate treasure horde. Now, where to use it?
+1412
+A key that opens a door in the Lon Hirodine archives. It is very rusty, so it will only work once.
+1413
+A set of tools meant for thieves to pick locks and break into unsuspecting homes and businesses. This isn't meant for anyone of strong moral fiber, much less children, but that won't stop Mary as long as the lock isn't too difficult.
+1414
+A sigil of tremendous significance. What would a Magus say if you showed it to them?
+1415
+A key that opens the locks in the tunnels under Menendel.
+1416
+A shard of crystalized moonlight said to herald new beginnings.
+1417
+A key that opens a room at an inn somewhere.
+1418
+A key that opens the locks in the Mole Hole.
+1419
+A key which opens one of the locks in the Island Fortress.
+1420
+A key which opens any silver lock. It can be used an unlimited number of times.
+1421
+A set of blueprints for crafting gear made of mythril, among other things.
+1422
+A set of blueprints for crafting gear made of orichalcum, among other things.
+1423
+A key that opens a lock in the Desert Palace.
+1424
+A volatile explosive substance used to manufacture dynamite. It is useless in its current form.
+1425
+A set of blueprints for crafting gear made of adamantite, among other things.
+1426
+A key that opens the lock in the Waterfall Shrine.
+1427
+A shard of crystalized moonlight said to fortell the ends of journeys.
+1428
+A key which opens any gold lock. It can be used an unlimited number of times.
+1429
+A set of ID cards which certify you as licensed adventurers. Adam had them made up for you.
+1430
+A silver mirror which can see through mirages in the desert.

@@ -1,0 +1,670 @@
+1
+Al: I think we may have gotten a little side tracked. What were we doing, again?
+2
+Frida: We have to get into Eladar Manta.
+3
+Al: And has all this adventuring brought us any closer to doing that?
+4
+Frida: Well...
+5
+Eric: We have three of these pointy things. Maybe that's what we need?
+6
+Mary: Why don't we ask Elk?
+7
+Frida: I guess it's worth a try.
+8
+Eric: He's probably in the library back in Lon Hirodine. Let's go there.
+9
+Frida: Excuse me, Mr. Elk?
+10
+Elk: Hm? You're back? Have you gone to Eladar Manta already?
+11
+Eric: No, they won't let us in.
+12
+Mary: But we found three pointy things!
+13
+Elk: I beg your pardon?
+14
+Eric: She's talking about these.
+15
+Eric shows Elk the Thorns.
+16
+Elk: Let me see those.
+17
+...
+18
+Elk: By Barnabus's beard, you've found three Thorns of Benelohim?
+19
+Eric: Is that what those are?
+20
+Elk: Indeed. The thorns which once pierced the flesh of the Son of God...
+21
+One of these will surely prove adequate to admit the holder to Eladar Manta.
+22
+Al: Then what are we waiting for? We did it! Let's get going!
+23
+Frida: Not so fast. Isn't there something you're missing about that?
+24
+Eric: There's four of us, and...
+25
+Mary: One. Two. Three.
+26
+Three thorns.
+27
+Al: What!? That can't be what stops us! We already went to all that trouble to get three of the things!
+28
+Can't we just... have three of us go in and one of us... throw a thorn out for the last person?
+29
+Frida: How would that even work?
+30
+Al: You know... through the window, or something!
+31
+Eric: I think we'd better play by the rules on this one. And no one's getting left behind.
+32
+So we'll just have to find another.
+33
+Frida: Argh! We nearly got killed on the first three!
+34
+And what are the odds that one'll turn up, anyway?
+35
+Mary: Hey Mr. Elk, what's down here?
+36
+Elk: That goes to the archives. It's no place for children.
+37
+Al: How come?
+38
+Elk: It has become infested with monstrous spirits and undead creatures. Stay away.
+39
+Al: Okay. Whatever you say.
+40
+Hmhmhm...
+41
+Al: Okay, he's distracted, let's go.
+42
+Frida: Go? Go where?
+43
+Al: Down to the archives.
+44
+Frida: But Elk told us not to go there!
+45
+Mary: Yeah, and you agreed with him.
+46
+Al: C'mon, Mary. Don't be naive. There has to be something down there worth finding!
+47
+Frida: Like what, books?
+48
+Al: You love books!
+49
+Eric: We could find a Thorn of Benelohim down there.
+50
+Frida: If there is one, it belongs to the library!
+51
+Al: We can borrow it for awhile. No one goes down there, anyway. It's not like they'll notice.
+52
+Mary: Let's go! Treasure hunt!
+53
+Eric: We have to hurry.
+54
+Frida: Ugh.
+55
+Mary: Phew...
+56
+Al: It was tough just getting down here. I hope we can get back out.
+57
+Eric: But where are we?
+58
+It feels like no one's been here in a really long time.
+59
+Frida: I remember reading somewhere that when the Magusite church came to power, they reserved space in various libraries for their archives.
+60
+But that was hundreds of years ago, and most of those archives have been lost.
+61
+Al: That's perfect! If we're gonna find one of those thorns anywhere, it's gonna be here.
+62
+Eric: Let's look around. Even if we don't find a thorn, one of these books may tell us where to find one.
+63
+Al: Let's not waste time then, everyone grab a book.
+64
+Al's Book
+65
+Al: I think mine is about a war...
+66
+It says, 'In 202, the Archmagus Ecclesiastes initiated the final battle in the siege of the Phan-da-ran-ian citadel. We've decided to rename it to Eladar Manta.'
+67
+Who's the Archmagus?
+68
+Frida: He's the leader of the Magi.
+69
+Al: Who are...?
+70
+Frida: Ugh, how can you not know? There are nine magi. They're the highest religious authority in the Magusite church.
+71
+That's why we're called Magusites, 'cause we believe in the divine inspiration of the Magi.
+72
+Al: I guess I get it. So who are the Phandaranians?
+73
+Frida: They were an ancient religion. They basically worshipped the devil, which is why the Magi wanted to take them over.
+74
+Or that's what I've heard, at least.
+75
+Al: Crazy...
+76
+Eric's book:
+77
+Eric: Hey, I think this is a book of poetry.
+78
+Let me read one...
+79
+"To the gates of High Heaven,
+80
+The hallowed courts of El.
+81
+We pray from our souls for
+82
+Our deliverance from Hell.
+83
+But never can we go,
+84
+We cannot succumb.
+85
+'Til our land is ours again,
+86
+To Chryse we come."
+87
+Frida: It's pronounced "Cry-Sea." The land of gold.
+88
+Eric: Oh.
+89
+Frida: Chryse is the holy land. It's the place where God's chosen people are from.
+90
+All of us here in Elta are said to be descended from the people of Chryse.
+91
+Eric: But this poem... it says Chryse belongs to someone else.
+92
+Frida: Yeah. It was taken over by Amharra.
+93
+Al: Say what? That's where I'm from!
+94
+Frida: Yeah. And you're not one of God's chosen people. No matter what they'll tell you.
+95
+Al: Fine. God's never done anything for me, anyway. I don't really care what He thinks.
+96
+Frida: What!? You should be thankful every day for the gifts that God's given you!
+97
+Eric: Can we get off the politics? We're all on the same side!
+98
+Frida: Al, I'm gonna pray for you.
+99
+Al: Oh, shut up.
+100
+Mary's book:
+101
+Frida: Mary, you've been on the same page for a long time.
+102
+Mary: Oh.
+103
+Eric: And that book looks really hard for someone your age.
+104
+Mary: Oh.
+105
+Al: And...
+106
+It's upside down!
+107
+Mary: Urk!
+108
+Frida: What's wrong with you!? What have you been doing this whole time?
+109
+Mary: Well, you see...
+110
+Al: You don't have to say it. I know what's going on.
+111
+You can't read, can you, Mary?
+112
+Mary: That's rude, Al! I'm surprised at you!
+113
+Saying something like that about me! I never!
+114
+Eric: Well, CAN you read?
+115
+Mary: ...
+116
+...
+117
+...
+118
+No.
+119
+Frida: Wow. I knew you were dumb, but that's just sad.
+120
+I feel bad. I really do.
+121
+Mary: I'm sorry... I didn't want you to find out...
+122
+Eric: You thought you could hide it?
+123
+Mary: Yeah. What choice did I have?
+124
+Eric: You should let us know. Even if it's something embarrassing, we won't judge you for it-
+125
+Er, you can just tell me, if you want.
+126
+Al: Besides, Mary, you're an open book. You can't hide anything from us. Not even your bedwetting problem.
+127
+Mary: What!?
+128
+Eric: Why don't you just look around, and see if you can find anything...
+129
+Non-literary.
+130
+Mary: *sniff* okay.
+131
+Mary walks off.
+132
+Eric: What was that book about, anyway?
+133
+Frida: It's a... cookbook.
+134
+Al: She'd've loved it.
+135
+After all that:
+136
+Frida: Wait... I think this book is written in some sort of code.
+137
+Maybe I can decipher it...
+138
+Frida: It's all about where the church hid their artifacts.
+139
+Eric: Okay, so flip to 't' for thorns.
+140
+Frida: It may not be that simple...
+141
+Frida: Please please please...
+142
+Aha! Right here!
+143
+The only one in Elta is in the catacombs of Ridania.
+144
+You're lucky you had someone as smart as me to figure that out.
+145
+Eric: I've heard of that. It's a ruin, isn't it?
+146
+Frida: It is now, but at the time it was a huge city.
+147
+It's located south of El Trice, beyond the mountains.
+148
+Hopefully no one beat us to it.
+149
+Eric: There's no time to waste, then. Let's get moving.
+150
+Eric: We actually found it...
+151
+Mary: Umm... Why are we here again?
+152
+Frida: There's a Thorn of Benelohim hidden here somewhere. Or...
+153
+There used to be, at least.
+154
+Al: Hey, there's already people here.
+155
+Eric: Hello?
+156
+Archeologist: Gooday, lad. Can we help yah?
+157
+Al: What are you doing here? This place is a ruin.
+158
+Archeologist: Precisely! We're here to excavate and find the hidden relics of the old church.
+159
+Eric: That sounds like what we're here to do.
+160
+Frida: Then we'll have to hurry and find the thorn before them.
+161
+???: Fat chance.
+162
+If you're here for the Thorn of Benelohim, you're outta luck.
+163
+Al: Says who?
+164
+Clarence: Says Clarence, son of Cameron.
+165
+Religious history prodigy.
+166
+Frida: We need that thorn.
+167
+Clarence: Church artifacts aren't toys for children to play with. Once I have the thorn, I'm taking it back to Eladar Manta, where it'll be safe from graverobbers like you.
+168
+Eric: So you know where the thorn is?
+169
+Al: And what do you mean children? You're no older than us!
+170
+Clarence: It's somewhere in the catacomb, which has just been unearthed
+171
+Mary: Over there?
+172
+Clarence: Yup.
+173
+Mary: Finders keepers!
+174
+Eric: Is this the end?
+175
+Mary: I think this is a door...
+176
+Al: The thorn must be on the other side.
+177
+Frida: It's a puzzle. Look at these sliding rings. They correspond to days, months, and years.
+178
+This relief must have something to do with it...
+179
+Al: It's a man being crowned king.
+180
+And there's... a guy above him.
+181
+Frida: I think it depicts the Crowning of King Sanones.
+182
+This took place on a very important date 2216 years before the birth of Benelohim. I'll just set it to that date, and...
+183
+...
+184
+Mary: What happened?
+185
+Al: Nothing. Frida's brain is on the fritz.
+186
+Frida: No! This thing must be broken.
+187
+Clarence: As if.
+188
+Clarence walks into the room.
+189
+I didn't chase you because I knew you'd get stuck here. 
+190
+These tests were always placed at the locations of important treasures, to ensure only the truly devout could get inside.
+191
+Frida: I already solved it. The mechanism must be broken.
+192
+Clarence: The Crowning of Sanones...
+193
+And you put in the date of that? That wouldn't be nearly hard enough.
+194
+Frida: What, do you have a better idea?
+195
+Clarence: Of course. The Crowning of Sanones is an event from the Old Book.
+196
+Frida: Duh.
+197
+Clarence: Do you know what typology is, little girl?
+198
+Frida: Sure I do! It's when something in the Old Book foreshadows something in the New Book.
+199
+Clarence: Very good! And what New Book story is typologically related to the Crowning of Sanones?
+200
+Frida: It's a-
+201
+Uh...
+202
+Clarence: Tsk tsk tsk. Looks like someone didn't pay attention in Sunday school.
+203
+It must be referring to the resurrection. Three days after the execution of Benelohim, he rose from his grave and ascended to High Heaven.
+204
+Tell me what day this is, girly.
+205
+Frida: That's easy! It's still a holiday!
+206
+It's uh... the first Sunday after the first full moon of Spring.
+207
+Clarence: And what date was that in the year 41?
+208
+Frida: Umm... Lemme think...
+209
+Clarence: I hardly blame you for not knowing. You would even have to take into account the reconstruction of the calendar in 477.
+210
+Clarence enters the date, and the door slides open.
+211
+Now then, it's as you said.
+212
+Finders keepers.
+213
+Clarence got the Thorn of Benelohim...
+214
+Clarence: At last, the final Thorn of Benelohim is accounted for.
+215
+Ciao.
+216
+Al: Did he say... the final?
+217
+Eric: So there aren't any more to find...
+218
+Mary: Oh...
+219
+What do we do now?
+220
+Eric: You okay, Frida?
+221
+Frida: Grrrr...
+222
+Who... who does he think he is?
+223
+Eric: Clarence?
+224
+Al: That guy's worse than you, Frida.
+225
+Still, you gotta admit, he knows his stuff.
+226
+Frida: How... can anyone be that much smarter than me...
+227
+It's not possible!
+228
+Al: Wow, Frida, you're actually crying over not being the world's biggest nerd?
+229
+Frida: Waah!
+230
+Eric: *sigh* Let's go.
+231
+The next day...
+232
+Frida: How do you know how to fish?
+233
+Mary: Eric taught me.
+234
+Frida: How many fish have you caught?
+235
+Mary: None.
+236
+Frida: You've been sitting here for hours and you haven't caught anything? Why are you still doing it?
+237
+Mary: I dunno. 'Cause it's fun, I guess.
+238
+Frida sits down next to Mary.
+239
+Frida: That's all? 'Cause it's fun?
+240
+Mary: Yup.
+241
+Wanna try?
+242
+Frida: I don't fish.
+243
+Mary: Just hold the pole.
+244
+Mary hands the pole to Frida.
+245
+Mary: Now just sit there.
+246
+They sit there for a long time. Eventually, Mary puts her head on Frida's shoulder. The scene starts to fade out, implying the end of the quest, but then Mary remembers something.
+247
+Mary: Oh! I almost forgot!
+248
+Surprise!
+249
+Frida: This is... a Thorn of Benelohim!
+250
+Mary: The last one!
+251
+Frida: Where did you get it?
+252
+Mary: From Clarence.
+253
+Frida: How!?
+254
+Mary: It went something like this...
+255
+I went to where they were camping later that day. I was gonna try and steal it, but they saw me.
+256
+So instead I just walked up to Clarence and asked nicely for it. Worth a try, ya know?
+257
+I expected him to spit on me or call me an egg or something, but he was actually really nice.
+258
+He said, 'What was the name of that girl you were with? The smart one.'
+259
+I told him and then he said something like, 'What a beautiful name,' and he turned all red.
+260
+Frida: Where is this going?
+261
+Mary: I kinda told him that if he gave me the thorn, you would go on a date with him.
+262
+Frida: YOU WHAT!?
+263
+Mary: I thought it was a good deal.
+264
+Frida: Mary, I can't do that, I'm engaged!
+265
+Mary: Oh, well. What's he gonna do, fight us?
+266
+Frida: That's so wrong...
+267
+Mary: But now we can go to that place.
+268
+Frida: To Eladar Manta.
+269
+Guard: Who goes-
+270
+Oh, it's you again.
+271
+Al: That's right. And this time, you're letting us in.
+272
+Read 'em and weep.
+273
+Al shows a handful of thorns.
+274
+Guard: Ah! Astonishing!
+275
+Eric: Yup. A thorn for each of us. Not bad, huh?
+276
+Guard: God has smiled on you. Enter, but be humble.
+277
+Mary: Hooray!
+278
+Mary: Mr. Elk!
+279
+Frida: Mary, be quiet. That's very disrespectful.
+280
+Elk: Here, I am not called Elk, young lady.
+281
+Eric: So what should we call you?
+282
+Elk: If you are feeling proper, call me Your Holiness.
+283
+But you can call me Adam.
+284
+Eric: Wait, I know that name...
+285
+You're the Archmagus!
+286
+Adam: Indeed, I am the highest religious authority in Elta.
+287
+But today, it is I who must be humble to you.
+288
+Al: Why's that?
+289
+Adam: When we first met, I was dismissive to you. I saw you only as children with ambitions far too lofty for your stature.
+290
+But the fact that you've collected four Thorns of Benelohim... 
+291
+To find even one exceeds my expectations most distantly.
+292
+Al: You wouldn't believe everything we went through...
+293
+???: I'm certain I wouldn't.
+294
+Siegfried enters from the south.
+295
+Mary: Gya! W-w-who are you?
+296
+???: Have you made it all the way here without knowing your hosts, little lady?
+297
+I am Magus Siegfried.
+298
+Frida: I am humbled to meet you, m'lord.
+299
+Siegfried: To your feet, young one. You must be Frida.
+300
+Frida: Y-yes.
+301
+Mary: Are you okay, Mr. Siegfried? Y-your face...
+302
+Siegfried: My face was weathered by the trials I faced during my passion.
+303
+I was liberated from my suffering only by devoting myself completely to God.
+304
+Adam: Please don't scare them.
+305
+These children have come for counsel.
+306
+Siegfried: Ah, yes. Frederik and Patrice. They are your parents, no, Frida?
+307
+Frida: Yes, they are.
+308
+Siegfried: I understand they are presently held in chains by the Lord's Army.
+309
+Frida: That's right. It was me they were after.
+310
+Siegfried: All those who pervert the message of God are enemies of the Magi.
+311
+Adam: We are already working on unravelling their secrets and recovering their prisoners.
+312
+What these children need is sanctuary, and they will find it here.
+313
+Siegfried: Tell me, Frida, and her friends as well...
+314
+What is it you want?
+315
+Eric: I am Eric, Son of Ulrich. And I promised Frida that I'd help find her parents.
+316
+I also promised I would find homes for Al and Mary.
+317
+So I don't want sanctuary... I want to keep fighting.
+318
+Siegfried: Your devotion is admirable. And you found not one but four thorns of Benelohim, is that correct?
+319
+Al: It sure is!
+320
+Siegfried: I think the talents of these children are wasted behind these walls.
+321
+They should be on the front lines of the battle.
+322
+In Balashtar.
+323
+Adam: That is folly! What if they were to meet with harm!?
+324
+Siegfried: They have already faced great danger and prevailed. I have no doubt they can endure whatever awaits them.
+325
+Adam: Groan...
+326
+Al: Don't worry, old dude! We'll be fine.
+327
+Siegfried: The Lord's Army is headquartered somewhere in Balashtar.
+328
+It is there that the battle against them will be decided.
+329
+Eric: We'll do it.
+330
+Mary: What's Balashtar?
+331
+Frida: It's the kingdom to the east of Elta. Historically, they are an ally, but recently they've become isolationists, and difficult to contact.
+332
+We'll have to cross the Great Bridge of Vanandel.
+333
+Adam: Because of their isolationism, we know little of how their battle against the Lord's Army progresses, but I would place a great wager that you will find allies amongst her people.
+334
+Siegfried: Make haste, children. Destiny awaits.
+335
+Eric: This way goes out of Elta. We should turn back.

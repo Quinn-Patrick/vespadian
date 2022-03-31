@@ -1,0 +1,27 @@
+Plains Giant
+spr_greenOgre
+0 
+26 
+30 
+6 
+4 
+5 
+14 
+2 
+4 
+5 
+225 
+2120 
+20 
+18 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+425 
+417 
+powers

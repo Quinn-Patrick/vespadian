@@ -1,0 +1,25 @@
+Venus Woman
+spr_venusWoman
+0 
+20 
+20 
+99 
+99 
+20 
+99 
+20 
+99 
+5 
+4000 
+20000 
+20 
+12 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+powers

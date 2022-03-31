@@ -1,0 +1,26 @@
+Elite Pikeman
+spr_elitePikeman
+0 
+20 
+12 
+12 
+14 
+10 
+8 
+10 
+12 
+5 
+110 
+432 
+20 
+0 
+-1 
+11 
+0 
+0 
+0 
+0 
+0 
+abilities
+407 
+powers

@@ -1,0 +1,26 @@
+Bilge Rat
+spr_bilgeRat
+0 
+15 
+16 
+10 
+15 
+14 
+12 
+14 
+8 
+5 
+100 
+1000 
+20 
+1 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+powers
+206 

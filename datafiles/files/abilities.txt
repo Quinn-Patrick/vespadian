@@ -1,0 +1,444 @@
+1
+2
+Power Runner
+Speed is determined using Strength instead of Agility.
+2
+2
+Dense Physique
+Evasion is determined using Fortitude instead of Agility.
+3
+1
+Polearm Technique
+Become more evasive and more accurate while wielding a polearm.
+4
+3
+Slashing Critical
+Land critical hits more frequently while using a slashing weapon.
+5
+2
+Bludgeoning Crush
+Ignore some of the target's armor while using a bludgeoning weapon.
+6
+1
+Sheer Brutality
+All weapons have their damage determined by strength, and damage is increased while wearing only light armor.
+7
+4
+Shield Wall
+All allies have their physical defense and evasion increased while Eric brandishes a shield.
+8
+4
+Extra Attack
+Make an additional attack when using the fight command.
+101
+3
+Divine Favor
+Gain good fortune.
+102
+2
+Child of Light
+Resist Aetherial damage and do extra damage with Aetherial attacks.
+103
+1
+Bound Soul
+Resist instant death affects.
+104
+2
+Vital Soul
+Resist vital damage and do extra damage with vital attacks.
+105
+3
+Greater Healing
+Boost the amount of health restored with healing spells.
+106
+5
+Twice Lived
+Return to life with one hit point once when you fall in battle.
+107
+8
+Refresh
+Be automatically cured of all status conditions at the end of your turn.
+201
+3
+Land and Weather
+Powers are enhanced by appropriate environmental conditions, and ignore inappropriate environmental conditions.
+202
+2
+Heatstrike
+Melee attacks do Heat damage.
+203
+2
+Coldstrike
+Melee attacks do Cold damage.
+204
+2
+Litstrike
+Melee attacks do Electric damage.
+205
+2
+Mindsap
+Melee attacks do Mind damage, and sap the target's skill points.
+206
+2
+Lifedrain
+Melee attacks do Vital damage, and sap the target's hit points.
+207
+2
+Lightblade
+Melee attacks do Aetherial damage, and sometimes inflict blindness.
+208
+3
+Scorching Expert
+Attacks that deal Heat damage are more powerful.
+209
+3
+Freezing Expert
+Attacks that deal Cold damage are more powerful.
+210
+3
+Shocking Expert
+Attacks that deal Electric damage are more powerful.
+211
+2
+Solar Shield
+Take half damage in arid enviornments.
+212
+2
+Dolphin Stroke
+Act faster in aquatic enviornments.
+213
+3
+Arcane Persuasion
+Gain a bonus to arcane magic power based on your Charisma score.
+214
+3
+Divine Persuasion
+Gain a bonus to divine magic power based on your Charisma score.
+215
+7
+Power Master
+Use all powers at half the SP cost. This only applies in battle.
+216
+10
+Twincast
+When casting a spell, cast it twice instead of once, at no additional SP cost. This only applies in battle, and it does not apply to non-spell powers.
+217
+3
+Mighty Inspiration
+When using a support or healing spell, provide an additional boost to physical attack to the target or targets.
+218
+2
+Stalwart Inspiration
+When using a support or healing spell, provide an additional boost to physical defense to the target or targets.
+219
+7
+Grand Persuasion
+Gain a bonus to all stats based on your Charisma score.
+220
+5
+Efficient Casting
+All powers have their SP cost reduced by 10, to a minimum of zero. This only applies in battle.
+301
+1
+Swift Getaway
+Act again sooner after stealing.
+302
+2
+Chemist
+Items used in battle are 50% more effective.
+303
+3
+Technician
+Act again more quickly after using an item in battle.
+304
+2
+Sticky Fingers
+Stealing is more likely to succeed.
+305
+2
+Perfect Crime
+Become hidden after successfully stealing.
+306
+1
+Life Thief
+Regain health when attempting to steal.
+307
+1
+Shadow Stalker
+Sometimes remain hidden after attacking.
+308
+3
+Sniper
+Do more damage relative to distance from the target.
+309
+3
+Phantom
+Take half damage while hidden.
+310
+3
+Unerring Eye
+Never miss.
+311
+2
+Mirage
+Start every battle already hidden.
+312
+3
+Assassination
+Always land critical hits on targets which have not yet taken a turn in battle.
+313
+5
+Critical Precision
+Land critical hits more frequently while hidden.
+314
+2
+Stickup
+Sometimes stun the target while stealing.
+315
+4
+Fleet of Foot
+Start each battle with the haste status.
+316
+4
+Great Dodge
+Evade most attacks.
+317
+1
+Master Thief
+Stealing always succeeds, as long as there is something to steal.
+318
+1
+Master Treasure Hunter
+Get more items from defeated enemies.
+401
+2
+Nightblade
+Always land critical hits when attacking sleeping enemies.
+402
+2
+Antibodies
+Become immune to the poison status.
+403
+2
+20/20 Vision
+Become immune to the blind status.
+404
+2
+Limber
+Become immune to the stun status and the paralysis status.
+405
+5
+Bound Soul
+Become immune to instant death effects.
+406
+3
+Insomnia
+Become immune to the sleep status.
+407
+0
+Heat Weakness
+Take double damage from heat-based attacks.
+408
+4
+Heat Resistance
+Take half damage from heat-based attacks.
+409
+8
+Heat Immunity
+Take no damage from heat-based attacks.
+410
+0
+Cold Weakness
+Take double damage from cold-based attacks.
+411
+4
+Cold Resistance
+Take half damage from cold-based attacks.
+412
+8
+Cold Immunity
+Take no damage from cold-based attacks.
+413
+0
+Electric Weakness
+Take double damage from electricity-based attacks.
+414
+4
+Electric Resistance
+Take half damage from electricity-based attacks.
+415
+8
+Electric Immunity
+Take no damage from electricity-based attacks.
+416
+0
+Poison Weakness
+Take double damage from poison-based attacks.
+417
+4
+Poison Resistance
+Take half damage from poison-based attacks.
+418
+8
+Poison Immunity
+Take no damage from poison-based attacks.
+419
+0
+Aether Weakness
+Take double damage from aether-based attacks.
+420
+4
+Aether Resistance
+Take half damage from aether-based attacks.
+421
+8
+Aether Immunity
+Take no damage from aether-based attacks.
+422
+0
+Vital Weakness
+Take double damage from vital-based attacks.
+423
+4
+Vital Resistance
+Take half damage from vital-based attacks.
+424
+8
+Vital Immunity
+Take no damage from vital-based attacks.
+425
+0
+Mind Weakness
+Take double damage from mind-based attacks.
+426
+4
+Mind Resistance
+Take half damage from mind-based attacks.
+427
+8
+Mind Immunity
+Take no damage from mind-based attacks.
+428
+5
+First Strike
+Always take a turn as soon as possible at the start of battle.
+429
+5
+Overdrive
+Boost speed each turn.
+430
+5
+Improved Critical
+Deal 2x damage with a critical hit instead of 1.5x.
+431
+2
+Beast Hunter
+Deal increased damage to beasts with physical attacks.
+432
+2
+Exterminator
+Deal increased damage to bugs with physical attacks.
+433
+2
+Plant Plucker
+Deal increased damage to plants with physical attacks.
+434
+2
+Ooze Squasher
+Deal increased damage to oozes with physical attacks.
+435
+3
+Elemental Banisher
+Deal increased damage to elementals with physical attacks.
+436
+3
+Giant Toppler
+Deal increased damage to giants with physical attacks.
+437
+4
+Weirdo Whacker
+Deal increased damage to outsiders and abberations with physical attacks.
+438
+4
+Demon Killer
+Deal increased damage to demons with physical attacks.
+439
+5
+Dragon Slayer
+Deal increased damage to dragons with physical attacks.
+440
+3
+Turn Undead
+Deal increased damage to undead with physical attacks.
+441
+3
+Man Eater
+Deal increased damage to humans with physical attacks.
+442
+3
+Construct Disruptor
+Deal increased damage to constructs with physical attacks.
+443
+4
+Dual Wielding Master
+Deal full damage with off hand weapons.
+444
+1
+Ambush Spotter
+See locations where encounters lie in wait. Has no effect on random encounters.
+445
+1
+Alert Explorer
+Avoid all random encounters.
+446
+3
+Purified
+Become immune to the curse status.
+447
+3
+Hopeless Romantic
+Become immune to the heartbreak status.
+448
+3
+Thick Skinned
+Become immune to the bleeding status.
+449
+5
+Thorn Touch
+Sometimes inflict the bleed status to any creature that hits with a physical attack.
+450
+10
+Physical Attack Immunity
+Become immune to physical attacks.
+451
+10
+Cursed Touch
+Sometimes inflict the curse status to any creature that hits with a physical attack.
+452
+5
+Heartbreaker
+Physical attacks have a chance of inflicting the heartbreak status.
+453
+3
+Soul Harvester
+Spells which cause instant death are more likely to succeed.
+454
+3
+Critical Expert
+Land critical hits more frequently.
+455
+1
+Flash Thaw
+Gain the haste status when hit with heat damage.
+456
+5
+Damage Reduction
+All damage is reduced by an amount equal to ten times level, to a minimum of zero.
+457
+5
+Blood Lust
+Gain a boost to physical attack with each successful attack.
+458
+8
+Soul Eater
+Every time a creature drops to zero hit points, your hit points are fully restored.

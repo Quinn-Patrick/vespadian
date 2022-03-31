@@ -1,0 +1,27 @@
+Purple Man
+spr_purpleman
+0 
+10 
+30 
+8 
+8 
+8 
+10 
+8 
+12 
+5 
+70 
+345 
+20 
+18 
+15 
+6 
+257 
+0 
+0 
+0 
+0 
+abilities
+413 
+426 
+powers

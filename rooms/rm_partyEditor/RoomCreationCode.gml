@@ -1,0 +1,1 @@
+global.mainBgm = mus_church;

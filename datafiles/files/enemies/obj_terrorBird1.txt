@@ -1,0 +1,27 @@
+Terror Bird
+spr_terrorBird
+0 
+41 
+38 
+62 
+59 
+10 
+50 
+14 
+22 
+5 
+250 
+2150 
+20 
+1 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+407 
+powers
+433 

@@ -1,0 +1,27 @@
+Menacing Goo
+spr_menacingGoo
+0 
+12 
+15 
+8 
+10 
+2 
+8 
+2 
+15 
+5 
+80 
+362 
+20 
+5 
+-1 
+0 
+0 
+0 
+0 
+0 
+0 
+abilities
+410 
+415 
+powers

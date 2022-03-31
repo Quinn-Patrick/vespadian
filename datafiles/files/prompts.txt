@@ -1,0 +1,36 @@
+1
+Would you like to save the game? Remember, if you fall in battle, you will have to load a saved game.
+Yes
+No
+-
+-
+2
+Do you need a room? Only 10 gold.
+Yes
+No
+-
+-
+3
+We've got human sized beds for 10 gold. Want one?
+Yes
+No
+-
+-
+4
+Reset the positions of all the blocks in this room?
+Yes
+No
+-
+-
+5
+Hey, kid. Wanna buy a lockpicking kit for 50,000 gold?
+You bet!
+No way!
+-
+-
+6
+It is unheard of in the legends of old that you would acquire a Sigil of the Magi. Would you like to test your strength against mine?
+You're on!
+No thanks!
+-
+-

@@ -1,0 +1,34 @@
+Heroic
+5 0 -5 0 -5 0 5 0
+Athletic
+5 5 0 -5 -5 0 0 0
+Scholarly
+-5 0 0 0 5 0 -5 5
+Religious
+0 0 0 -5 -5 5 0 5
+Reclusive
+-5 0 5 0 5 0 -5 0
+Worldly
+0 -5 0 5 0 5 0 -5
+Deviant
+0 -5 5 5 0 -5 0 0
+Flirty
+0 0 -5 0 -5 0 5 5
+Theatrical
+-5 0 0 5 0 -5 5 0
+Smug
+0 5 0 0 5 -5 -5 0
+Aggressive
+5 0 -5 5 -5 0 0 0
+Outgoing
+-5 0 5 0 0 0 5 -5
+Brooding
+0 5 0 5 0 0 -5 -5
+Pretentious
+5 0 -5 0 0 -5 0 5
+Macho
+0 5 -5 0 -5 0 5 0
+Determined
+0 5 -5 0 -5 5 0 0
+Philosophical
+-5 -5 0 0 5 5 0 0

@@ -1,0 +1,100 @@
+/// @description Insert description here
+// You can write your code in this editor
+if(instance_number(obj_player) > 0)obj_player.visible = false;
+global.control = false;
+if(actOver){
+	clock = 0;
+	actOver = false;
+	actionString = string_replace(file_text_readln(evFile), "\n", "");
+	actionString = string_replace(actionString, "\r", "");
+	actionNum = ds_map_find_value(evCommands, actionString);
+	switch(actionNum){
+		case(0): actData[0] = real(file_text_readln(evFile)); break;
+		case(1): otherFiles[0] = string(file_text_readln(evFile)); 
+				 otherFiles[0] = string_replace(otherFiles[0], "\n", "");
+				 otherFiles[0] = string_replace(otherFiles[0], "\r", "");
+				 actData[0] = real(file_text_readln(evFile)); 
+				 actData[1] = real(file_text_readln(evFile)); break;
+		case(2): actData[0] = real(file_text_readln(evFile)); 
+				 actData[1] = real(file_text_readln(evFile)); break;
+		case(3): actData[0] = real(file_text_readln(evFile)); 
+				 actData[1] = real(file_text_readln(evFile)); 
+				 actData[2] = real(file_text_readln(evFile)); 
+				 actData[3] = real(file_text_readln(evFile)); break;
+		case(4): actData[0] = real(file_text_readln(evFile)); break;
+		case(5): actData[0] = real(file_text_readln(evFile));
+				 actData[1] = real(file_text_readln(evFile)); break;
+		case(6): actData[0] = real(file_text_readln(evFile));
+				 actData[1] = real(file_text_readln(evFile)); break;
+		case(7): actData[0] = real(file_text_readln(evFile));
+				 actData[1] = real(file_text_readln(evFile)); break;
+		case(8): actData[0] = real(file_text_readln(evFile));
+				 actData[1] = real(file_text_readln(evFile));
+				 actData[2] = real(file_text_readln(evFile)); break;	
+		case(9): actData[0] = real(file_text_readln(evFile));
+				 actData[1] = real(file_text_readln(evFile)); break;
+		case(10): actData[0] = file_text_readln(evFile);
+				  actData[1] = real(file_text_readln(evFile));
+				  actData[2] = real(file_text_readln(evFile));
+				  actData[3] = real(file_text_readln(evFile));
+				  actData[4] = real(file_text_readln(evFile)); break;
+		case(11): actData[0] = real(file_text_readln(evFile)); break;
+		case(12): actData[0] = real(file_text_readln(evFile));
+				  actData[1] = real(file_text_readln(evFile)); break;
+		case(13): actData[0] = real(file_text_readln(evFile));
+				  actData[1] = real(file_text_readln(evFile)); break;
+		case(14): actData[0] = real(file_text_readln(evFile));
+				  actData[1] = real(file_text_readln(evFile));
+				  actData[2] = real(file_text_readln(evFile));
+				  actData[3] = real(file_text_readln(evFile)); break;
+		case(15): actData[0] = real(file_text_readln(evFile));
+				  actData[1] = real(file_text_readln(evFile));
+				  actData[2] = real(file_text_readln(evFile)); break;
+		case(16): actData[0] = real(file_text_readln(evFile));
+				  actData[1] = real(file_text_readln(evFile)); break;
+		case(17): actData[0] = real(file_text_readln(evFile)); break;
+		case(18): actData[0] = real(file_text_readln(evFile)); break;
+		case(19): actData[0] = real(file_text_readln(evFile));
+				  actData[1] = real(file_text_readln(evFile)); break;
+		case(20): actData[0] = real(file_text_readln(evFile));
+				  actData[1] = real(file_text_readln(evFile)); break;
+		case(21): actData[0] = real(file_text_readln(evFile)); 
+				 actData[1] = real(file_text_readln(evFile)); 
+				 actData[2] = real(file_text_readln(evFile)); 
+				 actData[3] = real(file_text_readln(evFile)); break;
+		case(22): actData[0] = string(file_text_readln(evFile)); break;
+		case(23): actData[0] = string(file_text_readln(evFile)); break;
+		case(24): actData[0] = string(file_text_readln(evFile)); break;
+		case(-1): instance_destroy(self);
+	}
+}
+clock++;
+switch(actionNum){
+	case(0): actOver = act_sleep(actData[0]); break;
+	case(2): actOver = act_setDir(actData[0], actData[1]) break;
+	case(3): actOver = act_move(actData[0], actData[1], actData[2], actData[3]) break;
+	case(4): actOver = act_setCam(actData[0]) break;
+	case(5): actOver = act_fadeToBlack(actData[0], actData[1]) break;
+	case(6): actOver = act_gotoBattle(actData[0], actData[1]) break;
+	case(7): actOver = act_flashWhite(actData[0], actData[1]) break;
+	case(8): actOver = act_instantMove(actData[0], actData[1], actData[2]) break;
+	case(9): actOver = act_screenShake(actData[0], actData[1]) break;
+	case(10): actOver = act_gotoRoom(actData[0], actData[1], actData[2], actData[3], actData[4]); break;
+	case(11): actOver = act_setFlag(actData[0]); break;
+	case(12): actOver = act_alterParty(actData[0], actData[1]) break;
+	case(13): actOver = act_movePlayer(actData[0], actData[1]) break;
+	case(14): actOver = act_effect(actData[0], actData[1], actData[2], actData[3]) break;
+	case(15): actOver = act_camp(actData[0], actData[1], actData[2]) break;
+	case(16): actOver = act_worldMap(actData[0], actData[1]) break;
+	case(17): actOver = act_unsetFlag(actData[0]); break;
+	case(18): actOver = act_overlay(actData[0]); break;
+	case(19): actOver = act_giveItem(actData[0], actData[1]); break;
+	case(20): actOver = act_takeItem(actData[0], actData[1]); break;
+	case(21): actOver = act_instaMove(actData[0], actData[1], actData[2], actData[3]) break;
+	case(22): actOver = act_setBattleBgm(actData[0]); break;
+	case(23): actOver = act_setMainBgm(actData[0]); break;
+	case(24): actOver = act_playSound(actData[0]); break;
+	case(-1): instance_destroy(self);
+}
+
+ready++;

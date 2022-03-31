@@ -1,0 +1,1006 @@
+1
+Frida: C'mon, let's get a room.
+2
+Al: I'm gonna wait outside.
+3
+Eric: Why don't you watch our stuff, then? Thieves are a problem around here.
+4
+Al: Fine.
+5
+They actually trusted me with their stuff.
+6
+Maybe I'll take it when I ditch 'em...
+8
+...
+8
+What the-
+9
+Hey! Get back here with that!!
+10
+Eric: Al, are you okay? I heard yelling.
+11
+Al: Quick! After that kid! He took the food bag!
+12
+???: !!!
+13
+Frida: No! Not the food!
+14
+Eric: Gotcha!
+15
+Ya know you shouldn't take other people's stuff.
+16
+Frida: There's no use reasoning with it. It's clearly feral.
+17
+Eric: That's a terrible thing to say!
+18
+???: ...
+19
+...
+20
+...
+21
+...sorry...
+22
+Eric: See? He even has good manners.
+23
+...
+24
+Eric: Are you still there?
+25
+You look really hungry.
+26
+???: *nods*
+27
+Eric: Here. Take this.
+28
+Do you want a place to stay? I mean, just for tonight.
+29
+Frida: What!? But there's only two beds!
+30
+Eric: It's okay. Al and I'll sleep on the floor.
+31
+Al: Pardon me?
+32
+Eric: C'mon, Al. It's good karma.
+33
+Al: Argh! I can't believe the stuff I let you talk me into.
+34
+Eric: Great! So, what's your name?
+35
+???: ...name?
+36
+Eric: Yeah. You do have a name, right?
+37
+???: My name is...
+38
+...Mary.
+39
+Eric: Mary, huh? That's an unusual name for a boy.
+40
+Frida: It's probably a gang name. From the streets.
+41
+Mary: ...
+42
+Al: I think you guys are missing the obvious explanation.
+43
+Have you considered that, well...
+44
+...*he* might be a...?
+45
+Eric: Urk, uhh...
+46
+Mary, are you, by any chance a...
+47
+...girl?
+48
+Mary: ...
+49
+...
+50
+...
+51
+*nods*
+52
+Eric: Ahh! I'm so sorry!
+53
+Al: Woah, that's embarrassing.
+54
+Eric: It's not that you don't look like a girl! You're very... radiant!
+55
+I just... didn't get a good look at you.
+56
+Frida: Who cares if it's a boy or a girl. An urchin is just an urchin.
+57
+Eric: You can come with us, for now, okay?
+58
+Mary: ...Okay...
+59
+Late that night...
+60
+Al: Looks like they're asleep...
+61
+Time to take off, before things get any weirder.
+62
+Ah!
+63
+Mary: *gasp*
+64
+Al: Mary!? What are you doing!?
+65
+Mary: Let me go!
+66
+I was... gonna take as much stuff as I could and run away.
+67
+But you caught me.
+68
+Al: Mary... How could you do that after Eric was so nice to you?
+69
+Mary: ...
+70
+Cause I'm gonna be hungry again later...
+71
+What were you doing, anyway?
+72
+Al: Me? I had to pee...
+73
+Mary: Then hurry and go.
+74
+Al: Fine. I was gonna...
+75
+...well...
+76
+I was gonna take as much stuff as I could and run away.
+77
+Mary: But didn't you just say...?
+78
+Al: Yeah. I did.
+79
+But it's different for me!
+80
+I've never had a single friend. I've never been able to trust anyone.
+81
+I can't just let them push me around! I have to look out for myself!
+82
+Mary: I don't really have any friends either.
+83
+Al: Oh...
+84
+Mary: Yeah...
+85
+Al: So, fine. I'm a terrible person. What do you want me to say?
+86
+Don't look at me like that.
+87
+Mary: ...I kinda like you.
+88
+Al: Hm? Oh, I guess we do have a lot in common.
+89
+Being terrible. And having no friends. And being homeless...
+90
+You know Frida? The really mean girl?
+91
+Mary: *nods*
+92
+Al: She's homeless, too, in a way.
+93
+Maybe we should stick together, huh? And as long as Eric is willing to look after us...
+94
+...he can tag along, too.
+95
+Mary: So I can come? Forever?
+96
+Al: Sure. Why not?
+97
+Frida: Wait a second!
+98
+Eric: Do you guys have to talk so loud?
+99
+Frida: Eric, say something! She can't come with us!
+100
+Eric: ...Sorry, Frida, it looks like you've been out-voted.
+101
+You're gonna have a little sister.
+102
+Al: So you'll help me and Mary find homes?
+103
+Eric: Yeah. I promise.
+104
+Now everyone go back to bed.
+105
+Mary: Wait! Al, don't forget to pee!
+106
+Al: That was a lie, Mary.
+107
+Mary: ...oh.
+108
+Eric: Don't eat too much, Mary. We have to get going.
+109
+Al: Get going? To do what, exactly?
+110
+Eric: Hehe. That always seems to be the question, huh?
+111
+My only idea is, we could cross into North Elta.
+112
+I figure, the farther we get from home, the less likely we are to be tracked.
+113
+???: I see you have wisdom to spare, young ones.
+114
+But your understanding of your situation remains a weakness.
+115
+Al: Yikes! Who are you?
+116
+Frida: Nice try, buster, but I know better than to trust creepy strangers!
+117
+???: A stranger, am I?
+118
+Frida: Oh! We can trust him, he's a friend of my dad's!
+119
+???: Quiet now, Frida, for you know secrets which are vital to keep.
+120
+Frida: Oh. Okay. Sorry.
+121
+Elk: In my work, I am called Elk.
+122
+Al: Codenames. Awesome. Can I be Cobra?
+123
+Elk: Be who you like. It is of no concern.
+124
+Cobra: Sweet.
+125
+Elk: Frederick and I spent our days in pursuit of the Lord's Army.
+126
+Their true nature seems to be a dark secret, closely guarded.
+127
+Mary: He talks funny. Are you getting this?
+128
+Frida: Hush, Mary. This is how grownups talk.
+129
+Cobra: Who's Frederick, again?
+130
+Eric: Frida's dad.
+131
+Cobra: Oh, yeah.
+132
+Elk: In fact, I have come here to conduct research in how they may be defeated, and your parents may be freed, Frida.
+133
+I ask that you and your friends accompany me to Lon Hirodine's great library.
+134
+Frida: Okay.
+135
+Elk: This place is a safe haven for us.
+136
+Cobra: Alright, so what do you need us for? Some spec-ops mission? I bet it'll be really dangerous, huh?
+137
+Elk: From you, Cobra, I need nothing.
+138
+Cobra: Wha-? So my codename is... pointless?
+139
+Al: I guess I'll only ever just be Al...
+140
+Elk: Eric, you are a knight in training, yes?
+141
+Eric: Yeah.
+142
+Elk: Excellent. El Trice has been made safe again. My wife watches over house Tricius in Frederick's absence.
+143
+I trust that you shall see Frida home safely.
+144
+Frida: Wait, what? So we're...
+145
+...going home?
+146
+Elk: A relief, is it not?
+147
+Frida: Yeah. Of course. It's just...
+148
+Eric: What about Frida's parents?
+149
+Elk: Don't be silly, Eric. You are only children.
+150
+Let the grownups take it from here.
+151
+Al: Eric...
+152
+wh- what about me and Mary?
+153
+Mary: ...
+154
+Eric: Hey, Mr. Elk? Uhh... here's the thing...
+155
+I kinda told Al and Mary that I'd help them out. They're in a bit of a tough spot.
+156
+Elk: A lesson in chivalry, Eric.
+157
+Should you find yourself breaking a promise,
+158
+Your failure came the moment the promise was made.
+159
+You cannot find homes for these friends of yours. The longer you take to accept that, the deeper your shame will be when you finally give up.
+160
+Eric: ...
+161
+Frida: What!? But he didn't even get a chance!
+162
+Eric: Be quiet.
+163
+He's right. I'm just a kid. I can't help you.
+164
+Let's go, Frida.
+165
+I'm sorry, Alamand.
+166
+I'm *hic* sorry, Mary.
+167
+Al: I'm sorry, too.
+168
+I can't believe I was really starting to trust you.
+169
+Mary: WAIT!!!
+170
+Elk: Hush, little boy, this is a library.
+171
+Mary: Eric, I know I'm stupid, but I still believe you.
+172
+Eric: I made a promise I couldn't keep.
+173
+Al: You're an idiot, Eric.
+174
+You... didn't even try. And already you're letting this old guy tell you to give up.
+175
+Elk: I cannot let harm come to Frida. I promised her father.
+176
+I made a promise I intend to keep.
+177
+Al: Well, then...
+178
+It's your promise against Eric's.
+179
+What do you say?
+180
+Eric: I...
+181
+...I say...
+182
+I'm in a winning mood.
+183
+Mary: What does that mean?
+184
+Al: It means he's taking our side.
+185
+Frida: Eric...
+186
+Elk: Fine, then. I don't plan to restrain you. Do what you wish.
+187
+Just...
+188
+Be safe. Okay?
+189
+Eric: Of course.
+190
+Al: No promises.
+191
+Frida: I... I guess I'm going too, then.
+192
+Mary: Eric... thanks.
+193
+Eric: Umm... one last thing...
+194
+Any tips on where to go?
+195
+Elk: Honestly, the nerve. To ask for my help in an endeavor I so thoroughly disapprove of...
+196
+...but if you must.
+197
+Make for Eladar Manta.
+198
+Frida: Woah. The religious capital of Elta?
+199
+Elk: Yes. You may find obstacles gaining entry. But, if your resolve is true, you will find a way. And there is no safer place.
+200
+Eric: So. We make for the bridge, and leave into northern Elta.
+201
+Al: So what are we doing now?
+202
+Eric: Weren't you listening? We're traveling to Eladar Manta.
+203
+Al: That's not what I meant. What are we DOING?
+204
+Eric: Oh...
+205
+We're going to find Frida's parents.
+206
+And we're going to find real homes for you and Mary.
+207
+Al: I just wanted to hear it again. To make sure you were still serious.
+208
+You heard it too, right Mary?
+209
+Mary: *nods*
+210
+Frida: Eladar Manta...
+211
+This is the first time I've seen it in person. It's beautiful.
+212
+Al: Don't get your hopes up. Elk said we'd have a hard time getting in.
+213
+Eric: Let's try to be optimistic.
+214
+Excuse me?
+215
+Guard: Who goes there?
+216
+Eric: I am Eric, Son of Ulrich.
+217
+Frida: I am Frida, Daughter of Frederick.
+218
+Al: I'm Alamand. You... wouldn't know my dad.
+219
+Mary: I'm Mary.
+220
+Eric: So, yeah...
+221
+A man calling himself Elk said we should come here.
+222
+Guard: The only referral that can grant you access to Eladar Manta is that of God himself.
+223
+Frida: What do you mean?
+224
+Guard: You must each have great faith in Him. Once He approves of you, the way will be marked with symbols of your worthiness.
+225
+Al: Argh! That doesn't help at all!
+226
+Frida: I have great faith! Can they be... my guests or something?
+227
+Guard: You have far yet to go.
+228
+Frida: What?
+229
+Al: Well this is a bust. I'm not religious at all.
+230
+And something tells me Mary couldn't even spell 'faith.'
+231
+Mary: It starts with an F.
+232
+Al: You're learning.
+233
+Frida: I don't think it's that simple...
+234
+Symbols of our worthiness...
+235
+What could that mean?
+236
+Eric: Maybe we have to find something? A physical object?
+237
+Al: Well? Are we on the right track?
+238
+Guard: ...
+239
+Al: Right. Where's the fun if he just tells us?
+240
+Eric: Maybe if we visit a church, someone there'll be more forthcoming.
+241
+What? You can't afford it? How are you that broke?
+242
+I hope humans like shopping!
+243
+Fey Guardian: Halt! What business have you in the valley of the fey?
+244
+Al: Can you guys think of anything?
+245
+Frida: No we don't.
+246
+Fey Guardian: Then be gone!
+247
+Fey Guardian: Halt! What business have you in the valley of the fey?
+248
+Mary: Stop stealing dreams!
+249
+Frida: Shut it, Mary!
+250
+Eric: We're here to discuss the situation in Ephemera.
+251
+Fey Guardian: If you are here to grovel and beg for forgiveness, then enter.
+252
+Al: Uh... sure.
+253
+Mary: Where are we now?
+254
+Eric: Ephemera. I'm actually not used to such a small town.
+255
+Al: Does anyone else feel like there's something off here?
+256
+Frida: Yeah, everyone's acting really weird. Let's ask around.
+257
+Innkeeper: Can I help you kids?
+258
+Al: What's going on here? Everyone seems... spooked.
+259
+Innkeeper: Oh, that... is it so noticeable?
+260
+Eric: It was pretty much the first thing we noticed.
+261
+Innkeeper: It's nothing you should be concerned about, but...
+262
+...starting just recently, no one here has been able to dream.
+263
+Al: What? You can't... dream?
+264
+Innkeeper: That's right. We asked around, and no one here's had a dream in weeks.
+265
+Frida: How's that even possible?
+266
+Innkeeper: We suspect the fey from the Misty Valley to the east.
+267
+Drunkard: Those blasted pixies! They stole our good sleep!
+268
+Mary: How can you steal dreams?
+269
+Frida: It could be some sort of curse. We'll have to investigate further.
+270
+Mary: EEEEK!
+271
+Eric! Eric! Tiny people! Tiny people!!
+272
+Fairy: Haven't you ever seen a fairy before?
+273
+Next you'll say you've never seen a Unicorn!
+274
+Al: Yeah, I probably will.
+275
+Eric: Do you know anything about Ephemera? They say they can't dream, and they think it's because of you.
+276
+Fairy: Huh? But I don't know anyone from Ephemera!
+277
+Eric: Not you specifically, the Fey in general.
+278
+Fairy: Oh. Well then you'll have to talk to Tinonia, the Queen of the Fey Court.
+279
+She's pretty general.
+280
+Eric: Excuse me, are you Queen Tinonia?
+281
+Tinonia: Yes, and by what folly have humans been allowed in my presence?
+282
+Frida: I am Frida, Daughter of Frederick, and I am not some peasant!
+283
+Tinonia: I do not know you, or your father. Now speak your peace before my patience runs out!
+284
+Eric: We've come from Ephemera to...
+285
+...grovel?
+286
+Tinonia: Ah, so you've returned the captive?
+287
+Eric: Captive?
+288
+Al: We're here to see if we can get their dreams turned back on. Does that captive have something to do with it?
+289
+Tinonia: Of course! Some weeks ago, a human from Ephemera came to these woods and kidnapped one of our own using a gruesome weapon.
+290
+Then he stored her away in a glass prison, and fled the woods!
+291
+Since then, no humans have been allowed beyond the threshold of the valley without cause.
+292
+Eric: A glass... prison? That he could run away with?
+293
+Al: And a gruesome weapon.
+294
+Frida: Yeah, I'm kind of having trouble forming a mental image.
+295
+Tinonia: If you are going to help, the captor's name is Percival, and the captive is called Ariadne.
+296
+Eric: How do you know the kidnapper's name?
+297
+Tinonia: Simple. He left this at the scene of the crime.
+298
+Frida: It's a composition book. Like from school.
+299
+Eric: And it has "Percy" written on the cover.
+300
+Al: This is just getting more confusing.
+301
+Eric: Don't worry. We'll get her back. I'm sure it's just a misunderstanding.
+302
+Mary: C'mon! We have to help Ariadne!
+303
+Eric: Wait. Can we take that with us?
+304
+Tinonia: If it will help you find the scoundrel, then certainly.
+305
+Eric took the composition book.
+306
+Boy: Hey! My notebook! Give it here!
+307
+Eric handed over the composition book.
+308
+Eric: Is your name Percival?
+309
+Percy: Yeah. I'm Percy.
+310
+Al: Do you, by any chance, like to play in the Misty Valley?
+311
+Percy: ...What's this about? Who are you guys?
+312
+Eric: I'm Eric. And don't worry, you're not in trouble. Probably.
+313
+Did you happen to catch a little fairy in that net not too long ago?
+314
+Frida: And by any chance did you trap it in a jar?
+315
+Percy: Maybe.
+316
+Al: There's your gruesome weapon and glass prison. I can't believe how dramatic those Fey can be.
+317
+Eric: Well that was easy. 
+318
+The fey are worried about her and want her to come home. So just hand over the jar and we won't have to tell your parents.
+319
+Percy: But I don't know where she is!
+320
+Frida: What!? But you said-
+321
+Percy: I said "maybe." And she got away before I got back to town.
+322
+Al: She got away?
+323
+Percy: Yeah, I opened the jar to ask her name, but she flew away.
+324
+I dropped it and went after her, but she was too fast.
+325
+Maybe.
+326
+Eric: Where were you when this happened?
+327
+Percy: Still in the valley.
+328
+Eric: If she didn't return home she must have gotten lost in the woods.
+329
+Let's go back to the Fey Court and let them know.
+330
+Tinonia: So you've returned. You struck down the evildoer and found Ariadne?
+331
+Frida: Well the evildoer was a little boy, so we didn't "strike him down."
+332
+Eric: And more to the point, he said that she got away while they were still in the valley, so she must've gotten lost on her way home.
+333
+Tinonia: Nonsense! A fairy could never get lost in the valley.
+334
+Unless...
+335
+Eric: Unless what?
+336
+Tinonia: Unless she somehow wandered into the part of the valley where the mist is the most thick.
+337
+She could still be there, trapped by monsters, and blinded by the mist.
+338
+Mary: ...monsters?
+339
+Eric: She's in danger, then! We have to hurry!
+340
+Frida: Wait, your majesty, you should send a rescue team!
+341
+Tinonia: The Fey are no match for any sort of monsters. I leave this to you.
+342
+Al: What!? That's cowardly.
+343
+Al: I can't believe they would send four kids to go do their dirty work in a monster infested forest.
+344
+Frida: Come to think of it, they thought Percy was really threatening. Maybe they just can't tell how old humans are?
+345
+Eric: That could be...
+346
+Now we have to get going.
+347
+Mary: To where the mist is the thickest...
+348
+Mary: I see something up ahead...
+349
+Al: Really? I can't see a thing in this mist.
+350
+Eric: She's right. There's some ruins.
+351
+Frida: Let's be careful.
+352
+Mary: Wait... I think I heard something.
+353
+Eric: I hear it, too. Let's have a look around.
+354
+???: EEEEEEEK!!
+355
+Mary: Don't scream! We're here to help you.
+356
+Eric: Are you Ariadne?
+357
+Ariadne: *sniff* Y-yes.
+358
+Al: Are you alright?
+359
+Ariadne: No! Not one bit!
+360
+I've been here for weeks!
+361
+Stuck sleeping on twigs and eating bugs.
+362
+Which is what fairies sleep on and eat anyway, but the atmosphere is very dejecting...
+363
+Eric: No worries, we'll take you back to the Fey Court right away.
+364
+Ariadne: ...and the worst part is the ferocious creature that lives here that I have to hide from.
+365
+Mary: Creature?
+366
+Al: Oh, relax. Knowing these fairies, it's probably a cat or a bird or something.
+367
+Mary: CREATURE!
+368
+The party is attacked by a giant spider. Upon defeating it:
+369
+Al: Okay, I admit, that thing was pretty ferocious.
+370
+Eric: Let's not wait for backup to come for it. C'mon, Ariadne.
+371
+Ariadne: Yes! Let's go!
+372
+Ariadne hopped into Eric's pocket.
+373
+Upon exiting to the world map:
+374
+Ariadne: You guys are cute for humans.
+375
+Al: I get that a lot.
+376
+Frida: What do you mean "for humans?"
+377
+Ariadne: Most humans are freakish and scary looking!
+378
+Frida: Honestly, do fairies have NO manners?
+379
+Eric: We have been getting mouthed-off at a lot, recently.
+380
+Ariadne: I'm not mouthing off! I'm saying you DON'T look like that!
+381
+Besides, I was just trapped in a room alone with a spider for WEEKS.
+382
+I think I've earned the right to be a little grumpy.
+383
+Al: That's nothing. I lived in a theater for years. And that place was crawling with ghosts and stuff.
+384
+And what about Mary? How long was she living on the street?
+385
+Mary: Hm? Well lemme think...
+386
+I got away from the orphanage when I was 7.
+387
+And since then it's been about...
+388
+5 years.
+389
+Ariadne: Woah. 5 years?
+390
+Eric: Wait, that makes you uhh...
+391
+Frida: 12 years old.
+392
+Eric: Are you sure you're that old, Mary? You look way younger.
+393
+Maybe you're remembering wrong.
+394
+Mary: I know how old I am.
+395
+Eric: No offense, you're just so small.
+396
+Mary: Hmph...
+397
+Ariadne: There's nothing wrong with being small.
+398
+Actually, you look pretty big from my point of view.
+399
+Mary: Thanks.
+400
+Ariadne: Don't you think big people are scary?
+401
+Mary: I dunno.
+402
+Ariadne: Think about it! Little people like us get pushed around by big people all the time.
+403
+I'd be nervous if I were you, with that big sword guy hanging around.
+404
+Eric: Hang on, I would never do anything to hurt Mary!
+405
+Ariadne: Sure, you say that now.
+406
+Eric: Mary, don't listen to her.
+407
+Mary: Mmm...
+408
+Ariadne: Your majesty! I'm baaaaaack!
+409
+Tinonia: Extraordinary! To think humans could be capable of such acts of courage!
+410
+Take this as thanks.
+411
+Obtained the Cold Mist Tome!
+412
+Eric: Don't mention it.
+413
+Frida: I'm ready to leave this place behind us. I've never been spoken to so rudely.
+414
+Al: Don't forget Ephemera. We need you to turn their dreams back on, remember?
+415
+Tinonia: If you want to restore their dreams, feel free to go into the dreamscape and do so.
+416
+Eric: The dreamscape?
+417
+Tinonia: The world of dreams. You can enter right through here. But the danger is great.
+418
+Al: Not too great to switch them off in the first place, huh?
+419
+Eric: There's no convincing them. We'll have to do it ourselves.
+420
+Frida: So this is the dreamscape.
+421
+Mary: This is so metaphysical.
+422
+...
+423
+Eric: You're right, I'm just...
+424
+...surprised you're the one who said it.
+425
+Frida: Let's be careful.
+426
+Frida: Look. That must be that monster stopping Ephemera from getting their dreams.
+427
+Al: It doesn't look too friendly. We'll have to fight.
+428
+Mary: B-b-b-
+429
+But it's huge!
+430
+Eric: Yeah, I don't know if this is a good idea.
+431
+Al: C'mon! Forget what that fairy said.
+432
+Sure it's big, but it's four on one!
+433
+We can take it for sure!
+434
+But that won't work if we're still having trust issues.
+435
+Eric: Mary, I... I know I'm bigger than you.
+436
+But I would never want you to get hurt. The thought of doing something like that just... makes me sick.
+437
+Please trust me. I'm begging you.
+438
+Mary: ...
+439
+...
+440
+...
+441
+Okay. I trust you.
+442
+...
+443
+Just don't cry about it!
+444
+Eric: I'm not!
+445
+Al: Then what are we waiting for?
+446
+Al: Close one.
+447
+Mary: Huff... Huff...
+448
+Frida: I don't even want to think about what would happen to my soul if I died in a place like this.
+449
+Eric: Let's not waste anymore time.
+450
+'You coming, Mary?
+451
+Mary: Yup!
+452
+Tononia: You did it? Well then go back to Ephemera and see if it worked.
+453
+Ariadne: Wait! Can I say something.
+454
+Al: Shoot.
+455
+Ariadne: Sorry for being so mean.
+456
+I actually learned a lot from you.
+457
+You came and helped me when the fey were just gonna leave me there 'cause they were too scared.
+458
+And then you went in there and beat up Dreamcatcher.
+459
+I guess... we don't have to be scared just because we're small. If we work together, it's almost like we're human-sized.
+460
+Al: Isn't that sweet. Everyone learned a lesson.
+461
+Frida: I hope you also learned something about showing respect to important people who are generous with their time.
+462
+Ariadne: Umm... nope. No clue what you're talking about.
+463
+Frida: Hmph! Do you have any idea who you're talking to? Look me in the eye!
+464
+Al: Okay, so not EVERYONE learned a lesson.
+465
+Still, I'd say we broke even.
+466
+Eric: Let's get back to Ephemera before we regress any farther.
+467
+Eric: Hey, are the dreams back?
+468
+Innkeeper: As a matter of fact they are! I for one had a great dream last night where I was on a beach with my ex-wife and she was-
+469
+Uh-hmrm, actually, you'll learn about that when you're older.
+470
+Mary: That was us!
+471
+Frida: Mary, it's not polite to brag!
+472
+Innkeeper: You did what!? Oh, the dreams, yes. Very well done! You're too young for free drinks so I guess I'll just have to give you this.
+473
+Obtained a Thorn of Benelohim!
+474
+Mary: What's this thing?
+475
+Eric: I think it may be what we're looking for.
+476
+Frida: Thank you sir! It was no trouble.
+477
+Al: If only he knew...
+478
+Frida: Father, my friends and I have a question.
+479
+Priest: Speak it then, daughter, for the Lord has answers.
+480
+Frida: We are trying to enter Eladar Manta. We were told that if we had faith, the way would be marked with symbols of our worthiness.
+481
+And, well, we can’t figure out what that means.
+482
+Priest: Remember, while works without faith are empty but true, faith without works is an equally empty lie.
+483
+Mary: I don’t get it, what’s he saying?
+484
+Frida: He means that just having faith isn’t enough, we need to do good things, too.
+485
+Priest: Indeed. You are well studied.
+486
+As for the symbols of your worthiness…
+487
+Alamand: We thought maybe he was talking about something specific we have to find.
+488
+Priest: Again, a perceptive reading.
+489
+Entry to Eladar Manta requires that you present a Thorn of Benelohim.
+490
+Mary: A horn of banana-what now?
+491
+Frida: Benelohim is the Son of God.
+492
+Thorns were used to torture him right before he was killed.
+493
+These thorns are still around, and they are very valuable and sacred artifacts.
+494
+Priest: Splendid! Perhaps you could join the church yourself when you come of age!
+495
+Frida: Aww, well, I could if I wanted, but…
+496
+Priest: Most of the thorns are accounted for.
+497
+But if your works are good and your intentions pure…
+498
+...perhaps you will find what you seek.
+499
+Eric: So we’re just going to travel Elta helping people and hope we find thorns?
+500
+Frida: Well…
+501
+Yes?
+502
+Al: It seems like a longshot, but we don’t really have anything better to try.
+503
+Eric: And we can keep looking for information on Frida’s parents along the way.

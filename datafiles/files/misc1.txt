@@ -1,0 +1,11 @@
+0
+Found
+Boost which score?
+Strength
+Fortitude
+Dexterity
+Agility
+Intellect
+Wisdom
+Charisma
+Spirit

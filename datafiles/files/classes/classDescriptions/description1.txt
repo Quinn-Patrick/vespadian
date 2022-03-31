@@ -1,0 +1,1 @@
+The Wizard is a powerful arcane spellcaster with access to a huge variety of magic. They gain an arcane magic level every time they level up, and can learn spells from spell books as long as their arcane magic level is high enough. They gain lots of intelligence and spirit, but very little fortitude, so they aren't suited to the front line.

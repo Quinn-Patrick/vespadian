@@ -1,0 +1,27 @@
+Lord's Army Cadet
+spr_cadetSide
+3 
+9 
+10 
+10 
+15 
+8 
+12 
+8 
+10 
+5 
+30 
+350 
+20 
+0 
+-1 
+1 
+0 
+0 
+0 
+0 
+0 
+abilities
+407 
+powers
+215 

@@ -1,0 +1,26 @@
+Afterworld Dragon
+spr_awDragon
+0 
+33 
+60 
+20 
+60 
+10 
+40 
+42 
+80 
+40 
+0 
+10000 
+40 
+4 
+-1 
+1 
+0 
+0 
+0 
+0 
+0 
+abilities
+powers
+338 

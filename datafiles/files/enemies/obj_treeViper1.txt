@@ -1,0 +1,27 @@
+Tree Viper
+spr_treeViper
+0 
+6 
+6 
+10 
+16 
+4 
+12 
+2 
+8 
+5 
+25 
+78 
+20 
+1 
+-1 
+129 
+0 
+0 
+0 
+0 
+0 
+abilities
+410 
+417 
+powers

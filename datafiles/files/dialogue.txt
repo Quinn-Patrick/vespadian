@@ -1,0 +1,704 @@
+1
+Has anyone leveled up yet? When you do, be sure to cash in those feats!
+2
+It's easy! Just press ESC to access the main menu, and scroll down to "features."
+3
+Select that, and pick the feat that you want. You gain one feat point to cash in for a feat every time you level up.
+4
+Just keep in mind that most feats require that you get an earlier feat first.
+5
+Some feats will even give you a bonus, where you get to choose a score to increase.
+6
+Do you have any abilities yet? Once you do, hit ESC to access the main menu, and scroll down to "abilities."
+7
+From that menu, you can select abilities to switch them on and off. You need ability points to switch them on, but for now you should have plenty.
+8
+You kids got money?
+9
+Mary: Eek! It's huge! Kill it kill it kill it kill it!
+10
+Eric: Gimme a break, Mary. Just remember: it's every bit as afraid of you as you are of it.
+11
+Alamand: That must be why it's attacking us! Heads up!!
+12
+Here's the basics of scores, which are different froms stats:
+13
+Each character has 8 scores. They are: Strength, Fortitude, Dexterity, Agility, Intellect, Wisdom, Charisma, and Spirit.
+14
+Strength determines damage dealt with hefty weapons like swords and hammers.
+15
+Fortitude determines max hit points.
+16
+Dexterity determines damage dealt by lightweight weapons like daggers, as well as your accuracy.
+17
+Agility determines your speed and evasiveness.
+18
+Intellect determines the power of light, vital, and psychic magic.
+19
+Wisdom helps you resist and inflict many effects like blindness.
+20
+Charisma determines the power of fire, ice, lightning, and poison magic.
+21
+And last up is Spirit, which determines maximum skill points.
+22
+Your scores also determine your stats, so keep an eye on them.
+23
+Sick of looking at Eric? You can press the space bar to toggle the party leader. It doesn't change anything, however.
+24
+I'll heal you whenever you need.
+25
+Don't forget to save frequently!
+26
+Press ESC to access the main menu, then scroll down to "save," and pick the file that you want to save to.
+27
+If you fall in battle, you'll have to load a saved game. You can only save in "safe" rooms like this one, however.
+28
+Items can save your life out there, but each of you can only carry so many.
+29
+While you're in a "safe" room like this one, you can press ESC to access the menu, select inventory, and select an item from stock.
+30
+Choose "swap" and then choose a slot in one of your personal inventories to bring it into battle.
+31
+While in an "unsafe" room like the one up ahead, you can only use the items in your personal inventories, so plan carefully!
+32
+This is some text in a cutscene.
+33
+Get ready for a whole heckuva lot o' this!
+34
+I'll give you every power.
+35
+I'll give you every ability.
+36
+I feel an encroaching darkness... I may have to fight to defend myself.
+37
+!!!
+38
+This place seems calm. I must take this chance to rest, and record my progress.
+39
+Care to save the game?
+40
+Remember, if you fall in battle, you will have to load a saved game.
+41
+Fully restored.
+42
+The dark forces grow stronger. I may need to use my powers to defeat them. I may be attacked at any time.
+43
+I must think carefully about which powers to use when...
+44
+Pressed the switch...
+45
+A barrier. Perhaps there is some way to open it?
+46
+What is this? What is happening to me? What is this place?
+47
+Can it... can it be?
+48
+Last I remember, I gazed into the mirror, with eyes still living...
+49
+I see now... I must be having a vision... A miracle... It's a...
+50
+Miracle.
+51
+...No!
+52
+Please tell me... God... what have I done to be subjected to the presence of such foul villainy...
+53
+Please, God, divulge Thy purporse for me today.
+54
+...
+55
+I see...
+56
+I shall go into battle without fear! Do not avert Thy blessed gaze, my Lord...
+57
+...for I shall strike a glorious victory against this foul arch-sinner in Thy name!
+58
+YES!!! BEHOLD MY POWER!
+59
+All shall fear me! Me, the great-
+60
+!!!
+61
+F-Forgive my insolence, my Lord... It is only through you that I-
+62
+I can...
+63
+...
+64
+I understand...
+65
+Thank you... for showing me this...
+66
+I know what I must do.
+67
+Frida: Ugh... this can't be happening to me.
+68
+???: Hey, are you okay?
+69
+Frida: Ack! Get away from me!
+70
+Eric: S-sorry! I didn't mean to scare you!
+71
+I just... saw you sleeping in a church. And I thought maybe you were in trouble.
+72
+Frida: A church?
+73
+It wasn't just a dream...
+74
+Eric: So do you need help, or...?
+75
+Frida: Yes! Well, I think so. Some strange men came to my house last night.
+76
+Actually, I think one of them might have been a woman.
+77
+But anyway, they were after me for some reason.
+78
+Mom and dad tried to protect me, and they got arrested or kidnapped or...
+79
+*Sob* I just don't know...
+80
+Eric: Wow...
+81
+That really happened? That's... awful.
+82
+Frida: So you'll help?
+83
+Eric: Of course! I'm not sure how much I can do, but...
+84
+Maybe we should exchange names first.
+85
+I'm Eric Son of Ulrich.
+86
+Frida: I'm Frida.
+87
+Daughter of Frederick. So you've probably heard of me.
+88
+Eric: ...No?
+89
+Unless you mean Frederick of House Tricius. But I had no idea they had a daughter.
+90
+Frida: !!!
+91
+Well it's not exactly a secret!
+92
+Eric: Sorry! Whadaya want me to say?
+93
+Frida: Hmph! Some people just have no culture.
+94
+Eric: Guilty as charged, I guess.
+95
+Eric: Any ideas on what to do?
+96
+Frida: What? I didn't know I was supposed to be thinking of stuff!
+97
+Eric: Well, I haven't thought of anythi-
+98
+Frida: Wait! I do have an idea! We'll go see Hector!
+99
+I'm a genius.
+100
+Eric: Wait, you mean Hector Son of Heinrich?
+101
+Frida: Oh, so you've heard of him but not me?
+102
+Eric: Nothing personal, it's just that we're both in the knight academy. He's two years above me.
+103
+Frida: Oh yes, he is something...
+104
+...
+105
+Eric: So how do you know him?
+106
+Frida: Shouldn't it be obvious? We're engaged to be married!
+107
+Eric: Come again!? It's not obvious at all, you don't look nearly old enough to get married!
+108
+Frida: Oh, don't be ridiculous. We aren't actually getting married until I turn 16.
+109
+I'm 14 now, of course.
+110
+Eric: That's still pretty young. I'm 14 too, and I can't imagine being engaged.
+111
+The thought of spending that much time with a girl just... freaks me out.
+112
+Frida: Hmph! Well get used to it, then!
+113
+Eric: No, I didn't mean...
+114
+Can we just go?
+115
+Frida: Fine! I hope I don't freak you out too much.
+116
+Eric: Ugh...
+117
+Buy some gear, if you think you can handle it.
+118
+Let me know if you need anything.
+119
+What, you can't even afford a room? Why don't you get a real job and come back!
+120
+Hector: Frida! What are you doing here? Is something wrong?
+121
+Frida: Umm... I'm not really sure where to begin...
+122
+Eric: Frida's parents were taken away by strange men late last night. They were after her, but she got away.
+123
+Hector: You're... Eric, right?
+124
+Eric: That's right.
+125
+Hector: Good. I can trust her with a fellow knight.
+126
+Eric: In training...
+127
+Hector: This is deeply troubling.
+128
+If what I suspect is true, we should plan our moves carefully.
+129
+I was just about to leave for school. Let me leave a note for my parents.
+130
+Frida: Ack! I totally forgot it was a school day!
+131
+Eric: Don't worry about that now! We have to get you to safety!
+132
+Hector: What about you, Eric? Is there anything you need to take care of before we leave?
+133
+Frida: Oh yeah... I hadn't even thought about you. What were you doing hanging around the church this morning, anyway?
+134
+Eric: Who, me? Uhh- nothing. I'm on special training. That's all. Don't worry about it.
+135
+...
+136
+...
+137
+Hector: I'll take you at your word. Let's be off.
+138
+Hector: Wait! We can't just walk out the front gates!
+139
+I think those men may be searching for us. We should make for the north end of El Trice. There's a gap in the wall leading out of town.
+140
+Frida: That goes into the woods. I was never allowed to play there as a kid because of how dangerous it was.
+141
+Hector: Don't worry. Eric and I can handle it.
+142
+Eric: Hector, earlier, you said you suspected something about this whole mess. What were you talking about?
+143
+Hector: I'll bet anything it's the Lord's Army.
+144
+Eric: Who?
+145
+Hector: They're some sort of militia. They wander Elta causing trouble like this, yet they always seem to get away with it.
+146
+They have some sort of political power. Peacekeepers always look the other way.
+147
+Frida: I've heard of them. They say they serve God.
+148
+It burns me up that they would use His name like that!
+149
+...but why would they be after me?
+150
+Eric: It could be because of who your parents are.
+151
+Hector: Actually, I think it's probably because of her powers.
+152
+Eric: Powers?
+153
+Frida: That's right! I happen to be quite the magical prodigy!
+154
+Hector: I have some magical powers myself.
+155
+Frida: You see? We're a perfect match!
+156
+Eric: I've never felt so out of place...
+157
+Hector: The Lord's Army seems interested in recruiting spellcasters. They already have many in their ranks.
+158
+Eric: You should watch your back then, Hector. They could be after you next.
+159
+Hector: Ha! Let them come! I'll show them a thing or two!
+160
+I only wish I had been there for Frida...
+161
+Hector: From here, we make for Havenheit in the east. Frida should be safe there.
+162
+I have my responsibilities in El Trice, so I'll leave her safety to you, Eric.
+163
+Frida: I love Havenheit. You know it's renowned for its giant theater.
+164
+I wish we had time to see a play...
+165
+Eric: You're just gonna trust me with your girlfriend like that?
+166
+Hector: Certainly. I have faith in your honor as a knight. Unless... there's a reason I shouldn't trust you?
+167
+Frida: Oh, don't worry. We have NO chemistry at all.
+168
+As if I would ever be interested in someone so plain.
+169
+And that's barely getting into everything wrong with him.
+170
+Hector: Be nice, Frida.
+171
+Frida: Come on, I'm just kidding.
+172
+Hector: I'm sorry I can't stay.
+173
+Eric: Don't worry, Hector. We'll be fine.
+174
+Hector: Just do your best.
+175
+Frida: Goodbye, Hector.
+176
+I love you.
+177
+Hector: I love you, too.
+178
+...
+179
+Eric: It's okay. We'll only be gone for a little while.
+180
+Frida: I know.
+181
+I just... got the chills for some reason.
+182
+It's nothing.
+183
+Eric: Let's have a look around town.
+184
+Frida: Oh! Look! Look!
+185
+A street performance! How fun!
+186
+Eric: It's just a kid...
+187
+Alamand: Behold the powers of Alamand! The legendary mystic!
+188
+Eric: The crowd's eating it up.
+189
+Frida: Sure they are! He's the real deal!
+190
+Eric: So you're saying he has real magical powers? How can you tell?
+191
+Frida: It must be my woman's intuition.
+192
+Also, those are all spells Hector can use.
+193
+Eric: We should be moving on.
+194
+Frida: Quiet! Hide!
+195
+Eric: What is it?
+196
+Frida: It's them! In the crowd! The Lord's Army!
+197
+No no no! How did they find me?
+198
+Eric: Maybe they didn't... what if it's not you they're after?
+199
+Frida: What do you-
+200
+*Gasp* I think you're right! What do we do?
+201
+Alamand: Hm? Fans of mine?
+202
+Sorry, I don't do autographs.
+203
+Eric: We're too late!
+204
+Frida: Run away, Alamand!
+205
+Alamand: Wh-what?
+206
+Lord's Army Cadet: You're coming with us, little boy.
+207
+Alamand: Now wait a second! Let go of me!!
+208
+Eric: Let's help him!
+209
+Alamand: Quick! This way!
+210
+Alamand: Thanks for the help.
+211
+What are your names?
+212
+Eric: I'm Eric, Son of Ulrich.
+213
+Frida: And I'm Frida, Daughter of Frederick.
+214
+Alamand: I didn't ask who your dads were. Eltans are so weird...
+215
+But you guys seem okay. You actually have your heads screwed on straight.
+216
+Eric: Thanks, I guess.
+217
+Frida: Is Alamand your real name?
+218
+Alamand: Of course it is! I was gonna say you can call me Al, but I don't know...
+219
+Al: Okay! You can call me Al if you want. As thanks for saving me.
+220
+And you can be my bodyguards.
+221
+Eric: Where are you from, Al? Since you aren't Eltan?
+222
+Al: I'm from Amharra.
+223
+Frida: Ooh! Say something in Amharran for me!
+224
+Al: Uhh... let's see...
+225
+Eric: Frida! That's rude.
+226
+Al: Yeah! I'm not some party trick.
+227
+But to be honest, I barely remember Amharra.
+228
+I was 3 years old when my powers manifested for the first time.
+229
+My parents were very poor, and they thought I could have a better chance at a good life in Elta.
+230
+So they stowed me away on a ship with my older cousin.
+231
+He actually died a few years ago. So now it's just me.
+232
+Good thing the owner of the theater is nice enough to let me squat here.
+233
+Frida: What a sad story.
+234
+Eric: Do you ever feel like going back to Amharra?
+235
+Al: No.
+236
+Frida: Why not? Don't you want to see your home?
+237
+Al: I don't have any idea what it's like there.
+238
+And I...
+239
+...I don't really want my family to see me.
+240
+Frida: You don't want to see your family? What are you saying?
+241
+Al: Can we talk about something else?
+242
+Eric: Does the owner of the theater take care of you?
+243
+Al: No. Sometimes he'll bring me something to eat, but I'm mostly on my own.
+244
+I'm 13. I'm old enough to take care of myself.
+245
+Besides, those street shows make more money than you'd think.
+246
+Eltans are rubes. I just have to look mysterious and exotic, and they'll empty their pockets.
+247
+Frida: Don't you go to school? You're not a delinquent, are you?
+248
+Al: No. What's school good for, anyway?
+249
+I learned to read and write from play scripts. What else do I need?
+250
+Frida: What else do you need!? What about chemistry, geology, geography, uh...
+251
+Biology...
+252
+Al: I don't even know what most of those words mean, and I'm doing just fine.
+253
+All I need is a stupid costume and some flashy powers.
+254
+Frida: The poison of anti-intellectualism runs deep in today's youth...
+255
+Al: By the way, who were those guys outside?
+256
+Eric: The Lord's Army. They abducted Frida's parents. That's why we came here from El Trice.
+257
+Al: Okay. But who ARE they?
+258
+Frida: No one's really sure. But they have influence. And they're interested in spellcasters.
+259
+Eric: You should come with us. We're trying to find a safe place for Frida. And then find a way to get her parents back.
+260
+Frida: What!? I never said he could come with us!
+261
+Al: Thanks but...
+262
+I'm not going anywhere. I'll just hide out in here until this blows over.
+263
+Not like I have anywhere better to go.
+264
+Eric: I feel terrible leaving you here when you could be in danger.
+265
+But I guess I can't force you to come.
+266
+Frida: Is anybody even listening to me?
+267
+Wait...
+268
+Do you guys smell that?
+269
+Eric: Yeah. It's like...
+270
+Al: Smoke.
+271
+Frida: FIRE!
+272
+Al: What!? How did this happen?
+273
+Eric: Could it be the Lord's Army?
+274
+Al: Those-
+275
+AAAAARGH! HOW COULD THEY!?
+276
+Frida: We have to get out of here!
+277
+Al: This way! Quick!
+278
+Man: Hey! There he is! That freak kid!
+279
+Woman: It must've been him! He's always playing with fire!
+280
+Al: They... they think I...
+281
+Eric: It wasn't him! We were with him the whole time! It wasn't him!!
+282
+Frida: We should skip town.
+283
+Al: I didn't do it... *sob* I didn't do it... *hic* I swear I- *sob* I didn't do it...
+284
+Lord's Army Cadet: Is that them? Over there!
+285
+Eric: We have to go now!
+286
+Eric: I thought they just had an overly-aggressive recruitment program, but...
+287
+...back there it was like they were trying to kill you.
+288
+Al: ...
+289
+Frida: At least say thank you.
+290
+Al: ...what did you say?
+291
+Frida: Nothing. Just that I, a member of high society, just selflessly put my freedom on the line to save you, a grifting street urchin.
+292
+I expect a little gratitude.
+293
+Eric: Frida, try to be sensitive-
+294
+Al: Shut up, Eric! I can fight my own battles.
+295
+And as for you, princess.
+296
+In case you haven't noticed, mommy and daddy aren't here to give you your allowance.
+297
+So until you get a job, or slay a dragon, YOU are the grifting street urchin, NOT me.
+298
+And YOU are the one who owes a thank you to that spineless jellyfish over there, for having the patience of a saint, and tolerating you long enough to make sure you don't get eaten by wolves!
+299
+Frida: ...
+300
+Al: ...
+301
+Frida: ...
+302
+Al: ...
+303
+Frida: ...
+304
+Frida: WAAAAAAAAAAAAAAAAAAH!!!!!!!
+305
+ERIC HOW CAN YOU LET HIM SAY THINGS LIKE THAT?
+306
+Eric: Spineless...
+307
+Al: Can it, you prissy piece of work!
+308
+Eric: Would everyone just...
+309
+Frida: YOU CAN'T TALK TO ME THAT WAY! I'LL TELL MY DAD! HE'LL... HE'LL...
+310
+Eric: Would you two please...
+311
+Al: Oh by all means! Go and get him! I'll wait right here!
+312
+Eric: SHUT UP! BOTH OF YOU!
+313
+Al: ...
+314
+Frida: *sniff* Wow Eric, don't fly off the handle.
+315
+Eric: Can we all just calm down?
+316
+We can't let ourselves get torn apart.
+317
+You both have powerful people out trying to hurt you! Or did you forget?
+318
+Al: ...
+319
+Frida: ...
+320
+Eric: If we don't stick together, they'll get you for sure!
+321
+Al: *sob* Fine...
+322
+Frida: ...
+323
+Eric: Good. Now let's get some rest.
+324
+Eric: 'Morning, Al.
+325
+...
+326
+You look terrible.
+327
+Al: Thanks.
+328
+Eric: Didn't you sleep at all?
+329
+Al: Are you gonna wake up Frida?
+330
+Frida: Nng... I'm awake.
+331
+Al: Don't let us stop you from sleeping in. We don't even know where we're going.
+332
+Frida: For your information, I'm ten times the morning person you will ever be.
+333
+Eric: We're going to Lon Hirodine.
+334
+Frida: The capital. Are you sure that's a good idea? Won't they look there?
+335
+Eric: It's the only way out of central Elta. Plus, we'll have an easier time blending in to a city with lots of people.
+336
+Al: Sounds good enough for me.
+337
+Hector: We don't have time for detours. We need to get to Havenheit.
+338
+Frida: *sigh* The big city...
+339
+Al: These big crowds make me nervous now. What if we were followed?
+340
+Eric: Then they'll give us a better chance of getting away.
+341
+Frida: I'm exhausted... can we go to the inn, already?
+342
+Al: What!? We just got here!
+343
+Eric: I think Frida's right. It's been a long couple of days.
+344
+Al: Fine. Whatever.
+345
+Can't press it again...
+346
+Speak to me Lord, I humbly ask.
+347
+Divulge your will unto me, and it shall be done.
+348
+That, I promise.
+349
+Pressed the switch...
+350
+You can hear the water draining.
+351
+Pressed the switch...
+352
+You can hear the water rising.

@@ -1,0 +1,54 @@
+1
+Attack Up!
+2
+Physical Defense Up!
+3
+Speed Up!
+4
+Accuracy Up!
+5
+Evasion Up!
+6
+Magic Power Up!
+7
+Heat Resistance Up!
+8
+Cold Resistance Up!
+9
+Electric Resistance Up!
+10
+Poison Resistance Up!
+11
+Aether Resistance Up!
+12
+Vital Resistance Up!
+13
+Mind Resistance Up!
+14
+Will Regenerate HP!
+15
+Will Regenerate SP!
+16
+Poisoned!
+17
+Paralyzed!
+18
+Petrified!
+19
+Stunned!
+20
+Hidden!
+21
+Blinded!
+22
+Hastened!
+32
+Asleep!
+33
+Hid underground!
+38
+Cursed!
+41
+Heartbroken!
+42
+Bleeding!

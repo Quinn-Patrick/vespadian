@@ -1,0 +1,447 @@
+1
+2
+Take on a defenive stance. While in the defensive stance, inflict and recieve half damage.
+2
+5
+Attack as quickly as possible to attack again sooner.
+3
+3
+Rush the enemy, making an attack and attempting to stun them.
+4
+4
+Stand courageously against all attacks, boosting the whole party's physical defense.
+5
+3
+Bellow mightily, boosting the physical attack of one ally.
+6
+0
+The user makes a ranged attack by throwing their currently equipped weapon.
+7
+4
+Strike without missing.
+8
+6
+Strike with the power of fire.
+9
+6
+Strike with the power of ice.
+10
+6
+Strike with the power of thunder.
+11
+6
+Attack every enemy next to the target.
+12
+2
+Take on an attack stance. While in the attack stance, inflict and recieve 50 percent more damage.
+13
+60
+Attack twice for each attack you would normally use with the fight command.
+101
+0
+Attempt to hide from the enemy. While hidden, the user cannot be targeted and deals more damage.
+102
+0
+Attempt to steal from one enemy. Some items can only be obtained in this way.
+103
+2
+Attempt to steal from one enemy and also inflict damage.
+104
+4
+Attempt to steal from one enemy and also attempt to stun them.
+105
+8
+Launch a flurry of attacks, striking random enemies.
+201
+4
+Blast all enemies with divine radiance. This may inflict blindness.
+202
+3
+Heal one ally.
+203
+2
+Pray for aid. Who knows what will happen?
+204
+10
+Restore one ally to life with one hit point.
+205
+15
+Attempt to kill one target instantly
+206
+5
+Attempt to poison one target.
+207
+4
+Inflict vital damage to one target.
+208
+32
+Restore one ally to life with half of their maximum hit points.
+209
+3
+Strike one target with moderate aetherial damage, and attempt to blind it.
+210
+14
+Bombard all enemies with intense aetherial damage, and attempt to blind them.
+211
+23
+Restore a large amount of hit points to all allies.
+212
+10
+Restore a moderate amount of hit points to one ally.
+213
+40
+Restore a huge amount of hit points to all allies.
+214
+1
+Treat poisoning.
+215
+1
+Treat blindness.
+216
+6
+Treat paralysis.
+217
+28
+Unleash the light of the gods upon all enemies, and attempt to inflict blindness.
+218
+2
+Attempt to magically lull the target to sleep.
+219
+4
+Inflict mind damage to one target.
+220
+8
+Reduce the damage that one target takes by half for 5 of their turns.
+221
+70
+Return a fallen ally to life with all of their hit points.
+222
+12
+Give one ally the ability to return to life with one hit point after falling in battle.
+223
+2
+Cure the sleep, poison, slow, and blindness conditions.
+224
+16
+Cure the sleep, poison, blindness, slow, paralysis, stun, heartbreak, and curse conditions, and remove stat reductions.
+225
+40
+Wrap all of your allies in divine energy, reducing the damage they take by half for 5 of their turns.
+226
+265
+Enclose all of your allies in a holy shield, protecting them from all damage for 3 of their turns.
+301
+4
+Strike one enemy with a burst of flames.
+302
+8
+Summon a tremor, which deals damage in a fixed range.
+303
+6
+Summon a riptide, which submerges the battlefield.
+304
+3
+Call a storm. This has no effect if it is already raining.
+305
+3
+Call the sun. This has no effect if the sun is already out.
+306
+4
+Increase the temperature.
+307
+4
+Decrease the temperature.
+308
+4
+The user decreases the humidity.
+309
+4
+The user increases the humidity.
+310
+4
+The user strikes with the power of flames.
+311
+4
+The user strikes with the power of frost.
+312
+4
+The user strikes with the power of lightning.
+313
+2
+Boost the heat resistance of one ally.
+314
+2
+Boost the cold resistance of one ally.
+315
+2
+Boost the electric resistance of one ally.
+316
+8
+Strike with the power of the mind, draining the target's skill points.
+317
+8
+Strike with the power of vitality, draining the target's hit points.
+318
+8
+Strike with the power of aether, sometimes causing various status effects.
+319
+1
+Boost the mind resistance of one ally.
+320
+1
+Boost the vital resistance of one ally.
+321
+1
+Boost the aetherial resistance of one ally.
+322
+12
+Boost the physical attack of one ally.
+323
+2
+Boost the physical defense of one ally.
+324
+10
+Hasten one target, causing them to take turns twice as frequently
+325
+10
+Attack all enemies with a fiery explosion.
+326
+13
+Attack all enemies with a blast of ice, and attempt to cut their physical attack.
+327
+13
+Attack all enemies with a bolt of lightning, and attempt to stun them.
+328
+4
+Attempt to paralyze one target.
+329
+2
+Attempt to put one target to sleep.
+330
+6
+Turn one target to stone.
+331
+1
+Attempt to blind one target.
+332
+2
+Frighten one target.
+333
+6
+Attempt to slow one target.
+334
+6
+Attack one target with electricity, and attempt to stun them.
+335
+6
+Attack one target with ice, and attempt to cut their physical attack.
+336
+3
+Reduce the target's physical attack by a little.
+337
+3
+Reduce the target's physical defense by a little.
+338
+32
+Inflict intense heat damage to all enemies.
+339
+36
+Inflict intense cold damage to all enemies, and attempt to cut their attack stats.
+340
+40
+Inflict intense electrical damage to all enemies, and attempt to stun them.
+341
+7
+Inflict cold damage to all enemies and lower the temperature of the battlefield.
+342
+12
+Attempt to paralyze one target.
+343
+40
+Attempt to paralyze all enemies.
+344
+26
+Attack with a cloud of poison that may inflict the poison condition on all enemies.
+345
+60
+Summon a massive earthquake that deals damage in a constant range.
+346
+5
+Attack with an arrow of magical energy which cannot be resisted.
+347
+240
+A spell said to bring about the death of stars.
+348
+45
+Attempt to teleport all enemies some place far away, or use it on the world map to travel some place that you've already been to.
+349
+9
+Attempt to teleport an enemy some place far away, or use it in a dungeon to go outside.
+350
+5
+Attempt to remove all positive status effects and stat changes from the target.
+351
+120
+Attempt to instantly kill every enemy, or inflict massive damage.
+401
+0
+The user throws their hatchet.
+402
+0
+Launch a sticky webbing.
+403
+0
+Shroud their target in shadow, sometimes blinding them.
+404
+0
+Sling slime at the target, attempting to lower their physical attack.
+405
+0
+Attack with roots.
+406
+0
+Shriek, sometimes stunning the target.
+407
+0
+Bombard multiple targets with fire.
+408
+9
+Attempt to put all enemies to sleep.
+409
+0
+Attempt to stun all opponents with fungal spores.
+410
+0
+Attack with fungal spores, attempting to afflict all targets with sleep, stun, and poison.
+411
+0
+Dig underground, shielding from almost all effects.
+412
+0
+The user summons a tremor, which dries the battlefield.
+413
+1
+Through intense study, the user boosts their own attack stat.
+414
+1
+Through intense study, the user boosts their own defense stat.
+415
+1
+Through intense study, the user boosts their own speed stat.
+416
+1
+Through intense study, the user boosts their own accuracy stat.
+417
+1
+Through intense study, the user boosts their own evasion stat.
+418
+1
+Through intense study, the user boosts their own magic stats.
+419
+1
+Through intense study, the user boosts their own heat resistance stat.
+420
+1
+Through intense study, the user boosts their own cold resistance stat.
+421
+1
+Through intense study, the user boosts their own electricity resistance stat.
+422
+1
+Through intense study, the user boosts their own poison resistance stat.
+423
+1
+Through intense study, the user boosts their own aether resistance stat.
+424
+1
+Through intense study, the user boosts their own vital resistance stat.
+425
+1
+Through intense study, the user boosts their own mind  resistance stat.
+426
+50
+Raise all fallen allies with half of their maximum hit points.
+427
+0
+Reduce all enemy's current hit points by half.
+428
+80
+Call down meteors that inflict massive physical damage.
+429
+48
+Erase all enemy stat changes.
+430
+6
+A vicious bite that may cause bleeding.
+431
+10
+Assault all enemies with a deluge of vital damage, sometimes inflicting the heartbreak condition.
+432
+12
+Attack the target physically and attempt to engulf them, causing paralysis.
+433
+18
+Caress all enemies with feathers, which may significantly lower their physical attack and physical defense stats.
+434
+10
+Assault all enemies with a deluge of electrical damage, sometimes inflicting the stun condition.
+435
+12
+Inflict heavy physical damage to all targets and attempt to inflict blindness.
+436
+10
+Attempt to inflict the curse status.
+437
+10
+Attack and greatly reduce the target's physical defense.
+438
+10
+Assault all enemies with a deluge of cold damage, sometimes reducing enemy attack.
+439
+20
+Fire a ray of psychic energy that may miss, but may also paralyze the target.
+440
+10
+Assault all enemies with a deluge of heat damage.
+441
+25
+Inflict heavy heat damage to all enemies, and attempt to set them aflame, causing them to take the damage again on their next turn.
+442
+10
+Fire a shot of ink at a single target that has a high chance of causing blindness.
+443
+60
+Summon a massive earthquake that deals damage in a constant range.
+444
+25
+Assault all enemies with a blast of poison.
+445
+60
+Attack with a cloud of spores which inflicts random status conditions and lowers random stats.
+446
+25
+Assault all enemies with a blast of psychic energy that may reduce mind resistance.
+447
+25
+Inflict vital damage on one target and restore your own hit points by the damage dealt.
+448
+60
+Summon a huge tidal wave, which deals damage in a constant range.
+449
+25
+Assault all enemies with a blast of light. This may cause blindness.
+450
+29
+Inflict massive poison damage to targets with the poisoned condition.
+451
+40
+Put all targets to sleep without fail, unless the target is immune to the sleep status.
+452
+30
+Attempt to slow all targets with bitter cold.
+453
+30
+Curse one target without fail, causing them to take double damage.
+1001
+0
+Make a fire attack on top of your normal attack.

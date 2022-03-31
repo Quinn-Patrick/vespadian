@@ -1,0 +1,23 @@
+Successfully crafted item!
+Not enough materials.
+915
+243
+1245
+1
+1180
+1
+-1
+916
+244
+1246
+1
+1180
+1
+-1
+917
+245
+1247
+1
+1180
+1
+-1

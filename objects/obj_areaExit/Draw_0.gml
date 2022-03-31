@@ -1,0 +1,1 @@
+if(sprite_index != spr_npcTest)draw_self();
