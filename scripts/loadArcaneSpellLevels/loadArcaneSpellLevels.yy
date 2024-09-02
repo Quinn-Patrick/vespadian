@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "data loading",
-    "path": "folders/Scripts/system/data loading.yy",
+  "$GMScript":"v1",
+  "%Name":"loadArcaneSpellLevels",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"loadArcaneSpellLevels",
+  "parent":{
+    "name":"data loading",
+    "path":"folders/Scripts/system/data loading.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "loadArcaneSpellLevels",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

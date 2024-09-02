@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "battle",
-    "path": "folders/Scripts/battle.yy",
+  "$GMScript":"v1",
+  "%Name":"sendTargetToken",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sendTargetToken",
+  "parent":{
+    "name":"battle",
+    "path":"folders/Scripts/battle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "sendTargetToken",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

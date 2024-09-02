@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "visuals",
-    "path": "folders/Scripts/visuals.yy",
+  "$GMScript":"v1",
+  "%Name":"lightningBreathAnim",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"lightningBreathAnim",
+  "parent":{
+    "name":"visuals",
+    "path":"folders/Scripts/visuals.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "lightningBreathAnim",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

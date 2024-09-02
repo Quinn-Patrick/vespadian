@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "powers",
-    "path": "folders/Scripts/powers.yy",
+  "$GMScript":"v1",
+  "%Name":"cmd_multishot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cmd_multishot",
+  "parent":{
+    "name":"powers",
+    "path":"folders/Scripts/powers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "cmd_multishot",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

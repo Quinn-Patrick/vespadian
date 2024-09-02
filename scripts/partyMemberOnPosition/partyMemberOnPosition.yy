@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "system",
-    "path": "folders/Scripts/system.yy",
+  "$GMScript":"v1",
+  "%Name":"partyMemberOnPosition",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"partyMemberOnPosition",
+  "parent":{
+    "name":"system",
+    "path":"folders/Scripts/system.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "partyMemberOnPosition",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

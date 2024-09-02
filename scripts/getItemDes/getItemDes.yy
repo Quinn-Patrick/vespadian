@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "itemsAndEquipment",
-    "path": "folders/Scripts/itemsAndEquipment.yy",
+  "$GMScript":"v1",
+  "%Name":"getItemDes",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getItemDes",
+  "parent":{
+    "name":"itemsAndEquipment",
+    "path":"folders/Scripts/itemsAndEquipment.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "getItemDes",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "itemsAndEquipment",
-    "path": "folders/Scripts/itemsAndEquipment.yy",
+  "$GMScript":"v1",
+  "%Name":"getEqSlot",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getEqSlot",
+  "parent":{
+    "name":"itemsAndEquipment",
+    "path":"folders/Scripts/itemsAndEquipment.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "getEqSlot",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "enemyAIs",
-    "path": "folders/Scripts/battle/enemyAIs.yy",
+  "$GMScript":"v1",
+  "%Name":"ai12",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ai12",
+  "parent":{
+    "name":"enemyAIs",
+    "path":"folders/Scripts/battle/enemyAIs.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "ai12",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

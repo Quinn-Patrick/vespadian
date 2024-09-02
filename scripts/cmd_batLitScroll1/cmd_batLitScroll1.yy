@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "battleItemScripts",
-    "path": "folders/Scripts/itemsAndEquipment/battleItemScripts.yy",
+  "$GMScript":"v1",
+  "%Name":"cmd_batLitScroll1",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cmd_batLitScroll1",
+  "parent":{
+    "name":"battleItemScripts",
+    "path":"folders/Scripts/itemsAndEquipment/battleItemScripts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "cmd_batLitScroll1",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

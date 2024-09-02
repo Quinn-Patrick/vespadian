@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "stats",
-    "path": "folders/Scripts/stats.yy",
+  "$GMScript":"v1",
+  "%Name":"getStatName",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getStatName",
+  "parent":{
+    "name":"stats",
+    "path":"folders/Scripts/stats.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "getStatName",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

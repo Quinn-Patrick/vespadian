@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "system",
-    "path": "folders/Scripts/system.yy",
+  "$GMScript":"v1",
+  "%Name":"loadMisc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"loadMisc",
+  "parent":{
+    "name":"system",
+    "path":"folders/Scripts/system.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "loadMisc",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

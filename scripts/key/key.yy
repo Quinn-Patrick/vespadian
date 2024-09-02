@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "system",
-    "path": "folders/Scripts/system.yy",
+  "$GMScript":"v1",
+  "%Name":"key",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"key",
+  "parent":{
+    "name":"system",
+    "path":"folders/Scripts/system.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "key",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

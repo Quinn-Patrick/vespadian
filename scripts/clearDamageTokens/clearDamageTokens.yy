@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "damageTokens",
-    "path": "folders/Scripts/battle/damageTokens.yy",
+  "$GMScript":"v1",
+  "%Name":"clearDamageTokens",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"clearDamageTokens",
+  "parent":{
+    "name":"damageTokens",
+    "path":"folders/Scripts/battle/damageTokens.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "clearDamageTokens",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "system",
-    "path": "folders/Scripts/system.yy",
+  "$GMScript":"v1",
+  "%Name":"checkSoundLog",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkSoundLog",
+  "parent":{
+    "name":"system",
+    "path":"folders/Scripts/system.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "checkSoundLog",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

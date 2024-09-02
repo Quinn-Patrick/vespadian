@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "battle",
-    "path": "folders/Scripts/battle.yy",
+  "$GMScript":"v1",
+  "%Name":"totalParty",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"totalParty",
+  "parent":{
+    "name":"battle",
+    "path":"folders/Scripts/battle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "totalParty",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

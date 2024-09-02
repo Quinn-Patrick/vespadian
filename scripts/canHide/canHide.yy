@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "battle",
-    "path": "folders/Scripts/battle.yy",
+  "$GMScript":"v1",
+  "%Name":"canHide",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"canHide",
+  "parent":{
+    "name":"battle",
+    "path":"folders/Scripts/battle.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "canHide",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

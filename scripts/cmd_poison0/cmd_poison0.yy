@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "powers",
-    "path": "folders/Scripts/powers.yy",
+  "$GMScript":"v1",
+  "%Name":"cmd_poison0",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cmd_poison0",
+  "parent":{
+    "name":"powers",
+    "path":"folders/Scripts/powers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "cmd_poison0",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

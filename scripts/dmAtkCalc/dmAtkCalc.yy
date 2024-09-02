@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "stats",
-    "path": "folders/Scripts/stats.yy",
+  "$GMScript":"v1",
+  "%Name":"dmAtkCalc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"dmAtkCalc",
+  "parent":{
+    "name":"stats",
+    "path":"folders/Scripts/stats.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "dmAtkCalc",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

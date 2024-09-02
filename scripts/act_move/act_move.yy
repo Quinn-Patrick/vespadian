@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Stage Directions",
-    "path": "folders/Scripts/event/Stage Directions.yy",
+  "$GMScript":"v1",
+  "%Name":"act_move",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"act_move",
+  "parent":{
+    "name":"Stage Directions",
+    "path":"folders/Scripts/event/Stage Directions.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "act_move",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

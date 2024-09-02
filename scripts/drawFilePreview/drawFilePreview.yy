@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "saving and loading",
-    "path": "folders/Scripts/system/saving and loading.yy",
+  "$GMScript":"v1",
+  "%Name":"drawFilePreview",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"drawFilePreview",
+  "parent":{
+    "name":"saving and loading",
+    "path":"folders/Scripts/system/saving and loading.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "drawFilePreview",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

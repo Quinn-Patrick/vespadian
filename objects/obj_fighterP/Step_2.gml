@@ -32,7 +32,7 @@ curHp = round(curHp);
 
 gettingHit--;
 
-else if(conds[20] == 1)
+if(conds[20] == 1)
 {
 	if((global.uniClock % 2) == 0)visible = 1;
 	else visible = 0;

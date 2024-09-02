@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "battleItemScripts",
-    "path": "folders/Scripts/itemsAndEquipment/battleItemScripts.yy",
+  "$GMScript":"v1",
+  "%Name":"cmd_batCondFix",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"cmd_batCondFix",
+  "parent":{
+    "name":"battleItemScripts",
+    "path":"folders/Scripts/itemsAndEquipment/battleItemScripts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "cmd_batCondFix",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

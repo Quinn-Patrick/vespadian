@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "itemsAndEquipment",
-    "path": "folders/Scripts/itemsAndEquipment.yy",
+  "$GMScript":"v1",
+  "%Name":"stockSize",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"stockSize",
+  "parent":{
+    "name":"itemsAndEquipment",
+    "path":"folders/Scripts/itemsAndEquipment.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "stockSize",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "menu displays",
-    "path": "folders/Scripts/system/menu displays.yy",
+  "$GMScript":"v1",
+  "%Name":"displayPauseMenu",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"displayPauseMenu",
+  "parent":{
+    "name":"menu displays",
+    "path":"folders/Scripts/system/menu displays.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "displayPauseMenu",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

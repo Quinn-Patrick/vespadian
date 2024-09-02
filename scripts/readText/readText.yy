@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "event",
-    "path": "folders/Scripts/event.yy",
+  "$GMScript":"v1",
+  "%Name":"readText",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"readText",
+  "parent":{
+    "name":"event",
+    "path":"folders/Scripts/event.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "readText",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

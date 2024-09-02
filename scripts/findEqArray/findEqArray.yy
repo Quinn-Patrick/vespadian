@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "itemsAndEquipment",
-    "path": "folders/Scripts/itemsAndEquipment.yy",
+  "$GMScript":"v1",
+  "%Name":"findEqArray",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"findEqArray",
+  "parent":{
+    "name":"itemsAndEquipment",
+    "path":"folders/Scripts/itemsAndEquipment.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "findEqArray",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

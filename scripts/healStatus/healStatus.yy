@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "menuItemScripts",
-    "path": "folders/Scripts/itemsAndEquipment/menuItemScripts.yy",
+  "$GMScript":"v1",
+  "%Name":"healStatus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"healStatus",
+  "parent":{
+    "name":"menuItemScripts",
+    "path":"folders/Scripts/itemsAndEquipment/menuItemScripts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "healStatus",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

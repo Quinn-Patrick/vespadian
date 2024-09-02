@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "data loading",
-    "path": "folders/Scripts/system/data loading.yy",
+  "$GMScript":"v1",
+  "%Name":"getAbilityName",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getAbilityName",
+  "parent":{
+    "name":"data loading",
+    "path":"folders/Scripts/system/data loading.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "getAbilityName",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

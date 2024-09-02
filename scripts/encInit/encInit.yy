@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "encounters",
-    "path": "folders/Scripts/encounters.yy",
+  "$GMScript":"v1",
+  "%Name":"encInit",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"encInit",
+  "parent":{
+    "name":"encounters",
+    "path":"folders/Scripts/encounters.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "encInit",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

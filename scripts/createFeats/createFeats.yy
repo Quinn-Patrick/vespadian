@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "xpAndLevels",
-    "path": "folders/Scripts/xpAndLevels.yy",
+  "$GMScript":"v1",
+  "%Name":"createFeats",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"createFeats",
+  "parent":{
+    "name":"xpAndLevels",
+    "path":"folders/Scripts/xpAndLevels.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "createFeats",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Stage Directions",
-    "path": "folders/Scripts/event/Stage Directions.yy",
+  "$GMScript":"v1",
+  "%Name":"act_overlay",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"act_overlay",
+  "parent":{
+    "name":"Stage Directions",
+    "path":"folders/Scripts/event/Stage Directions.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "act_overlay",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

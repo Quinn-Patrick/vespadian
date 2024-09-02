@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "visuals",
-    "path": "folders/Scripts/visuals.yy",
+  "$GMScript":"v1",
+  "%Name":"voidAnimA",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"voidAnimA",
+  "parent":{
+    "name":"visuals",
+    "path":"folders/Scripts/visuals.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "voidAnimA",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

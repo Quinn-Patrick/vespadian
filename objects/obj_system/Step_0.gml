@@ -20,7 +20,7 @@ if(keyboard_check_pressed(vk_f10))
 	{
 		for(k = 0; k < 2; k++)
 		{
-			inst = charSwitch(i);
+			var inst = charSwitch(i);
 			if(is_undefined(inst)) break;
 			fileName = "files/enemies/"+object_get_name(inst.object_index)+string(k)+".txt"
 			enemyFile = file_text_open_write(fileName);

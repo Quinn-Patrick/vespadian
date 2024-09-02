@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "menuItemScripts",
-    "path": "folders/Scripts/itemsAndEquipment/menuItemScripts.yy",
+  "$GMScript":"v1",
+  "%Name":"restoreHealth",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"restoreHealth",
+  "parent":{
+    "name":"menuItemScripts",
+    "path":"folders/Scripts/itemsAndEquipment/menuItemScripts.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "restoreHealth",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

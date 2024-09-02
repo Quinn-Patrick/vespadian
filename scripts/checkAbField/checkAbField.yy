@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "abilities",
-    "path": "folders/Scripts/abilities.yy",
+  "$GMScript":"v1",
+  "%Name":"checkAbField",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"checkAbField",
+  "parent":{
+    "name":"abilities",
+    "path":"folders/Scripts/abilities.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "checkAbField",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

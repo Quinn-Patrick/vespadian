@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "stats",
-    "path": "folders/Scripts/stats.yy",
+  "$GMScript":"v1",
+  "%Name":"evadeRcalc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"evadeRcalc",
+  "parent":{
+    "name":"stats",
+    "path":"folders/Scripts/stats.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "evadeRcalc",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

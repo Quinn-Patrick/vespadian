@@ -28,6 +28,7 @@ function reportBattle() {
 	}
 	else if(reportLevel == 2)
 	{
+		reportLevel++;
 		if(reportSublevel == -1)
 		{
 			for(al = 0; al < ds_list_size(global.ally); al++)
@@ -55,17 +56,13 @@ function reportBattle() {
 			}
 		}
 	
-		if(reportLevel == 2)
+		/*if(reportLevel == 2)
 		{
 			levelUpName = "";
-			//if(global.party[reportSublevel,0] != -1)
-			//{
-				hello = global.party[reportSublevel,0];
-				levelUpName = global.ally[| reportSublevel].name;
-				levelUpLevel = string(global.scores[global.ally[| reportSublevel].num,8]);
-				battleMessage((levelUpName + " has grown to level " +  levelUpLevel + "!"));
-			//}
-		}
+			levelUpName = global.ally[| reportSublevel].name;
+			levelUpLevel = string(global.scores[global.ally[| reportSublevel].num,8]);
+			battleMessage((levelUpName + " has grown to level " +  levelUpLevel + "!"));
+		}*/
 	
 		if(key(9))
 		{

@@ -1,14 +1,14 @@
 function partyJoin(argument0) {
-	character = argument0;
+	characterToJoin = argument0;
 	for(i = 0; i < 4; i++) //make sure that this character isn't already in the party
 	{
-		if(global.party[i,0] == character) return false; //return false if that character is already in the party
+		if(global.party[i,0] == characterToJoin) return false; //return false if that character is already in the party
 	}
 	for(i = 0; i < 4; i++){
 		if(global.party[i,0] == -1) //find an empty slot
 		{
 			//position = i;
-			global.party[i, 0] = character; //insert the character
+			global.party[i, 0] = characterToJoin; //insert the character
 			break;
 		}
 		if(i == 3) return false; //return false if there isn't a free spot
@@ -21,12 +21,12 @@ function partyJoin(argument0) {
 
 	//place the character in the formation
 
-	global.partyPos[character, 0] = 0;
-	global.partyPos[character, 1] = 0;
+	global.partyPos[characterToJoin, 0] = 0;
+	global.partyPos[characterToJoin, 1] = 0;
 
 	for(jk = 0; jk < 4; jk++)
 	{
-		if(jk != character && partyCheck(jk))
+		if(jk != characterToJoin && partyCheck(jk))
 		{
 			occupied[global.partyPos[jk, 1]] = true;
 		}
@@ -34,7 +34,7 @@ function partyJoin(argument0) {
 	for(i = 0; i < 4; i++)
 	{
 		if(!occupied[i]){
-			global.partyPos[character, 1] = i;
+			global.partyPos[characterToJoin, 1] = i;
 			break;
 		}
 	}

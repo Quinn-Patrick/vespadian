@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "constructors",
-    "path": "folders/Scripts/constructors.yy",
+  "$GMScript":"v1",
+  "%Name":"duplicateCharacter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"duplicateCharacter",
+  "parent":{
+    "name":"constructors",
+    "path":"folders/Scripts/constructors.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "duplicateCharacter",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

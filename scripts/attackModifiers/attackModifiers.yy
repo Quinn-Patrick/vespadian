@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "powers",
-    "path": "folders/Scripts/powers.yy",
+  "$GMScript":"v1",
+  "%Name":"attackModifiers",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"attackModifiers",
+  "parent":{
+    "name":"powers",
+    "path":"folders/Scripts/powers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "attackModifiers",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

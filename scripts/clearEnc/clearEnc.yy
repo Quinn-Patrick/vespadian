@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "encounters",
-    "path": "folders/Scripts/encounters.yy",
+  "$GMScript":"v1",
+  "%Name":"clearEnc",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"clearEnc",
+  "parent":{
+    "name":"encounters",
+    "path":"folders/Scripts/encounters.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "clearEnc",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "event",
-    "path": "folders/Scripts/event.yy",
+  "$GMScript":"v1",
+  "%Name":"foundItemText",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"foundItemText",
+  "parent":{
+    "name":"event",
+    "path":"folders/Scripts/event.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "foundItemText",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

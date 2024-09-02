@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "sound",
-    "path": "folders/Scripts/sound.yy",
+  "$GMScript":"v1",
+  "%Name":"readAudioLevels",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"readAudioLevels",
+  "parent":{
+    "name":"sound",
+    "path":"folders/Scripts/sound.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "readAudioLevels",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

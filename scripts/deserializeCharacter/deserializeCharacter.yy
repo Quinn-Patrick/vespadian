@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "saving and loading",
-    "path": "folders/Scripts/system/saving and loading.yy",
+  "$GMScript":"v1",
+  "%Name":"deserializeCharacter",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"deserializeCharacter",
+  "parent":{
+    "name":"saving and loading",
+    "path":"folders/Scripts/system/saving and loading.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "deserializeCharacter",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

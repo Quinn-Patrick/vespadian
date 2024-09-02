@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "menu displays",
-    "path": "folders/Scripts/system/menu displays.yy",
+  "$GMScript":"v1",
+  "%Name":"displayPartyStats",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"displayPartyStats",
+  "parent":{
+    "name":"menu displays",
+    "path":"folders/Scripts/system/menu displays.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "displayPartyStats",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

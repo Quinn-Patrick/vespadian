@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "Stage Directions",
-    "path": "folders/Scripts/event/Stage Directions.yy",
+  "$GMScript":"v1",
+  "%Name":"act_fadeToBlack",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"act_fadeToBlack",
+  "parent":{
+    "name":"Stage Directions",
+    "path":"folders/Scripts/event/Stage Directions.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "act_fadeToBlack",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

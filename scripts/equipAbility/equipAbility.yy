@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "abilities",
-    "path": "folders/Scripts/abilities.yy",
+  "$GMScript":"v1",
+  "%Name":"equipAbility",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"equipAbility",
+  "parent":{
+    "name":"abilities",
+    "path":"folders/Scripts/abilities.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "equipAbility",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

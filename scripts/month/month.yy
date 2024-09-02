@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "saving and loading",
-    "path": "folders/Scripts/system/saving and loading.yy",
+  "$GMScript":"v1",
+  "%Name":"month",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"month",
+  "parent":{
+    "name":"saving and loading",
+    "path":"folders/Scripts/system/saving and loading.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "month",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

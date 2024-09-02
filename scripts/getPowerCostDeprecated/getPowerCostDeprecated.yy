@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "powers",
-    "path": "folders/Scripts/powers.yy",
+  "$GMScript":"v1",
+  "%Name":"getPowerCostDeprecated",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getPowerCostDeprecated",
+  "parent":{
+    "name":"powers",
+    "path":"folders/Scripts/powers.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "getPowerCostDeprecated",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

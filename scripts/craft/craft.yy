@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "crafting",
-    "path": "folders/Scripts/crafting.yy",
+  "$GMScript":"v1",
+  "%Name":"craft",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"craft",
+  "parent":{
+    "name":"crafting",
+    "path":"folders/Scripts/crafting.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "craft",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }

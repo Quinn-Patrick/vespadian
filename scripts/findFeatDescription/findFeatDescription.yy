@@ -1,12 +1,13 @@
 {
-  "isDnD": false,
-  "isCompatibility": false,
-  "parent": {
-    "name": "xpAndLevels",
-    "path": "folders/Scripts/xpAndLevels.yy",
+  "$GMScript":"v1",
+  "%Name":"findFeatDescription",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"findFeatDescription",
+  "parent":{
+    "name":"xpAndLevels",
+    "path":"folders/Scripts/xpAndLevels.yy",
   },
-  "resourceVersion": "1.0",
-  "name": "findFeatDescription",
-  "tags": [],
-  "resourceType": "GMScript",
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
 }
