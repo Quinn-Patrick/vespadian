@@ -3,7 +3,7 @@ function reportBattle() {
 	
 	if(reportLevel == 0)
 	{
-		battleMessage("You won!!");
+		battleMessage("Victory!!");
 		if(key(9))
 		{
 			sound(snd_select);
@@ -23,7 +23,7 @@ function reportBattle() {
 				itemN = getItemDat(global.loot[| 0], -1);
 			}
 		
-			reportLevel++;
+			reportLevel = 2;
 		}
 	}
 	else if(reportLevel == 2)
@@ -50,7 +50,9 @@ function reportBattle() {
 				reportSublevel++;
 				if(reportSublevel > 15)
 				{
-					reportLevel++;
+					
+					if(ds_list_size(global.loot) > 0)reportLevel = 3;
+					else reportLevel = 4;
 					break;
 				}
 			}
@@ -74,7 +76,8 @@ function reportBattle() {
 				reportSublevel++;
 				if(reportSublevel > 15)
 				{
-					reportLevel++;
+					if(ds_list_size(global.loot) > 0)reportLevel = 3;
+					else reportLevel = 4;
 					break;
 				}
 			}
@@ -82,6 +85,7 @@ function reportBattle() {
 	}
 	else if(reportLevel == 3)
 	{
+		show_debug_message("Report level is 3.");
 		if(ds_list_size(global.loot) == 0)
 			reportLevel++
 	
@@ -89,6 +93,7 @@ function reportBattle() {
 		battleMessage("Found: " + string(itemN));
 		if(key(9))
 		{
+			show_debug_message("Advancing to report level 4.");
 			sound(snd_select);
 			
 			if(reportItem > ds_list_size(global.loot)-2)
@@ -108,8 +113,4 @@ function reportBattle() {
 	{
 		endBattle();
 	}
-
-
-
-
 }

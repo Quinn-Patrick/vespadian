@@ -4,7 +4,7 @@ spr_ephemerisBattle
 75 
 86 
 92 
-50 
+90 
 59 
 60 
 99 

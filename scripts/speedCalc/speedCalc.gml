@@ -3,6 +3,7 @@ function speedCalc(argument0) {
 	outp = 0;
 	if(!is_undefined(ind))
 	{
+		show_debug_message("equipmentStats[6]: " + string(global.equipmentStats[6]));
 		if(!checkAbField(ind, 1))outp = round(((ind.agi)))+global.equipmentStats[6];
 		else outp = round(((ind.str)))+global.equipmentStats[6];
 		if(is_struct(ind)){

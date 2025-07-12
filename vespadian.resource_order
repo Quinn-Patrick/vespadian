@@ -995,6 +995,8 @@
     {"name":"getPowerDescription","order":4,"path":"scripts/getPowerDescription/getPowerDescription.yy",},
     {"name":"getPowerName","order":3,"path":"scripts/getPowerName/getPowerName.yy",},
     {"name":"getStatName","order":25,"path":"scripts/getStatName/getStatName.yy",},
+    {"name":"getTotalEquipmentAtkBonus","order":30,"path":"scripts/getTotalEquipmentAtkBonus/getTotalEquipmentAtkBonus.yy",},
+    {"name":"getTotalStatEquipmentBonus","order":31,"path":"scripts/getTotalStatEquipmentBonus/getTotalStatEquipmentBonus.yy",},
     {"name":"giveItem","order":2,"path":"scripts/giveItem/giveItem.yy",},
     {"name":"gotoBattle","order":25,"path":"scripts/gotoBattle/gotoBattle.yy",},
     {"name":"grandHealAnim","order":64,"path":"scripts/grandHealAnim/grandHealAnim.yy",},

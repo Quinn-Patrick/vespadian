@@ -20,6 +20,4 @@ spr_jupiterMan
 0 
 0 
 0 
-0 
-abilities
-powers
+0

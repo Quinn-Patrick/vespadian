@@ -297,7 +297,7 @@ function powerChoose(argument0, argument1) {
 		break;
 	
 		case 324:
-		ret = cmd_goodStatus(commandUser, 22, -0.5);
+		ret = cmd_goodStatus(commandUser, 22, -0.8);
 		if(ret != -1) global.turnPhase = 2;
 		break;
 	

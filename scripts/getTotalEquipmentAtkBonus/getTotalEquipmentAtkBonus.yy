@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"getTotalEquipmentAtkBonus",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"getTotalEquipmentAtkBonus",
+  "parent":{
+    "name":"stats",
+    "path":"folders/Scripts/stats.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

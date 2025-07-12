@@ -1696,6 +1696,8 @@
     {"id":{"name":"getPowerDescription","path":"scripts/getPowerDescription/getPowerDescription.yy",},},
     {"id":{"name":"getPowerName","path":"scripts/getPowerName/getPowerName.yy",},},
     {"id":{"name":"getStatName","path":"scripts/getStatName/getStatName.yy",},},
+    {"id":{"name":"getTotalEquipmentAtkBonus","path":"scripts/getTotalEquipmentAtkBonus/getTotalEquipmentAtkBonus.yy",},},
+    {"id":{"name":"getTotalStatEquipmentBonus","path":"scripts/getTotalStatEquipmentBonus/getTotalStatEquipmentBonus.yy",},},
     {"id":{"name":"giveItem","path":"scripts/giveItem/giveItem.yy",},},
     {"id":{"name":"gotoBattle","path":"scripts/gotoBattle/gotoBattle.yy",},},
     {"id":{"name":"grandHealAnim","path":"scripts/grandHealAnim/grandHealAnim.yy",},},

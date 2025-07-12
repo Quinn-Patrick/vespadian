@@ -3,16 +3,21 @@ function waitCalc(argument0) {
 
 	if(!is_undefined(ind))
 	{
+		show_debug_message(ind.name + " speed " + string(ind.spd) + ", ");
 		if(ind.spd > 20){
 			hello = power(ind.spd-20, -0.6*sqrt(ind.spd-20));
-			return round(300*(power(ind.spd-20, -0.06*sqrt(ind.spd-20))));
+			show_debug_message("wait " + string(round(300*(power(ind.spd-20, -0.03*sqrt(ind.spd-20))))) + ", ");
+			return round(300*(power(ind.spd-20, -0.03*sqrt(ind.spd-20))));
 		}
-		else return round(300+(sqr(ind.spd-22)));
+		else {
+			show_debug_message("wait " + string(round(300+(sqr(ind.spd-22)))) + ", ");
+			return round(300+(sqr(ind.spd-22)));
+		}
 		//return round(((-sqrt(ind.spd))*10)+120);
 	}
 	else
 	{
-		if(ind.spd > 20)return round(300*(power(ind.spd-20, -0.05*sqrt(ind.spd-20))));
+		if(ind.spd > 20)return round(300*(power(ind.spd-20, -0.03*sqrt(ind.spd-20))));
 		else return round(300+(sqr(ind.spd-22)));
 		//return round(((-sqrt(ind.spd))*10)+120);
 	}

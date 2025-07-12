@@ -1,5 +1,6 @@
-/// @description Insert description here
-// You can write your code in this editor
+//Camera control. It needs to be in end step, or else the
+//player walks their speed ahead of the camera which
+//looks like crap.
 
 if(global.control){
 	target = obj_player;

@@ -23,7 +23,7 @@ function cmd_slow(argument0) {
 	{
 	
 		damage = 0;
-		if(!statContest(user, target, user.mAtkEff, target.wis, 5, 0)) applyStatus(target, 22, 0.5);
+		if(!statContest(user, target, user.mAtkEff, target.wis, 5, 0)) applyStatus(target, 22, 0.8);
 		if(global.multicast > 0){
 			ds_stack_push(global.actionBuffer, global.currentPower);
 			global.targStore = target;

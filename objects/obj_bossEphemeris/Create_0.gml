@@ -19,7 +19,7 @@ portrait = spr_portPlaceholder;
 str = 75;
 frt = 86;
 dex = 92;
-agi = 50;
+agi = 90;
 int = 59;
 wis = 60;
 cha = 99;
@@ -67,6 +67,7 @@ ds_list_add(powers, 340); //9 plasma storm
 ds_list_add(powers, 217); //10 holy judgment
 //ds_list_add(powers, 310);
 setEnStats(id);
+
 //ds_list_add(powers, 402);
 
 //initialize status conditions

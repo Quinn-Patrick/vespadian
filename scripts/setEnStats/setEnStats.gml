@@ -1,9 +1,7 @@
 function setEnStats(argument0) {
 	indiId = argument0;
 
-
 	shake = 0;
-	
 	
 	eqStatsTot[27] = 0;
 
@@ -11,7 +9,11 @@ function setEnStats(argument0) {
 	
 	gettingHit = 0;
 	
-	enemyFile = file_text_open_read("files/enemies/"+object_get_name(indiId.object_index)+"0.txt");
+	fileName = "files/enemies/"+object_get_name(indiId.object_index)+"0.txt";
+	
+	show_debug_message("Opening file " + fileName);
+	
+	enemyFile = file_text_open_read(fileName);
 	
 	indiId.name = cleanString(file_text_readln(enemyFile));
 	indiId.sprite_index = asset_get_index(cleanString(file_text_readln(enemyFile)));
@@ -57,7 +59,13 @@ function setEnStats(argument0) {
 		if(next = "abilities")
 		{
 			targetList = indiId.abis;			
-			ds_list_add(indiId.abis, real(file_text_readln(enemyFile)));
+			/*var ability = string_trim_end(file_text_readln(enemyFile));
+			show_debug_message("Found ability: " + ability);
+			if(string_digits(ability) == string(ability)){
+				show_debug_message("Ability is valid");
+				ds_list_add(indiId.abis, real(file_text_readln(enemyFile)));
+			}
+			show_debug_message("string_digits ability is " + string_digits(ability));*/
 		}
 		else if(next = "powers")
 		{
@@ -71,11 +79,14 @@ function setEnStats(argument0) {
 	
 	eqSet(id);
 	
-	
-	for(i = 0; i < 28; i++)
-	{
-		eqStatsTot[i] = eqStats[0,i]+eqStats[1,i]+eqStats[2,i]+eqStats[3,i]+eqStats[4,i]+eqStats[5,i];
-	}
+	/*for(i = 0; i < 6; i++){
+		show_debug_message("equipmentStats[" + string(i) + "] = " + string(global.equipmentStats[i]));
+		for(j = 0; j < 28; j++)
+		{
+			show_debug_message("Item dat is " + string(getItemDat(indiId.eq[i], j+4)));
+			global.equipmentStats[i] += getItemDat(indiId.eq[i], j+4);
+		}
+	}*/
 
 	indiId.pAtk = pAtkCalc(indiId);
 	indiId.pDef = pDefCalc(indiId);
@@ -109,25 +120,20 @@ function setEnStats(argument0) {
 			break;
 		}
 	}
-
-
-
-	//powers[1] = 0;
-
-	//powers[0] = 401;
-	//powers[1] = 402;
-
-	//initialize status conditions
-	/*for(i = 50; i > 0; i--)
-	{
-		conds[i] = 0;
+	
+	show_debug_message("Abilities list is:");
+	for(var n = 0; n < ds_list_size(indiId.abis); n++){
+		show_debug_message(ds_list_find_value(indiId.abis, n));
 	}
-
-
-
-	//roll initiative
-	//init = irandom_range(1,wait);
-	*/
-
-
+	
+	show_debug_message(indiId.name + " stats: ");
+	show_debug_message("Strength: " + string(indiId.str));
+	show_debug_message("Fortitude: " + string(indiId.frt));
+	show_debug_message("Dexterity: " + string(indiId.dex));
+	show_debug_message("Agility: " + string(indiId.agi));
+	show_debug_message("Intellect: " + string(indiId.int));
+	show_debug_message("Wisdom: " + string(indiId.wis));
+	show_debug_message("Charisma: " + string(indiId.cha));
+	show_debug_message("Spirit: " + string(indiId.spr));
+	show_debug_message("Speed: " + string(indiId.spd));
 }
