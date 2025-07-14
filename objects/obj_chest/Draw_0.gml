@@ -3,8 +3,8 @@ if(interact(gridx, gridy)&&!global.inDial && !global.chests[chestNum] && worldLa
     global.inDial = true;
 	sound(snd_open);
     state = 1;
-	send_check(chestNum + 1000);
-    //if(!keepItem(chestCont))stockItem(chestCont, 1);
+    if(!global.archipelago && !keepItem(chestCont))stockItem(chestCont, 1);
+	else send_check(chestNum + 1000);
 	global.chests[chestNum] = true;
 }
 if(global.inDial == true && state == 1)

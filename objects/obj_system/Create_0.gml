@@ -2,6 +2,7 @@
 // You can write your code in this editor
 /// initialize
 depth = -1000;
+global.archipelago = true;
 
 
 noEncounterTiles = ds_list_create();

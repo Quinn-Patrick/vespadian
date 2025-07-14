@@ -1,3 +1,5 @@
+if(!global.archipelago) instance_destroy(self);
+
 global.socket = network_create_socket(network_socket_ws)
 global.name = "Vespadian"
 global.server = "127.0.0.1"

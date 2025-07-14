@@ -26,6 +26,7 @@ if(!global.events[442]){
 	if(state == 2){
 		stockItem(1409,1);
 		global.events[442] = true;
+		if(global.archipelago) send_check(2442);
 		instance_destroy(self);
 	}
 	if(dir == 0){
