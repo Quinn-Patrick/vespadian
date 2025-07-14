@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"vespadian",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -42,6 +42,7 @@
     {"$GMFolder":"","%Name":"event","folderPath":"folders/Scripts/event.yy","name":"event","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"actor","folderPath":"folders/Scripts/event/actor.yy","name":"actor","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Stage Directions","folderPath":"folders/Scripts/event/Stage Directions.yy","name":"Stage Directions","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"archipelago","folderPath":"folders/Scripts/archipelago.yy","name":"archipelago","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"itemsAndEquipment","folderPath":"folders/Scripts/itemsAndEquipment.yy","name":"itemsAndEquipment","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"battleItemScripts","folderPath":"folders/Scripts/itemsAndEquipment/battleItemScripts.yy","name":"battleItemScripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"menuItemScripts","folderPath":"folders/Scripts/itemsAndEquipment/menuItemScripts.yy","name":"menuItemScripts","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -86,6 +87,7 @@
     {"$GMFolder":"","%Name":"overlays","folderPath":"folders/Tile Sets/overlays.yy","name":"overlays","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"abilities.txt","CopyToMask":-1,"filePath":"datafiles/files","name":"abilities.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"bard.txt","CopyToMask":-1,"filePath":"datafiles/files/classes","name":"bard.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
@@ -668,7 +670,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"vespadian",
   "resources":[
@@ -971,6 +973,7 @@
     {"id":{"name":"obj_mythrilGolem","path":"objects/obj_mythrilGolem/obj_mythrilGolem.yy",},},
     {"id":{"name":"obj_nebulaObservationist","path":"objects/obj_nebulaObservationist/obj_nebulaObservationist.yy",},},
     {"id":{"name":"obj_necroBreathParticle","path":"objects/obj_necroBreathParticle/obj_necroBreathParticle.yy",},},
+    {"id":{"name":"obj_networking","path":"objects/obj_networking/obj_networking.yy",},},
     {"id":{"name":"obj_nightmareRake","path":"objects/obj_nightmareRake/obj_nightmareRake.yy",},},
     {"id":{"name":"obj_nightOverlay","path":"objects/obj_nightOverlay/obj_nightOverlay.yy",},},
     {"id":{"name":"obj_npc1backStatue","path":"objects/obj_npc1backStatue/obj_npc1backStatue.yy",},},
@@ -1672,6 +1675,7 @@
     {"id":{"name":"gameOver","path":"scripts/gameOver/gameOver.yy",},},
     {"id":{"name":"gauss","path":"scripts/gauss/gauss.yy",},},
     {"id":{"name":"generateSortedInventory","path":"scripts/generateSortedInventory/generateSortedInventory.yy",},},
+    {"id":{"name":"get_name","path":"scripts/get_name/get_name.yy",},},
     {"id":{"name":"getAbilityCost","path":"scripts/getAbilityCost/getAbilityCost.yy",},},
     {"id":{"name":"getAbilityDescription","path":"scripts/getAbilityDescription/getAbilityDescription.yy",},},
     {"id":{"name":"getAbilityName","path":"scripts/getAbilityName/getAbilityName.yy",},},
@@ -1818,6 +1822,7 @@
     {"id":{"name":"scoreGrowth","path":"scripts/scoreGrowth/scoreGrowth.yy",},},
     {"id":{"name":"searchSortedInventory","path":"scripts/searchSortedInventory/searchSortedInventory.yy",},},
     {"id":{"name":"selfFlank","path":"scripts/selfFlank/selfFlank.yy",},},
+    {"id":{"name":"send_check","path":"scripts/send_check/send_check.yy",},},
     {"id":{"name":"sendMessage","path":"scripts/sendMessage/sendMessage.yy",},},
     {"id":{"name":"sendTargetToken","path":"scripts/sendTargetToken/sendTargetToken.yy",},},
     {"id":{"name":"serializeCharacter","path":"scripts/serializeCharacter/serializeCharacter.yy",},},
@@ -1856,6 +1861,7 @@
     {"id":{"name":"turnRemove","path":"scripts/turnRemove/turnRemove.yy",},},
     {"id":{"name":"turnSort","path":"scripts/turnSort/turnSort.yy",},},
     {"id":{"name":"turnSwap","path":"scripts/turnSwap/turnSwap.yy",},},
+    {"id":{"name":"update_obtains","path":"scripts/update_obtains/update_obtains.yy",},},
     {"id":{"name":"updateFieldAbilities","path":"scripts/updateFieldAbilities/updateFieldAbilities.yy",},},
     {"id":{"name":"updateSoundLog","path":"scripts/updateSoundLog/updateSoundLog.yy",},},
     {"id":{"name":"validPlayerTargetList","path":"scripts/validPlayerTargetList/validPlayerTargetList.yy",},},

@@ -8,7 +8,7 @@ global.roomType = 0;
 global.battleBackground = bg_waterfallShrine;
 global.mainBgm = mus_dreams;
 global.musicCategory = 0;
-global.inGameRoomName = "Waterfall Temple West Corridor";
+global.inGameRoomName = "Waterfall Temple Altar";
 
 global.teleportRoom = rm_worldMap3;
 global.teleportX = 89;

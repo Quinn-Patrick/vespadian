@@ -8,7 +8,7 @@ global.roomType = 0;
 global.battleBackground = bg_starcrossedCitadel;
 global.mainBgm = mus_dungeon1;
 global.musicCategory = 0;
-global.inGameRoomName = "Starcrossed Citadel Outer Garrison";
+global.inGameRoomName = "Starcrossed Citadel Outer Wall";
 
 global.teleportRoom = rm_worldMap3;
 global.teleportX = 89;

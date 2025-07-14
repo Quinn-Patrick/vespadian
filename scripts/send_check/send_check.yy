@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"send_check",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"send_check",
+  "parent":{
+    "name":"archipelago",
+    "path":"folders/Scripts/archipelago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

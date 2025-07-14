@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"update_obtains",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"update_obtains",
+  "parent":{
+    "name":"archipelago",
+    "path":"folders/Scripts/archipelago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

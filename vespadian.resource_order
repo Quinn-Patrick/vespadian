@@ -1,5 +1,7 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"archipelago","order":1,"path":"folders/Scripts/archipelago.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"compatibility_report_250318_1155445544","order":1,"path":"notes/compatibility_report_250318_1155445544/compatibility_report_250318_1155445544.yy",},
     {"name":"eff_barf","order":2,"path":"objects/eff_barf/eff_barf.yy",},
@@ -288,6 +290,7 @@
     {"name":"obj_mythrilGolem","order":147,"path":"objects/obj_mythrilGolem/obj_mythrilGolem.yy",},
     {"name":"obj_nebulaObservationist","order":76,"path":"objects/obj_nebulaObservationist/obj_nebulaObservationist.yy",},
     {"name":"obj_necroBreathParticle","order":19,"path":"objects/obj_necroBreathParticle/obj_necroBreathParticle.yy",},
+    {"name":"obj_networking","order":17,"path":"objects/obj_networking/obj_networking.yy",},
     {"name":"obj_nightmareRake","order":49,"path":"objects/obj_nightmareRake/obj_nightmareRake.yy",},
     {"name":"obj_nightOverlay","order":4,"path":"objects/obj_nightOverlay/obj_nightOverlay.yy",},
     {"name":"obj_npc1backStatue","order":77,"path":"objects/obj_npc1backStatue/obj_npc1backStatue.yy",},
@@ -971,6 +974,7 @@
     {"name":"gameOver","order":31,"path":"scripts/gameOver/gameOver.yy",},
     {"name":"gauss","order":7,"path":"scripts/gauss/gauss.yy",},
     {"name":"generateSortedInventory","order":25,"path":"scripts/generateSortedInventory/generateSortedInventory.yy",},
+    {"name":"get_name","order":1,"path":"scripts/get_name/get_name.yy",},
     {"name":"getAbilityCost","order":8,"path":"scripts/getAbilityCost/getAbilityCost.yy",},
     {"name":"getAbilityDescription","order":7,"path":"scripts/getAbilityDescription/getAbilityDescription.yy",},
     {"name":"getAbilityName","order":6,"path":"scripts/getAbilityName/getAbilityName.yy",},
@@ -1110,6 +1114,7 @@
     {"name":"scoreGrowth","order":7,"path":"scripts/scoreGrowth/scoreGrowth.yy",},
     {"name":"searchSortedInventory","order":3,"path":"scripts/searchSortedInventory/searchSortedInventory.yy",},
     {"name":"selfFlank","order":56,"path":"scripts/selfFlank/selfFlank.yy",},
+    {"name":"send_check","order":2,"path":"scripts/send_check/send_check.yy",},
     {"name":"sendMessage","order":45,"path":"scripts/sendMessage/sendMessage.yy",},
     {"name":"sendTargetToken","order":53,"path":"scripts/sendTargetToken/sendTargetToken.yy",},
     {"name":"serializeCharacter","order":5,"path":"scripts/serializeCharacter/serializeCharacter.yy",},
