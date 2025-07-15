@@ -3,6 +3,7 @@
 /// initialize
 depth = -1000;
 global.archipelago = true;
+global.lastItemSent = -1;
 
 
 noEncounterTiles = ds_list_create();

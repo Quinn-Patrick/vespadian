@@ -1,5 +1,5 @@
 if(!global.archipelago) instance_destroy(self);
-
+persistent = true;
 global.socket = network_create_socket(network_socket_ws)
 global.name = "Vespadian"
 global.server = "127.0.0.1"
@@ -9,7 +9,7 @@ global.password = ""
 global.secure = false
 
 global.lastPlayerSent = 0
-global.lastItemSent = 0
+global.lastItemSent = -1
 
 if global.server = "archipelago.gg" {
 		global.secure = true

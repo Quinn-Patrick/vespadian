@@ -115,6 +115,10 @@ function loadGame(argument0) {
 	calcParty();
 	file_text_close(loadFile);
 	
+	if(global.archipelago && global.networkObject == undefined){
+		instance_create_depth(0,0,0,obj_networking);
+	}
+	
 	return true;
 
 

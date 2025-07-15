@@ -2,6 +2,13 @@ function initialize() {
 	randomize();
 	//initialize global variables
 	
+	//Archipelago Related
+	global.archipelago = true;
+	global.lastItemSent = -1;
+	global.archipelagoIndex = 0;
+	global.networkObject = undefined;
+	/////////////////////
+	
 	global.uniClock = 0;
 
 	global.gameTime = 0;
