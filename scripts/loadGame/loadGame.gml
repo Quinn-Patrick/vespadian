@@ -110,13 +110,17 @@ function loadGame(argument0) {
 		{
 			ds_list_add(global.characterBench, deserializeCharacter(loadFile));
 		}
+		else if(next == 77)
+		{
+			global.archipelagoIndex = real(file_text_readln(loadFile));
+		}
 		calcBench();
 	}
 	calcParty();
 	file_text_close(loadFile);
 	
 	if(global.archipelago && global.networkObject == undefined){
-		instance_create_depth(0,0,0,obj_networking);
+		reconnect();
 	}
 	
 	return true;

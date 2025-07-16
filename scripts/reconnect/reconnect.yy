@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"reconnect",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"reconnect",
+  "parent":{
+    "name":"archipelago",
+    "path":"folders/Scripts/archipelago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

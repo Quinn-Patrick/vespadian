@@ -18,7 +18,7 @@ if global.server = "archipelago.gg" {
 
 ///@description Network connection data
 
-var APgame = "Vespadian" //Change this to whatever your game is, you shouldn't need to change it more than once.
+var APgame = "Vespadian"
 
 //Maybe you can optimize this better? it works already for what it needs to be.
 wss = network_socket_wss

@@ -1810,6 +1810,7 @@
     {"id":{"name":"readMap","path":"scripts/readMap/readMap.yy",},},
     {"id":{"name":"readPromptText","path":"scripts/readPromptText/readPromptText.yy",},},
     {"id":{"name":"readText","path":"scripts/readText/readText.yy",},},
+    {"id":{"name":"reconnect","path":"scripts/reconnect/reconnect.yy",},},
     {"id":{"name":"removeItem","path":"scripts/removeItem/removeItem.yy",},},
     {"id":{"name":"reportBattle","path":"scripts/reportBattle/reportBattle.yy",},},
     {"id":{"name":"res","path":"scripts/res/res.yy",},},

@@ -1104,6 +1104,7 @@
     {"name":"readMap","order":2,"path":"scripts/readMap/readMap.yy",},
     {"name":"readPromptText","order":4,"path":"scripts/readPromptText/readPromptText.yy",},
     {"name":"readText","order":3,"path":"scripts/readText/readText.yy",},
+    {"name":"reconnect","order":3,"path":"scripts/reconnect/reconnect.yy",},
     {"name":"removeItem","order":19,"path":"scripts/removeItem/removeItem.yy",},
     {"name":"reportBattle","order":30,"path":"scripts/reportBattle/reportBattle.yy",},
     {"name":"res","order":19,"path":"scripts/res/res.yy",},

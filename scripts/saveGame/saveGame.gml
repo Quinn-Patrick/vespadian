@@ -151,6 +151,11 @@ function saveGame(argument0) {
 	file_text_write_string(saveFile,room_get_name(global.teleTarget));
 	file_text_writeln(saveFile);
 	
+	file_text_write_string(saveFile,"M");
+	file_text_writeln(saveFile);
+	file_text_write_real(saveFile, global.archipelagoIndex);
+	file_text_writeln(saveFile);
+	
 	for(ca = 0; ca < ds_list_size(global.characterBench); ca++)
 	{
 		file_text_write_string(saveFile,"[");

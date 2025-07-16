@@ -6,10 +6,10 @@ if(interact(gridx, gridy)&&!global.inDial && !global.chests[chestNum] && worldLa
     if(!global.archipelago){
 		if(!keepItem(chestCont)){
 			stockItem(chestCont, 1);
-			global.chests[chestNum] = true;
 		}
 	}
 	else send_check(chestNum + 1000);
+	global.chests[chestNum] = true;
 }
 if(global.inDial == true && state == 1)
 {

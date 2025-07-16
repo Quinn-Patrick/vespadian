@@ -20,8 +20,9 @@ for (var i = 0; i < array_length(data); ++i)
 	if(struct_exists(data[i], "missing_locations")){
 		var missing_locations = data[i].missing_locations;
 		for(var j = 0; j < array_length(missing_locations); j++){
-			var location_index = missing_locations[i];
+			var location_index = missing_locations[j];
 			if(location_index < 2000){
+				//show_debug_message("Checking location index " + string(location_index - 1000) + "; global.chests is " + string(global.chests[location_index - 1000]));
 				if(global.chests[location_index - 1000]){
 					send_check(location_index);
 				}
@@ -47,13 +48,17 @@ for (var i = 0; i < array_length(data); ++i)
 		if (data[i].cmd = "ReceivedItems") {
 			if struct_exists(data[i], "items") {
 				show_debug_message("Found Items " + string(data[i].items));
+				var index = data[i].index;
+				show_debug_message("Packet index is " + string(index) + ", stored index is " + string(global.archipelagoIndex));
 				for (var ii = 0; ii < array_length(data[i].items); ++ii) {
 						//show_debug_message(data[i].items[ii])
 						//Variable used for get_name(), if you want you can change it.
 					playerSent = data[i].items[ii].player
-					if (playerSent >= 0) {
+					if (playerSent >= 0 && index >= global.archipelagoIndex) {
 						update_obtains(data[i].items[ii].item, playerSent, data[i].items[ii].location)
+						global.archipelagoIndex++;
 					}			
+					index++;
 				}
 			}
 		}
