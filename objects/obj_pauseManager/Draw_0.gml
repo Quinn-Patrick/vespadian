@@ -152,6 +152,10 @@ if(global.paused == 1)
 				{
 					menuLevel = 14;
 				}
+				else if(menuSelect[menuLevel,0] == 9)
+				{
+					menuLevel = 15;
+				}
 			}
 			if(key(10))
 			{
@@ -1908,7 +1912,7 @@ if(global.paused == 1)
 				draw_text_ext(xO + 64, yO+96+24+(24*20), "Game saved!", 16, SCREENW-128);				
 			}
 		}
-		if(menuLevel == 14)
+		else if(menuLevel == 14)
 		{
 			draw_text(xO + 64, yO + 64, "Adjust Volume");
 			draw_text(xO + 80, yO + 96, "Sound Effects");
@@ -1921,6 +1925,77 @@ if(global.paused == 1)
 			
 			if(menuSelect[menuLevel, 0] < 2) draw_sprite(spr_cursor, 0, xO + 32, yO + (menuSelect[menuLevel, 0]*48) + 96);
 			else draw_sprite(spr_cursor, 0, xO + 32, yO + (menuSelect[menuLevel, 0]*32) + 128);
+		}
+		else if(menuLevel == 15)
+		{
+			draw_text(xO + 64, yO + 64, "Archipelago Options");
+			draw_text(xO + 64, yO + 96, "Server");
+			draw_text(xO + 80, yO + 112, global.server);
+			draw_text(xO + 64, yO + 144, "Port");
+			draw_text(xO + 80, yO + 160, global.port);
+			
+			draw_text(xO + 64, yO + 192, "Player");
+			draw_text(xO + 80, yO + 208, global.name);
+			
+			draw_text(xO + 64, yO + 240, "Password");
+			draw_text(xO + 80, yO + 256, global.password);
+			draw_text(xO + 64, yO + 288, "Connect");
+			draw_sprite(spr_cursor, 0, xO + 32, yO + (menuSelect[menuLevel, 0]*48) + 96);
+			
+			if(instance_find(obj_textField, 0) == noone)
+			{
+				textInput = -1;
+			}
+			
+			if(textInput == -1){
+				if(key(5))
+				{
+					sound(snd_select)
+					menuSelect[menuLevel,0]--;
+					if(menuSelect[menuLevel,0]<0) 
+					{
+						menuSelect[menuLevel,0] = menuSize[menuLevel,0];
+					}
+				
+				}
+				else if (key(7))
+				{
+					sound(snd_select);
+					menuSelect[menuLevel,0]++;
+					if(menuSelect[menuLevel,0] > menuSize[menuLevel,0]) 
+					{
+						menuSelect[menuLevel,0] = 0;
+					}
+				}
+			
+				if(key(9))
+				{
+					if(menuSelect[menuLevel,0] < 4){
+						sound(snd_select);
+						textInput = instance_create_depth(0,0,-10000,obj_textField);
+						textInput.target = self;
+					}
+					else
+					{
+						reconnect();
+					}
+				}
+				if(key(10)){
+					sound(snd_select);
+					menuLevel = 0;
+				}
+			}
+			else
+			{
+				output = textInput.output;
+				switch(menuSelect[menuLevel,0])
+				{
+					case 0: global.server = output; break;
+					case 1: global.port = output; break;
+					case 2: global.name = output; break;
+					case 3: global.password = output; break;
+				}
+			}
 		}
 	}
 }

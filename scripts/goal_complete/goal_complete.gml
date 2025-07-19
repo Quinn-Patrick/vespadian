@@ -1,14 +1,14 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
-function send_check(check_id){
+function goal_complete(){
 	if(instance_find(obj_networking, 0) == noone){
 		return;
 	}
 	
-	show_debug_message("Sending check location " + string(check_id));
+	show_debug_message("Victory!");
 	var _contents = {
-		cmd: "LocationChecks",
-		locations: [int64(check_id)]	
+		cmd: "StatusUpdate",
+		status: 30
 	}
 	var arr = [_contents]
 
@@ -19,4 +19,5 @@ function send_check(check_id){
 	buffer_write(buffer,buffer_text,aa)
 
 	network_send_raw(global.socket, buffer, buffer_tell(buffer),network_send_text)
+
 }

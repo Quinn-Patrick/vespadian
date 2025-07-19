@@ -16,6 +16,9 @@ function displayPauseMenu(xOrigin, yOrigin){
 	draw_text(xOrigin + menuX, yOrigin + menuY+(menuSpace*7), "Save");
 	draw_set_color(global.textC[0]);
 	draw_text(xOrigin + menuX, yOrigin + menuY+(menuSpace*8), "Options");
+	if(global.archipelago){
+		draw_text(xOrigin + menuX, yOrigin + menuY+(menuSpace*9), "Archipelago");
+	}
 	draw_text(xOrigin + menuX, yOrigin + menuY+(menuSpace*12), "Gold: " + string(global.money));
 	if(global.minutes < 10) minString = "0" + string(global.minutes);
 	else minString = string(global.minutes);

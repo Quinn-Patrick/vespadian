@@ -19,6 +19,8 @@
 14
 3
 !
+sendCheck
+3000
 focus
 1
 music

@@ -1,3 +1,4 @@
+sinceLastPacket = 0;
 ///@desc Buffer loading & Receiving Items
 show_debug_message("Receiving packet.");
 //Loads the buffers and lists them out into a variable (Probably not useful for the most part, just there at this point for assurance.)
@@ -12,13 +13,19 @@ if(async_load[? "size"] > 0){
 buffer_seek(buff,buffer_seek_start,0)
 var data = json_parse(response)
 
-show_debug_message("Data is " + string(data));
+show_debug_message("******************************************");
+show_debug_message("Received Packet: " + string(data));
+show_debug_message("******************************************");
+
+
 //Locks the data needed for the next functions into an array.
 for (var i = 0; i < array_length(data); ++i)
 {
+	
 	//Send locations checked while disconnected
 	if(struct_exists(data[i], "missing_locations")){
 		var missing_locations = data[i].missing_locations;
+		
 		for(var j = 0; j < array_length(missing_locations); j++){
 			var location_index = missing_locations[j];
 			if(location_index < 2000){
@@ -55,6 +62,7 @@ for (var i = 0; i < array_length(data); ++i)
 						//Variable used for get_name(), if you want you can change it.
 					playerSent = data[i].items[ii].player
 					if (playerSent >= 0 && index >= global.archipelagoIndex) {
+						ds_list_add(messages, "You receieved " + getItemName(data[i].items[ii].item) + " from " + string(get_name(playerSent)));
 						update_obtains(data[i].items[ii].item, playerSent, data[i].items[ii].location)
 						global.archipelagoIndex++;
 					}			

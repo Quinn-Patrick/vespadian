@@ -7,6 +7,11 @@ function initialize() {
 	global.lastItemSent = -1;
 	global.archipelagoIndex = 0;
 	global.networkObject = undefined;
+	global.server = "127.0.0.1"
+	global.port = 38281
+	global.APgame = "Vespadian";
+	global.name = "";
+	global.password = ""
 	/////////////////////
 	
 	global.uniClock = 0;

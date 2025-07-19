@@ -44,6 +44,7 @@ ds_map_add(evCommands, "instaWalk", 21);
 ds_map_add(evCommands, "battleMusic", 22);
 ds_map_add(evCommands, "music", 23);
 ds_map_add(evCommands, "sound", 24);
+ds_map_add(evCommands, "sendCheck", 25);
 ds_map_add(evCommands, "end", -1)
 
 ds_map_add(evCommands, "0", 0);
@@ -71,6 +72,7 @@ ds_map_add(evCommands, "21", 21);
 ds_map_add(evCommands, "22", 22);
 ds_map_add(evCommands, "23", 23);
 ds_map_add(evCommands, "24", 24);
+ds_map_add(evCommands, "25", 25);
 ds_map_add(evCommands, "-1", -1);
 
 depth = -11001;

@@ -1,11 +1,11 @@
 function get_name(p_id){
 	//gets the same from the Player ID specified.
-if(async_load[? "size"] > 0){ //Checks the buffer
-	var buff = async_load[? "buffer"];
-	buffer_seek(buff,buffer_seek_start,0);
-	var response = buffer_read(buff,buffer_string)
-}
-		buffer_seek(buff,buffer_seek_start,0)
+	if(async_load[? "size"] > 0){ //Checks the buffer
+		var buff = async_load[? "buffer"];
+		buffer_seek(buff,buffer_seek_start,0);
+		var response = buffer_read(buff,buffer_string)
+	}
+	buffer_seek(buff,buffer_seek_start,0)
 	var data = json_parse(response)
 
 	for (var i = 0; i < array_length(data); ++i)

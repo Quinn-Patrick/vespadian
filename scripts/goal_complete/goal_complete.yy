@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"goal_complete",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"goal_complete",
+  "parent":{
+    "name":"archipelago",
+    "path":"folders/Scripts/archipelago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

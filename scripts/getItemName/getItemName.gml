@@ -1,6 +1,7 @@
 // Script assets have changed for v2.3.0 see
 // https://help.yoyogames.com/hc/en-us/articles/360005277377 for more information
 function getItemName(itemId){
+	if(itemId == 1664) return "Victory";
 	return getItemDat(itemId, -1);
 	
 	/*output = ds_map_find_value(global.itemNames, itemId);

@@ -65,6 +65,7 @@ if(actOver){
 		case(22): actData[0] = string(file_text_readln(evFile)); break;
 		case(23): actData[0] = string(file_text_readln(evFile)); break;
 		case(24): actData[0] = string(file_text_readln(evFile)); break;
+		case(25): actData[0] = string(file_text_readln(evFile)); break;
 		case(-1): instance_destroy(self);
 	}
 }
@@ -85,7 +86,7 @@ switch(actionNum){
 	case(13): actOver = act_movePlayer(actData[0], actData[1]) break;
 	case(14): actOver = act_effect(actData[0], actData[1], actData[2], actData[3]) break;
 	case(15): actOver = act_camp(actData[0], actData[1], actData[2]) break;
-	case(16): actOver = act_worldMap(actData[0], actData[1]) break;
+	//case(16): actOver = act_worldMap(actData[0], actData[1]) break;
 	case(17): actOver = act_unsetFlag(actData[0]); break;
 	case(18): actOver = act_overlay(actData[0]); break;
 	case(19): actOver = act_giveItem(actData[0], actData[1]); break;
@@ -94,6 +95,7 @@ switch(actionNum){
 	case(22): actOver = act_setBattleBgm(actData[0]); break;
 	case(23): actOver = act_setMainBgm(actData[0]); break;
 	case(24): actOver = act_playSound(actData[0]); break;
+	case(25): actOver = act_sendCheck(actData[0]); break;
 	case(-1): instance_destroy(self);
 }
 

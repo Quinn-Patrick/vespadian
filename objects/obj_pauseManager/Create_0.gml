@@ -10,6 +10,7 @@ roomTime = 0;
 
 menuLevel = 0;
 
+menuSelect[15,0] = 0;
 menuSelect[14,0] = 0;
 menuSelect[13,0] = 0;
 menuSelect[11,0] = 0;
@@ -33,6 +34,7 @@ menuSelect[2,2] = 0;
 menuSelect[2,3] = 0;
 menuSelect[2,4] = 0;
 
+menuSize[15,0] = 4;
 menuSize[14,0] = 3;
 menuSize[13,0] = 255;
 menuSize[11,0] = 3;
@@ -42,7 +44,7 @@ menuSize[4,0] = 3;
 menuSize[3,0] = 3;
 menuSize[2,0] = 255;
 menuSize[1,0] = 11;
-menuSize[0,0] = 8;
+menuSize[0,0] = 9;
 	
 menuSize[2,1] = 0;
 menuSize[1,1] = 1;
@@ -79,6 +81,8 @@ spellMode = 0; //used only for teleport right now, asks the player if they are s
 quitMode = 0; //used for the quit game options in the settings menu
 
 teleportYN = 0;
+
+textInput = -1;
 
 //equipment switching stuff
 for(bd = 15; bd > -1; bd--)
