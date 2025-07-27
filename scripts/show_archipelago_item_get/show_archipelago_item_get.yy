@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"show_archipelago_item_get",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"show_archipelago_item_get",
+  "parent":{
+    "name":"archipelago",
+    "path":"folders/Scripts/archipelago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

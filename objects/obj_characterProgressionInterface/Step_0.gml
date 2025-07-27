@@ -11,6 +11,9 @@ if(!is_undefined(char)){
 			if(char.xp > global.xpThresholds[global.levelCap]){
 				char.xp = global.xpThresholds[global.levelCap];
 			}
+			if(char.classLevels[char.class] >= 50){
+				char.xp = global.xpThresholds[char.level];
+			}
 			while(char.xp >= global.xpThresholds[char.level+1])
 			{
 				ds_list_add(progressionMessages, "Grew to level " + string(char.level + 1) + "!");
@@ -21,7 +24,7 @@ if(!is_undefined(char)){
 		}
 		initialized = true;
 	}
-	if(char.level == global.levelCap || char.classLevels[char.class] == 50){
+	if(char.level == global.levelCap || char.classLevels[char.class] >= 50){
 		endXp = startXp;
 	}
 	

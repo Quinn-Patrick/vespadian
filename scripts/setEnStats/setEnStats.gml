@@ -11,7 +11,6 @@ function setEnStats(argument0) {
 	
 	fileName = "files/enemies/"+object_get_name(indiId.object_index)+"0.txt";
 	
-	show_debug_message("Opening file " + fileName);
 	
 	enemyFile = file_text_open_read(fileName);
 	
@@ -120,20 +119,4 @@ function setEnStats(argument0) {
 			break;
 		}
 	}
-	
-	show_debug_message("Abilities list is:");
-	for(var n = 0; n < ds_list_size(indiId.abis); n++){
-		show_debug_message(ds_list_find_value(indiId.abis, n));
-	}
-	
-	show_debug_message(indiId.name + " stats: ");
-	show_debug_message("Strength: " + string(indiId.str));
-	show_debug_message("Fortitude: " + string(indiId.frt));
-	show_debug_message("Dexterity: " + string(indiId.dex));
-	show_debug_message("Agility: " + string(indiId.agi));
-	show_debug_message("Intellect: " + string(indiId.int));
-	show_debug_message("Wisdom: " + string(indiId.wis));
-	show_debug_message("Charisma: " + string(indiId.cha));
-	show_debug_message("Spirit: " + string(indiId.spr));
-	show_debug_message("Speed: " + string(indiId.spd));
 }

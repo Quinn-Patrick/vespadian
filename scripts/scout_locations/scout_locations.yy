@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"scout_locations",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"scout_locations",
+  "parent":{
+    "name":"archipelago",
+    "path":"folders/Scripts/archipelago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

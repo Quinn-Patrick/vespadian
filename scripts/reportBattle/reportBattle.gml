@@ -34,11 +34,11 @@ function reportBattle() {
 			for(al = 0; al < ds_list_size(global.ally); al++)
 			{
 				reportLevelUp[al] = false;
-				if(global.ally[| al].conds[0] == 0)
+				/*if(global.ally[| al].conds[0] == 0)
 				{
 					if(gainXp(global.ally[| al].num, global.xpTot))
 						reportLevelUp[al] = true;
-				}
+				}*/
 			}
 			reportSublevel = 0;
 		}
@@ -85,7 +85,6 @@ function reportBattle() {
 	}
 	else if(reportLevel == 3)
 	{
-		show_debug_message("Report level is 3.");
 		if(ds_list_size(global.loot) == 0)
 			reportLevel++
 	
@@ -93,7 +92,6 @@ function reportBattle() {
 		battleMessage("Found: " + string(itemN));
 		if(key(9))
 		{
-			show_debug_message("Advancing to report level 4.");
 			sound(snd_select);
 			
 			if(reportItem > ds_list_size(global.loot)-2)

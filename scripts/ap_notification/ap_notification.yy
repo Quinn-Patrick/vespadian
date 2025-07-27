@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ap_notification",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ap_notification",
+  "parent":{
+    "name":"archipelago",
+    "path":"folders/Scripts/archipelago.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

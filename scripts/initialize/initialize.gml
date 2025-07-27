@@ -7,11 +7,16 @@ function initialize() {
 	global.lastItemSent = -1;
 	global.archipelagoIndex = 0;
 	global.networkObject = undefined;
-	global.server = "127.0.0.1"
-	global.port = 38281
+	global.server = "archipelago.gg"
+	global.port = 60936
 	global.APgame = "Vespadian";
-	global.name = "";
+	global.name = "Vespadian";
 	global.password = ""
+	global.playerNames = ds_map_create();
+	global.messageHandler = instance_create_depth(0,0,0,obj_apNotificationHandler);
+	global.messageHandler.persistent = true;
+	global.scoutedItems = ds_map_create();
+	global.apItemNames = ds_map_create();
 	/////////////////////
 	
 	global.uniClock = 0;

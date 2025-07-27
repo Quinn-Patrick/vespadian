@@ -2,6 +2,11 @@
 if(room == rm_titleDrop) instance_destroy();
 timer++;
 
+if(global.archipelago && !hasScouted){
+	scout_items();
+	hasScouted = true;
+}
+
 if(teleporting){
 	y -= floor(teleportSpeed/4);
 	teleportSpeed++;

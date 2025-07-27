@@ -3,6 +3,7 @@
 
 //truex = 0; //the actual x coord that the player appears at on the overworld
 //truey = 0; //ditto for y coord
+hasScouted = 0;
 depth = -1;
 instance_create_depth(x, y, 0, obj_camera);
 velo = 32/global.ovSp; //the number of pixels that the player will move per frame
@@ -46,3 +47,4 @@ layerChanging = 0;
 
 teleporting = false;
 teleportSpeed = 0;
+
